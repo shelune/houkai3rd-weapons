@@ -1,9 +1,27 @@
 [
     {
+        "name": "Oath of Judah",
+        "atk": "176",
+        "crit": "20",
+        "load": "14"
+    },
+    {
         "name": "PUSP45",
         "atk": "42",
         "crit": "4",
         "load": "3"
+    },
+    {
+        "name": "5th Sacred Relic",
+        "atk": "254",
+        "crit": "59",
+        "load": "18"
+    },
+    {
+        "name": "Holy Guns-Kallen",
+        "atk": "183",
+        "crit": "10",
+        "load": "12"
     },
     {
         "name": "Markov Type A",
@@ -18,27 +36,9 @@
         "load": "9"
     },
     {
-        "name": "5th Sacred Relic",
-        "atk": "254",
-        "crit": "59",
-        "load": "18"
-    },
-    {
         "name": "3rd Sacred Relic",
         "atk": "254",
         "crit": "59",
         "load": "18"
-    },
-    {
-        "name": "Oath of Judah",
-        "atk": "176",
-        "crit": "20",
-        "load": "14"
-    },
-    {
-        "name": "Holy Guns-Kallen",
-        "atk": "183",
-        "crit": "10",
-        "load": "12"
     }
 ]
