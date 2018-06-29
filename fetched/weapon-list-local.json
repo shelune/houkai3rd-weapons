@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Markov Type A",
+        "atk": "113",
+        "crit": "28",
+        "load": "9",
+        "description": "A heavy Honkai energy weapon produced by the Mikoyan Design Bureau. It was once a standard Soviet weapon , but now comes with a Honkai energy crystal shard . Its technology system is not of Schicksal nor of Anti-Entropy ."
+    },
+    {
+        "name": "5th Sacred Relic",
+        "atk": "254",
+        "crit": "59",
+        "load": "18",
+        "description": "Cluster Bomb"
+    },
+    {
+        "name": "PUSP45",
+        "atk": "42",
+        "crit": "4",
+        "load": "3",
+        "description": "Revolvers designed by the H & K Company specially for the military and law enforcement departments in the US. With a . 45 ACP caliber cartridge , it is extremely accurate and reliable in its performance ."
+    },
+    {
+        "name": "Artemis'Guardian",
+        "atk": "112",
+        "crit": "21",
+        "load": "9",
+        "description": "A pistol produced by the Schicksal 16 years ago. The words \" May the moonlight be with you , Kiana . Love , Siegfried , Cecilia , and Theresa \" are engraved on it in tiny text ."
+    },
+    {
+        "name": "Holy Guns-Kallen",
+        "atk": "183",
+        "crit": "10",
+        "load": "12",
+        "description": "A pistol produced a long time ago by someone in the Schicksal in remembrance of a certain Valkyrie. It now lies silently in the depths of the Schicksal Headquarters ."
+    },
+    {
+        "name": "3rd Sacred Relic",
+        "atk": "254",
+        "crit": "59",
+        "load": "18",
+        "description": "Increases physical damage by 30 % when Burst is triggered ."
+    },
+    {
+        "name": "Oath of Judah",
+        "atk": "176",
+        "crit": "20",
+        "load": "14",
+        "description": "A mega-weapon left over from the previous civilization era. It comes with the ultimate power of \" sealing \" . Once it is deployed , all enemies nearby will be imprisoned and unable to move , and their Honkai energy will be rendered"
+    }
+]
