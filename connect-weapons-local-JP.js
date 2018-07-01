@@ -26,7 +26,9 @@ let updateGlobalNames = async () => {
   let nameTranslations = await getFile(globalNames);
   let weaponListWithGlobalNames = weaponListJP.map(weapon => {
     let source = _.find(nameTranslations, (obj) => {return obj.url === weapon.url});
-    weapon.nameProposal = source.nameProposal;
+    weapon.name = source.nameProposal;
+    weapon.nameJP = source.name;
+    delete weapon.nameProposal;
     return weapon;
   });
   return weaponListWithGlobalNames;
@@ -45,12 +47,68 @@ let updateDescription = async (weaponList) => {
   return weaponListWithDescriptions;
 }
 
+let formatStats = (weaponList) => {
+  const statsToConvert = ['atk', 'crit', 'load', 'rank'];
+  return weaponList.map(weapon => {
+    statsToConvert.forEach(stat => {
+      weapon[stat] = parseInt(weapon[stat]);
+    });
+    return weapon;
+  });
+}
+
+let formatProperties = (weaponList) => {
+  return weaponList.map(weapon => {
+    const {
+      name, category, rank, 
+      atk, crit, load,
+      active_skill, passive_skill_1, passive_skill_2,
+      debuffs, elements,
+      description,
+      upgradeReq, upgrades,
+      url
+    } = weapon;
+    return {
+      name, category, rank,
+      atk, crit, load,
+      active: active_skill,
+      passive_1: passive_skill_1,
+      passive_2: passive_skill_2,
+      debuffs, elements,
+      description,
+      upgradeReq, upgrades,
+      referenceUrl: url
+    };
+  });
+}
+
+let formatUpgrades = (weaponList) => {
+  return weaponList.map(weapon => {
+    let target = {...weapon};
+    target.upgradeReq = {};
+    let upgradeItems = _.keys(target.upgrades);
+    let upgradeCount = target.upgrades[upgradeItems[0]] ? target.upgrades[upgradeItems[0]].requirement : [];
+    for (let i = 0; i < upgradeCount.length; i++) {
+      target.upgradeReq[`upgrade_${i + 1}`] = upgradeItems.map(item => {
+        return {
+          name: item,
+          img: target.upgrades[item].img,
+          count: isNaN(target.upgrades[item].requirement[i] * 1) ? 0 : parseInt(target.upgrades[item].requirement[i]),
+        }
+      })
+    }
+    return target;
+  });
+}
+
 updateGlobalNames().then(async weaponList => {
   let weaponListWithDescriptions = await updateDescription(weaponList);
-  fs.outputFile('./generated/weapon-list-global.json', JSON.stringify(weaponListWithDescriptions, null, 4), (err) => {
+  let weaponFormatted = formatUpgrades(formatStats(weaponListWithDescriptions));
+  let result = formatProperties(weaponFormatted)
+  fs.outputFile('./generated/weapon-list-global.json', JSON.stringify(result, null, 4), (err) => {
     if (err) {
       console.log('error when writing file out: ', err)
     }
   });
-  console.log('WRITING DONE', weaponListWithDescriptions);
+  console.log('WRITING DONE', weaponFormatted);
 })

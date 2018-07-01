@@ -90,7 +90,7 @@ let getUpgradeItems = async (url) => {
       const upgradeImg = $(row).find('td:first-child img').attr('src');
       upgrades[upgradeName] = {
         requirement: Array.from($(row).find('td:not(:first-child)')).map((cell, upgradeTime) => {
-          return {[`upgrade_${upgradeTime + 1}`]: !$(cell).text().match(/\d+/i) ? '?' : $(cell).text().match(/\d/i)[0]};
+          return !$(cell).text().match(/\d+/i) ? '?' : $(cell).text().match(/\d/i)[0];
         }),
         img: upgradeImg
       };
