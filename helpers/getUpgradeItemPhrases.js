@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const path = require('path');
 const _ = require('lodash');
 
-fs.readFile('./weapon-upgrades.json', 'utf8', function (err, data) {
+fs.readFile('./fetched/weapon-list-JP-RAW.json', 'utf8', function (err, data) {
   if (err) throw err;
   let weaponList = JSON.parse(data);
 

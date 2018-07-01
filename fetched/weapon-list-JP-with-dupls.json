@@ -78,15 +78,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Smashing Mjolnir to knockdown enemies, dealing physical damage 404%  based on attack power, and inflict vulnerable status to them, reduce defense power by 80%, last for 4.00 seconds (EP Consumption: 18 – Cooldown: 13s)",
-        "nameProposal": "Mjolnir",
-        "passive_skill_1": "Increase critical chance by 15%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "DEF down"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/86484",
@@ -172,17 +164,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/69729_i.png"
             }
-        },
-        "active_skill": "Fires off holy fire dealing 100% attack power + 2*1978 fire elemental damage. Apply a debuff that lowers enemy’s attack and movement speed by 30% and increase receiving all-damage by 15%. Holy fire deals 265 fire elemental damage per second with a 10% chance of apply stun status for 2.5 seconds.",
-        "nameProposal": "Fire Spark – Holy Judgement",
-        "passive_skill_1": "10% chance to inflict burn status per each 1.0 second to surrounding enemy, dealing  298 damage per each 0.5 second, last for 3.5 second. Increase all damage against burn status enemies by 18%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60447",
@@ -263,15 +245,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Possess a will-o’-the-wisp on enemy, last for 7.99 seconds. Possessed enemies and the surrounding area will receive 637 electric elemental damage every 0.5 seconds (EP Consumption: 16 – Cooldown: 25s)",
-        "nameProposal": "Demon Horn Thunder Dagger",
-        "passive_skill_1": "Gives 30% electric elemental damage. When in Burst mode,  on hit inflict enemy electric shock status​, increase incoming lightning elemental damage 59.8%, last for 7 seconds.",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109117",
@@ -281,13 +255,7 @@
         "category": "dual-gun",
         "load": "18",
         "crit": "27",
-        "upgrades": {},
-        "active_skill": "",
-        "nameProposal": "Phantom Colored Aria",
-        "passive_skill_1": "Increase character elemental damage dealt by 15%. Additionally, after tag-in, increase character all damage dealt by 50%, last for 5 seconds. This can only be triggered every 30 seconds after character perform tag-in\nPerforming ultimate attack resets this skill cooldown and the skill will be immediately in effect",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50630",
@@ -368,17 +336,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Deal 2,289 lightning elemental damage to targeted enemy surroundings, inflicting paralysis status to them, last for 4.00 seconds (EP Consumption: 16 – Cooldown: 18s)",
-        "nameProposal": "Super Railgun Hand Cannon",
-        "passive_skill_1": "On hit 3% chance to inflict paralysis status to the target, causing immobilize and unable to attack, last for 2.50 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "paralyze"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50632",
@@ -466,17 +424,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Call Meteor shower from the sky, last for 12 seconds, when the meteor explodes, deals  physical damage 90% based on attack power, inflict burn status, dealing 96 fire elemental damage pẻ every 0.5 seconds, last for 1.5 seconds (EP Consumption: 30 – Cooldown: 25s)",
-        "nameProposal": "Wings of Jingwei",
-        "passive_skill_1": "Attacking the same target for every 2.5 seconds gives additional 2.0% critical rate and 5.0% critical damage, stacks up to 20%  critical rate and 50% critical damage",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50019",
@@ -638,15 +586,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Fire a beam that turns into a stream of bullet raining from above to an area in front, dealing 9*59.8% attack power and inflict freeze status for 5 seconds (EP consumption: 16 – Cooldown:18s)",
-        "nameProposal": "Extraordinary Form – Hel Bow",
-        "passive_skill_1": "Increase critical rate increased by 5.0%, increase physical damage against stun and freeze status enemy by 40.0%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "freeze"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61810",
@@ -734,15 +674,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Kiana will jump back, leaving a bullet that will explode, deal physical damage 349% based on attack power,  and stun the enemies in the area for 4.49 seconds (EP Consumption: 14 – Cooldown: 16s)",
-        "nameProposal": "Energy Warper",
-        "passive_skill_1": "After performing space-time distortion, increases attack speed by 79.8%, critical rate by 24.9%,  last for 4 seconds. Only last in Space-time distortion.",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50643",
@@ -804,16 +736,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Inflict AOE float status to target while also apply space-time lock, last for 3.30 seconds (EP Consumption: 12 – Cooldown: 12s)",
-        "nameProposal": "Moon God Protection",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "float",
-            "decelerated"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/77333",
@@ -901,15 +824,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Fire 2 wind bullet in a straight line, each deal physical damage 110% based on attack power. On hit against enemy with bleed status regain 10 EP to wielder (EP consumption: 18 – Cooldown:0s)",
-        "nameProposal": "Original Fairy Bow",
-        "passive_skill_1": "Attack speed +25%, Movement speed +25%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bleed"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50635",
@@ -997,16 +912,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Release an area that freeze time and inflict weaken status ailment to a non-boss targeted enemy, reduce their attack power by 70%. Other non-targeted enemies now can’t be targeted and take less in coming damage. Effect lasts for 9.98 seconds (EP Consumption: 20 – Cooldown: 20s)",
-        "nameProposal": "Shennong Protection",
-        "passive_skill_1": "Increase 50% bonus damage to enemies with weakened status.",
-        "passive_skill_2": "",
-        "debuffs": [
-            "freeze",
-            "ATK down"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50634",
@@ -1094,17 +1000,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Deals flame wave explosions around self, inflict knock back status, each wave deal physical damage 115% based on attack power and inflict burn status, dealing 159 fire elemental damage every 0.5 seconds, last for 3.00 seconds (EP Consumption: 25 – Cooldown: 20s)",
-        "nameProposal": "Fafnir Explosion Flame",
-        "passive_skill_1": "Increase physical damage by 18% during Burst Mode.",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59935",
@@ -1192,15 +1088,157 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Deal 7 slashes to surrounding enemies, each slash deals physical damage 77% based on attack power, inflict bind status, last for 3.7 seconds (EP Consumption: 21 – Cooldown: 14s)",
-        "nameProposal": "Yae Spirit Gun",
-        "passive_skill_1": "When performing space-time distortion, inflict bleed to enemy, deal 47% physical damage every 0.5 seconds, last for 5.7 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bind"
-        ],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50639",
+        "name": "月神の守護",
+        "rank": "3",
+        "atk": "169",
+        "category": "dual-gun",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    }
+                ]
+            },
+            "Moon Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "Broken Handle": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/58404",
+        "name": "烈炎の破滅者",
+        "rank": "4",
+        "atk": "276",
+        "category": "dual-gun",
+        "load": "18",
+        "crit": "32",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Twin Moon Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51496_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50631",
@@ -1288,17 +1326,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Release an ice ball dragging enemies along its path, causing a large scale explosion in the end that inflict freeze status to the enemies within the explosion, dealing 846 ice elemental damage every 0.9 seconds, last for 3.99 seconds (EP Consumption: 20 – Cooldown: 20s)",
-        "nameProposal": "Light and Shadow",
-        "passive_skill_1": "Releases cold air when elite’s shield got broken by basic attack (branch attack and charged attack included), reduce movement speed and attack speed to the target and small surrounding enemies by  84%, last for 3.99 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "freeze"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59938",
@@ -1360,13 +1388,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Kallen Saint Gun",
-        "passive_skill_1": "When hit, absorb 40% damage, release a holy light, cooldown 15 seconds. Holy light deal physical damage 290% based on attack power, reduce enemy attack speed by 75% for 4.5 seconds.",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50642",
@@ -1516,15 +1538,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Shoot out a low-frequency sound, dealing 379% physical damage based on attack power, inflict 6 seconds weaken status to enemies, reduce their attack power by 60% (EP Consumption: 15 – Cooldown: 15s)",
-        "nameProposal": "Usurper Hand Cannon",
-        "passive_skill_1": "Increase ranged physical damage by 40%. Reduce damage dealt by 10% per every 1m further away from the enemy, up to 80%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "ATK down"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54226",
@@ -1586,17 +1600,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Fire 6 electronic bullets to the front, each deal 232 lightning damage, on hit inflict vulnerable status to the enemy, reducing their defense by 60%, last for 4 seconds (EP Consumption: 25 – Cooldown: 20s)",
-        "nameProposal": "Xuanyuan Pulse Pistol",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "DEF down"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50647",
@@ -1658,15 +1662,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
-        },
-        "active_skill": "Fire one bullet that inflict small AOE stun status, last for 2.99 seconds (EP Consumption: 7 – Cooldown: 12s)",
-        "nameProposal": "Colt Peacemaker",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50628",
@@ -1704,17 +1700,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
-        },
-        "active_skill": "forms a number of rising punches from the ground, each deal physical damage 50% based on attack power to the targeted enemy surroundings, inflict burn status to them, dealing 149 fire elemental damage per every 0.5 seconds, last for 2.10 seconds (EP Consumption: 25 – Cooldown: 10s)",
-        "nameProposal": "Dominator Gun",
-        "passive_skill_1": "Add additional 25 fire elemental damage on-hit",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50627",
@@ -1752,17 +1738,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
-        },
-        "active_skill": "Summon a whirlwind around self, dealing rapid attack to surrounding enemy, each attack deals 174 ice elemental damage. The whirlwind exlode when expires, dealing 300% physical damage, and inflicting 60% slowing moving speed and attack speed to the enemy, last for 1.50 seconds, Kiana can move during whirlwind duration (EP Consumption: 24 – Cooldown: 30s)",
-        "nameProposal": "Hurricane Revolver",
-        "passive_skill_1": "5% chance on-hit to increase moving speed by 100%, last for 4.50 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50644",
@@ -1824,15 +1800,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Fire Fairy Form I",
-        "passive_skill_1": "10% chance on hit to inflict burn status, deal 119 fire elemental damage per each 0.5 second, last for 2.06 second",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66350",
@@ -1894,13 +1862,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Dark Actor Pistol",
-        "passive_skill_1": "Increase physical ranged attack by 30%. Reduce damage dealt based on distance, each 1m further away, reduce 10% damage dealt, up to 80%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50645",
@@ -1962,17 +1924,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Fire a ball of fire, on hit deal physical damage 250% based on attack power, additionally inflict AOE burn status to enemy, deal 113 fire elemental damage per each 0.5 second, last for 3 second. Have 2 charges (EP Consumption: 18 – Cooldown: 12 seconds)",
-        "nameProposal": "Fire Fairy Form II",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50641",
@@ -2034,15 +1986,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Burning Wings",
-        "passive_skill_1": "6% on hit to deal an explosive attack, deal 476 AOE fire elemental damage",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50640",
@@ -2104,15 +2048,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Create a ring of fire around self, dealing 317 fire elemental damage per each 0.25 second, last for 6 seconds (EP Consumption: 12 – Cooldown: 18s)",
-        "nameProposal": "Fire Wheel Mosin Nagant",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54285",
@@ -2174,15 +2110,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Increase charge speed by 100%, last for 11.98 seconds (EP Consumption: 20 – Cooldown: 120 seconds)",
-        "nameProposal": "Phoenix Gun",
-        "passive_skill_1": "24.9%on hit to inflict burn status to target. deal 160 fire elemental damage per each 0.5 second, last for 2.5 seconds, cooldown 7 seconds.",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50636",
@@ -2562,13 +2490,69 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
-        },
-        "active_skill": "Fire one bullet that inflict small AOE 60% attack speed and movement speed reduction, last for 4.48 seconds (EP Consumption: 5 – Cooldown: 10s)",
-        "nameProposal": "Remodelled C – Anaconda",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50650",
+        "name": "Cアナコンダ改",
+        "rank": "2",
+        "atk": "128",
+        "category": "dual-gun",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Moon Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "?"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
+            },
+            "Twin Moon Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Aerostat": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50649",
@@ -2630,13 +2614,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "M1911",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50648",
@@ -2698,13 +2676,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Remodelled USP",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50651",
@@ -2744,13 +2716,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "USP45",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50661",
@@ -2919,13 +2885,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Create a field that grant squad member attack speed by 25%, movement speed by 20%, attack all-damage by 10%. Field last for 20 seconds (EP Consumption: 17 – Cooldown: 38s)",
-        "nameProposal": "Fairy Sword – Sylvan",
-        "passive_skill_1": "For each 10% extra movement speed, increase attack all-damage by 5%, stack up to 50%.  Increase movement speed by 30%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50659",
@@ -3006,13 +2966,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "3rd Sacred Relic",
-        "passive_skill_1": "",
-        "passive_skill_2": "During Burst Mode, Physical Damage +30%",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50656",
@@ -3100,15 +3054,88 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Create a 3.5m freezing AOE under wielder, last for 10.0 seconds, increase friendly unit’s ice elemental damage by 39.8%, enemies inside the area will be exploded with frostbite after 6 seconds, receive 975 ice elemetal damage (EP Consumption: 20 – Cooldown: 18s)",
-        "nameProposal": "Replica Spirit Sword – Freezing Cloudy",
-        "passive_skill_1": "Increase elemental damage by 14.9%. Every 5 seconds, the next attack will deal 1260 ice elemental damage within 5m radius. When equipped on Sakura – Unfogotten, performing a critical attack will gain 200KP",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "ice"
-        ]
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/60109",
+        "name": "模造霊刀・氷結曇天",
+        "rank": "4",
+        "atk": "265",
+        "category": "katana",
+        "load": "18",
+        "crit": "46",
+        "upgrades": {
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59468",
@@ -3206,15 +3233,7 @@
         "category": "katana",
         "load": "18",
         "crit": "24",
-        "upgrades": {},
-        "active_skill": "Summon Jizou Spirit, last for 39 seconds. When enter the battlefield, Jizou deal physical damage 300% based on attack power to enemy and its surrounding, inflict float status. Jizou’s pattern attack:",
-        "nameProposal": "Jizou Spirit",
-        "passive_skill_1": "Increase all-damage against float status enemy by 32%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "float"
-        ],
-        "elements": []
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54283",
@@ -3295,18 +3314,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Perform a series of multiple strikes, in total deals 400% damage to the surrounding enemies, inflict weaken status to the enemy that receive the last blow, decreasing defense power by 100%, for 5.99 seconds (EP Consumption: 20 – Cooldown: 18s)",
-        "nameProposal": "Heavenly Sword",
-        "passive_skill_1": "When attacked, strike lightning at attacking enemy, dealing 150% electric elemetal damage, paralyze for 1 second, cooldown 10 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "DEF down",
-            "ATK down"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/81265",
@@ -3394,15 +3402,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Summon an umbrella that shoot out crystal in a circular field, dealing physical damage based on 24* 30% attack power, reduce enemy caught in crystal field attack speed and movement speed by 40%, last for 5 seconds (EP Consumption: 16 – Cooldown: 18s)",
-        "nameProposal": "Promise After Rain",
-        "passive_skill_1": "Increase 20% physical damage against slowed enemy\nIncrease 20% all-damage when combo reaches 50",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50657",
@@ -3490,17 +3490,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Slash twice dealing 1911 lightning damage every time, bringing to paralysis for 2.5 seconds (EP Consumption: 20 – Cooldown: 15s)",
-        "nameProposal": "Magnetic Storm",
-        "passive_skill_1": "Increase lightning damage 40%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "paralyze"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/85982",
@@ -3588,15 +3578,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Spinning dealing multiple instance, total fire elemental based on 500% attack power. If taken damage during skill activation, deal another 200% fire elemental damage to attacker. Invulnerable during performing skill, grant a shield that can negate 1 instance source of damage after skill animation. Shield last for 5 seconds. (EP Consumption: 20 – Cooldown: 21)",
-        "nameProposal": "Demon Katana – Red Dyed Cherry Blossoms",
-        "passive_skill_1": "Increase fire elemental damage by Valkyrja by 40%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/68557",
@@ -3684,13 +3666,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Zouhou",
-        "passive_skill_1": "",
-        "passive_skill_2": "On hit,  8.0% chance to inflict AOE paralysis status, last for 3 seconds, cooldown 6 seconds",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59945",
@@ -3778,18 +3754,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Teleport to target enemy and inflict a small AOE bind, last for 4 seconds, reduce bound enemies’ defense power by 80%, dealing 233 electric elemental damage per every 0.5 second (EP Consumption: 14 – Cooldown: 11s)",
-        "nameProposal": "High Frequency Liston Knife",
-        "passive_skill_1": "When performing a critical, 50.0% chance to inflict knock up and lock time-space to enemy, last for 3 seconds,  6.02 seconds cooldown",
-        "passive_skill_2": "",
-        "debuffs": [
-            "DEF down",
-            "bind"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50658",
@@ -3877,17 +3842,95 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Release a wave of cold air, freeze enemy upon touched for 0.9 seconds, dealing 876.0588 ice elemental damge, wave last for 4.99 seconds (EP Consumption: 20 – Cooldown: 25s)",
-        "nameProposal": "Shadow Sword – Plasma",
-        "passive_skill_1": "Add 23 ice elemental damage for each attack",
-        "passive_skill_2": "",
-        "debuffs": [
-            "freeze"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/58100",
+        "name": "女力の剣",
+        "rank": "4",
+        "atk": "272",
+        "category": "katana",
+        "load": "18",
+        "crit": "38",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50660",
@@ -3975,15 +4018,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "Creates a red black hole, deal physical damage equal to 80% attack power to the enemies within the range, inflict bleed deals 298 damage per every 0.5 seconds for 4.59 seconds. When the black hole explode deal physical damage equal to 20% damage of attack power (EP Consumption: 20 – Cooldown: 20s).",
-        "nameProposal": "Reversal Force Uchigatana Type 11",
-        "passive_skill_1": "Increase 20% physical damage to enemies got space-time decelerated",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bleed"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50665",
@@ -4045,15 +4080,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Lightning Soul Miaodao",
-        "passive_skill_1": "Add 42 lightning damage into each attack",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50654",
@@ -4091,15 +4118,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
             }
-        },
-        "active_skill": "Release a whirlwind that interupt the enemies and pull them forward wielder, inflict stun for 1.50 seconds, dealing 448 physical damage (EP Consumption: 18 – Cooldown: 15s)",
-        "nameProposal": "Gluttony Settou",
-        "passive_skill_1": "Gain 4 EP upon 1 enemy take down",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/84300",
@@ -4255,15 +4274,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
             }
-        },
-        "active_skill": "Create a tornado, inflict knock-up to enemies upon touched, dealing 224 ice elemetal damage, reduce 80% attack speed and movement speed, tornado last for 1.80 seconds (EP Consumption: 20 – Cooldown: 25s)",
-        "nameProposal": "Gale Tachi",
-        "passive_skill_1": "On hit,  5.0% chance to increase movement speed by 100% for 4.5 seconds, 10 seconds cooldown",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50669",
@@ -4325,15 +4336,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "Slash using crystal energy, inflict AOE freeze status to enemy, last for 3.99 seconds (EP Consumption: 10 – Cooldown: 18 seconds)",
-        "nameProposal": "Reverse Crystal Blade Katana",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "freeze"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50670",
@@ -4395,13 +4398,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Pulse Tachi Type 19",
-        "passive_skill_1": "Reduce Skill EP Activation Cost by 22%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50666",
@@ -4463,17 +4460,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "Slash using heat energy, dealing physical damage 270% based on attack power while inflict burn status to enemy, deal 372 fire elemental damage per each 0.5 second, last for 4 seconds (EP Consumption: 14- Cooldown: 10s)",
-        "nameProposal": "Heat Cutting Blade",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50671",
@@ -4535,17 +4522,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "Summon 6 phantom blades, each deal 483 ice elemental damage, on hit reduce attack speed and movement speed by 70% last for 2.5 seconds (EP Consumption: 14 – Cooldown: 12s)",
-        "nameProposal": "Pulse Tachi Type 17",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54284",
@@ -4607,17 +4584,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "Slash using electricity, deal small AOE 744 lightning damage, inflict paralysis status, last for 2 seconds (EP Consumption: 10 – Cooldown: 15s)",
-        "nameProposal": "Thunder Roar",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "paralyze"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54282",
@@ -4679,15 +4646,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Phoenix Blade",
-        "passive_skill_1": "On hit add 36 fire elemental damage into each attack. When Kiana in squad, increase enemy burn status fire elemental damage by 18%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59937",
@@ -4749,17 +4708,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "Slash using ice energy, form a force field in front that when explode dealing 1017 ice elemental damage. Force field reduce enemy movement speed by 60%, last for 5 seconds (EP Consumption: 14 – Cooldown: 18s)",
-        "nameProposal": "Xuanyuan Pulse Tachi",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50664",
@@ -4883,15 +4832,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Endotherm Tachi",
-        "passive_skill_1": "When current EP is below 20%, increase physical damage by 17%. When current EP is above 80%, add 71 fire elemental into each attack",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50663",
@@ -4926,15 +4867,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
             }
-        },
-        "active_skill": "Summon a tornado, each hit deal 178 ice elemental damage (SP Consumption: 14 – Cooldown: 15 seconds)",
-        "nameProposal": "Alloyed Gale Tachi",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50667",
@@ -5217,13 +5150,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
             }
-        },
-        "active_skill": "Summon a whirlwind that pull enemy towards wielder, dealing 317 physical damage each hit (EP Consumption: 10 – Cooldown: 15)",
-        "nameProposal": "Alloyed Gluttony Settou",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50668",
@@ -5285,15 +5212,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
-        },
-        "active_skill": "Slash 7-strike slash to enemy and its surrounding, each strike deal physical damage 50% based on attack power, apply bind status to enemy at center (EP Consumption: 18 – Cooldown: 10s)",
-        "nameProposal": "Crimson Cherry Blossoms",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bind"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50672",
@@ -5355,13 +5274,69 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
-        },
-        "active_skill": "Perform a slash in a wide angle, deal physical damage 249% based on attack power (EP Consumption: 9 – Cooldown: 7s)",
-        "nameProposal": "Composite Katana – Yanagiba",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50675",
+        "name": "複合刀柳葉",
+        "rank": "2",
+        "atk": "128",
+        "category": "katana",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Ocean Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "?"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51520_i.png"
+            },
+            "Twin Ocean's Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51512_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50676",
@@ -5423,15 +5398,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
-        },
-        "active_skill": "Summon a wave of flame, deal physical damage 100% based on attack power + 284 fire elemental damage to enemy (EP Consumption 10 – Cooldown 7)",
-        "nameProposal": "Composite Katana – Vermilion Bird",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50673",
@@ -5493,13 +5460,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Demon Katana – Uson",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50674",
@@ -5561,13 +5522,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Horikawa Kunihiro",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50677",
@@ -5607,13 +5562,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Seishuu Muramasa",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/64775",
@@ -5701,15 +5650,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Perform a 3-times-charge shoot at the enemies, damaged enemies will be put into bleed state, taking 313 physical damage per every 0.5 second, last for 7 seconds (SP Consumption: 19 – Cooldown: 9 seconds)",
-        "nameProposal": "Týr Arm",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bleed"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61656",
@@ -5790,13 +5731,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Increase charge speed by 100%, last for 11.98 seconds (EP Consumption: 20 – Cooldown: 120 seconds)",
-        "nameProposal": "Sanada Fire Katana",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50687",
@@ -5877,13 +5812,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "5th Sacred Relic",
-        "passive_skill_1": "Based on charging level, when missle explode, create 2/4/9 mini bombs, each dealing 30% physical damage",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50685",
@@ -5971,16 +5900,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Set a space-time trap area in front. Enemies caught within trap will be time-space decelerated, reduce def power by 50%, trap last for 6.19 seconds (EP Consumption: 18 – Cooldown: 24 seconds)",
-        "nameProposal": "Original Hekatonkheires",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "DEF down",
-            "decelerated"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/71096",
@@ -6068,18 +5988,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Shoot 18 missiles straight forward. Each missile deal physical damage 74.9% based on attack power and inflict float status. Furthermore inflict burn status to enemy, deal 599 fire elemental damage per each 0.5 second, last for 4 seconds (EP Consumption: 25 – Cooldown: 12 seconds)",
-        "nameProposal": "Star Destroyer 19c",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn",
-            "float"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61097",
@@ -6167,13 +6076,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "This weapon can switch between 3 modes: fire, electric, ice. Each form has its own power (EP Consumption: 6 – Cooldown: 8s)",
-        "nameProposal": "Fuxi Scroll",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59934",
@@ -6261,15 +6164,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Shoot fire, dealing 12*60% fire elemental damage and 12*60% physical damage based on attack power (EP Consumption: 49 – Cooldown: 36s)",
-        "nameProposal": "Hellfire Form 3",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59946",
@@ -6357,17 +6252,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Jump backwards, set up a Decelerate Black Hole at previous location that suck enemies in and reduce their movement speed by 60% , deal 188 ice elemental damage per every 0.6 second",
-        "nameProposal": "Quantum Demolisher Form II",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50682",
@@ -6455,17 +6340,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "Release a strong rupture, seal caught enemies in black ice status, inflict freeze status on to them, dealing 956 ice elemental damage while wielder heal 99 HP per every 0.9 second, black ice last for 4 seconds (EP Consumption: 25 – Cooldown: 20s)",
-        "nameProposal": "Chi You Gigantic Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "freeze"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/98215",
@@ -6546,13 +6421,95 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "M134 Vulcan",
-        "passive_skill_1": "Deal 50% physical damage based on attack power to any enemy surrounding the target upon critical charge attack, cooldown 0.3 second",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50688",
+        "name": "ユミルの腕",
+        "rank": "4",
+        "atk": "294",
+        "category": "cannon",
+        "load": "18",
+        "crit": "11",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50686",
@@ -6640,13 +6597,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Original Cyclops",
-        "passive_skill_1": "On hit, imbue a mark that will explode on-death, dealing 399% AOE physical damage mark last for 5 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50683",
@@ -6734,13 +6685,95 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Remodelled Bunny 19c",
-        "passive_skill_1": "On kill, has 60% chance to increase all damage by 75% for 3 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50684",
+        "name": "核心収束砲Delta",
+        "rank": "4",
+        "atk": "282",
+        "category": "cannon",
+        "load": "18",
+        "crit": "26",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50678",
@@ -6778,15 +6811,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Slam a mechanical arm on the ground, dealing multiple instance of damage, each equal to 120% attack power, inflict stun for 2.55 seconds. After performing skill, increase wielder movement speed for a period (SP Consumption: 18 – Cooldown: 12 seconds)",
-        "nameProposal": "Lurker Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109562",
@@ -6920,17 +6945,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
-        },
-        "active_skill": "Slam a mechanical arm on the ground, dealing multiple instance of damage, knock back enemies, dealing 214 fire elemental damage, inflict burn status, dealing 134 fire elemtal damage and increase wielder movement speed for a period (EP Consumption: 18 – Cooldown: 12 seconds)",
-        "nameProposal": "Devourer Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50692",
@@ -6992,15 +7007,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Markov Type A",
-        "passive_skill_1": "on hit 60% chance to inflict burn status, dealing 149 fire elemental damage per each 0.5 second, last for 4.08 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50694",
@@ -7062,13 +7069,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Monopole Cannon Type 09",
-        "passive_skill_1": "On hit 1.5% chance to inflict paralysis status to enemy, causing immobilize and unable to attack, last for 2.99 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50695",
@@ -7130,15 +7131,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "Create a field around self, reduce enemy attack speed and movement speed by 80%, last for 8 seconds (EP Consumption: 7 – Cooldown: 20 seconds)",
-        "nameProposal": "Monopole Cannon Type 07",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50689",
@@ -7200,13 +7193,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "Increase wielder movement speed by 100%, last for 5.98 seconds (EP Consumption: 6 – Cooldown: 15s)",
-        "nameProposal": "Missile Division – The Striker",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/81232",
@@ -7268,17 +7255,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "Fire a big fireball, on hit explode deal 419% fire elemental damage based on attack power, inflict burn status, dealing 18% fire elemental damage based on attack power per every 0.5 second, last for 3 seconds (EP Consumption: 18 – Cooldown:10s)",
-        "nameProposal": "Xuanyuan Pulse Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54281",
@@ -7340,13 +7317,69 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Howl of Ice",
-        "passive_skill_1": "On hit 39.8% chance to inflict freeze status, last for 3 seconds, cooldown 9.07 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50691",
+        "name": "マルコフタイプC",
+        "rank": "3",
+        "atk": "169",
+        "category": "cannon",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    }
+                ]
+            },
+            "Broken Handle": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "Lightning Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50693",
@@ -7408,15 +7441,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "Enhance own attack for 6.47 seconds duration, each attack reduce enemy attack speed and movement speed by 60% for 3.5 seconds (EP Consumption: 12 – Cooldown: 20s)",
-        "nameProposal": "X-01 Blue Eyes of Oroch",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59936",
@@ -7478,13 +7503,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Rain of Cold Frost",
-        "passive_skill_1": "Knock down attack inflict frost debuff, slow enemy and its surrounding attack speed and movement speed by 70%, last for 6 seconds, cooldown 15 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/64837",
@@ -7546,13 +7565,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "AI-chan Cannon",
-        "passive_skill_1": "On 3rd charge phase, on hit 66.3% chance to inflict vulnerable status, reduce enemy movement speed, does not stack with other movement speed reducing status",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50700",
@@ -7614,13 +7627,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "MiG-11 Guided Missile​",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50690",
@@ -7903,13 +7910,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Slam mechanical arm on the ground, creating shock waves. Shock wave deal many damage instance, each deal physical damage 90% based on attack power (EP Consumption: 12 – Cooldown: 9s)",
-        "nameProposal": "Alloyed Lurker Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50681",
@@ -7944,15 +7945,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
-        },
-        "active_skill": "Slam mechanical arm on the ground, create a shock wave that deal many damage instance and inflict knock back. Each instance deal 158 fire elemental damage (EP Consumption: 20 – Cooldown: 15 seconds)",
-        "nameProposal": "Alloyed Devourer Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50696",
@@ -8076,13 +8069,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "SU-30 Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50698",
@@ -8144,13 +8131,69 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Mig-7 Laser Cannon",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50699",
+        "name": "MiG-13ロケット",
+        "rank": "2",
+        "atk": "128",
+        "category": "cannon",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Aerostat": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            },
+            "Lightning Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "?"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png"
+            },
+            "Twin Lightning Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50701",
@@ -8190,13 +8233,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "SU-45 Howitzer",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/58533",
@@ -8277,13 +8314,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Ox Demon Cutter Nagamitsu",
-        "passive_skill_1": "",
-        "passive_skill_2": "While combo is below 5, increase physical damage by 32%",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/56916",
@@ -8371,21 +8402,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Has 3 skill charges, each skill attack uses electric/fire/ice elemental damage in following order, dealing 239% physical damage and 239% elemental damage, inflict paralyze/burn/freeze status to enemies. After using the skill, within (electric: 4, fire: 7, ice: 10) seconds, further add 448 elemental damage into each attack, elemental imbued attack can’t be stacked (EP Consumption: 15 – Cooldown: 12s)",
-        "nameProposal": "Xuanyuan Sword",
-        "passive_skill_1": "When attacked, fire 2 spirit sword at 2 random enemy, inflict knock back enemy on its path, dealing 160% physical damage based on attack power, cool down 5.03 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn",
-            "freeze",
-            "paralyze"
-        ],
-        "elements": [
-            "ice",
-            "fire",
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62839",
@@ -8554,13 +8571,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Increase physical damage deal by wielder by 24,9%, enhance all Time Essence Slash, last for 8 seconds (EP Consumption: 20 – Cooldown: 25s)",
-        "nameProposal": "Balmung",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59933",
@@ -8648,15 +8659,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Increase physical damage by 35% for 8 seconds. Within skill period, killing the first enemy will apply all area space-time distortion for 8 seconds, also prolong 35% physical damage buff until the end of space-time distortion. (EP Consumption: 22 – Cooldown: 25s)",
-        "nameProposal": "Dark Xuanyuan Sword",
-        "passive_skill_1": "On-hit enemy will apply all area space-time distortion for 4.5 seconds, cooldown 60 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "decelerated"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50706",
@@ -8744,17 +8747,183 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Jump at targeted enemy and AOE apply knock-up status, dealing 2877 fire elemental damage, while also inflict burn status, dealing 306 fire elemental damage per every 0.5 sec, last for 6 second (EP Consumption: 20 – Cooldown: 12s)",
-        "nameProposal": "Sunfire Claymore",
-        "passive_skill_1": "Increase Fire elemental damage by 30%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/54193",
+        "name": "極光斬艦刀",
+        "rank": "4",
+        "atk": "289",
+        "category": "greatsword",
+        "load": "18",
+        "crit": "17",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Fire Will?": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/61442",
+        "name": "牛鬼切・長光",
+        "rank": "4",
+        "atk": "289",
+        "category": "greatsword",
+        "load": "18",
+        "crit": "17",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Fire Will?": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
+            }
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50707",
@@ -8842,16 +9011,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Jump at target enemy, dealing 249% AOE physical damage based on attack power, inflict bind status to damaged enemy for 4.5 seconds. Also inflict bleed status, dealing  238 damage per 0.5 second (EP Consumption: 25 – Cooldown: 25s)",
-        "nameProposal": "Archfiend Dragon Spine",
-        "passive_skill_1": "Attacking bleed inflicted enemy heal for 39 HP",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bind",
-            "bleed"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60751",
@@ -8939,15 +9099,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Fire 2 air slashes one after another, dealing physical damage continuously, each time equal to 25% attack power, damage deal up to 8 times. When 2 slashes meet and create an X cross, create an explosion deal physical damage  349% based on attack power and inflict stun status to enemy for 5.99 seconds. (EP Consumption: 18 – Cooldown: 24s)",
-        "nameProposal": "7th Sacred Relic",
-        "passive_skill_1": "When attacking enemies inflicted with stun status, increase attack speed by 49.9%, last for 4 seconds, cooldown 12 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50708",
@@ -9035,13 +9187,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
-        },
-        "active_skill": "Use chainsaw to cut the enemy, deal small AOE physical damage 24*32%  based on attack power, flip up the chainsaw at the end, deal physical damage 325% based on attack power. Wielder is invulnerable during skill animation. (EP Consumption: 25 – Cooldown: 12s)",
-        "nameProposal": "Níðhǫggr Wing Claw",
-        "passive_skill_1": "On hit, 10% chance to inflict bleed status, dealing 151 physical attack per every 0.5 seconds for 3 seconds.",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50702",
@@ -9079,15 +9225,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
-        },
-        "active_skill": "Fire 6 homing missile, each deals 200% small AOE physical damage based on attack power, inflict stun status to enemies caught within radius for 2.50 seconds (EP Consumption: 18 – Cooldown: 12s)",
-        "nameProposal": "Betrayer Claymore",
-        "passive_skill_1": "When attacked has 50% chance to deal 160% physical damage back at enemy",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50703",
@@ -9125,17 +9263,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
-        },
-        "active_skill": "Shoot laser at a small frontal area, each laser beam deals 89 fire elemental damage and explode, dealing 717 fire elemental damage to enemies caught within radius, and inflict burn status, dealing 89 fire elemental damage per every 0.5 seconds for 3 seconds (EP Consumption: 24 – Cooldown: 18s)",
-        "nameProposal": "Deus Claymore",
-        "passive_skill_1": "Add 95 fire elemental damage into each attack",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109325",
@@ -9207,17 +9335,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
-        },
-        "active_skill": "Attack enemy with electric energy, deal AOE 3*743 lightning damage to enemy and its surrounding, inflict paralysis status, last for 2 seconds (EP Consumption: 15 – Cooldown: 10s)",
-        "nameProposal": "Electrolysis Resonance Sword",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "paralyze"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50712",
@@ -9279,13 +9397,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Crystallized Nitrogen Sword",
-        "passive_skill_1": "On hit 8% chance to inflict freeze status, last for 2.14 seconds",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50710",
@@ -9347,13 +9459,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Snake King Ultra Greatsword",
-        "passive_skill_1": "Give 19 EP when starting battle",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/74127",
@@ -9415,15 +9521,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
-        },
-        "active_skill": "Slam AI-hammer on the ground, creating a shock wave that inflict knock back, deal physical damage 299% based on attack power, have 50% chance to inflict stun status, last for 3 seconds (EP Consumption: 15 – Cooldown: 15s)",
-        "nameProposal": "AI-chan Hammer",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59940",
@@ -9547,15 +9645,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
-        },
-        "active_skill": "Slam at enemy, inflict float status, deal physical damage 449% based on attack power (EP Consumption: 15 – Cooldown:8s )",
-        "nameProposal": "Assault Ultra Greatsword",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "float"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50704",
@@ -9997,13 +10087,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
-        },
-        "active_skill": "Increase chainsaw speed, increase attack speed by 39.9%, increase basic attack critical chance (charge attack included) by 10%, last for 6 seconds (EP Consumption: 14 – Cooldown: 18s)",
-        "nameProposal": "Sprocket Claymore",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50715",
@@ -10065,13 +10149,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
-        },
-        "active_skill": "Perform a chop cut, inflict knock down, deal physical damage 398% based on attack power (EP Consumption: 10 – Cooldown: 9 seconds)",
-        "nameProposal": "Remodelled Nuclear Propulsion Sword",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54280",
@@ -10195,13 +10273,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Melding Type 16 – Greatsword",
-        "passive_skill_1": "Increase all-damage against stun, bind, space-time decelerated enemy by 20%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50714",
@@ -10325,13 +10397,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Original Nuclear Propulsion Sword",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50717",
@@ -10393,13 +10459,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Energy Claymore",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50718",
@@ -10520,17 +10580,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: inflict 6 seconds shackle status to the surrounding enemies and fire 13 holy javelins, that will drop from above on random target, each dealing lightning elemental damage based on 282% attack power (EP Consumption: 16 – Cooldown: 13s)",
-        "nameProposal": "Judah Oath",
-        "passive_skill_1": "20% on-hit chance to imbue a 6 second-timed holy light seal that on-hit deal 650 electric elemental damage, cooldown 13s",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bind"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63653",
@@ -10699,16 +10749,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: summon a 10 seconds field, every 1.5 second shoots a light beam to a random enemy within range that deals physical damage based on 320.1% attack power, apply stun status to enemy. Last for 6s. Stun status enemy take extra 30% physical damage (EP Consumption: 20 – Cooldown:18s)",
-        "nameProposal": "Aurel de Nier",
-        "passive_skill_1": "Increase  all-damage against stun status enemy by 40.0%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "stun",
-            "amplified"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/80193",
@@ -10789,13 +10830,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: summon a 10 seconds field, increase allies Valkyrja & Summon unit critical chance by 10%. Attack enemy inside field and its small surrounding per each 1.0 second, dealing 5*50% physical damage based on attack power (EP Consumption: 18 – Cooldown:15s)",
-        "nameProposal": "11th Sacred Relic",
-        "passive_skill_1": "On hit against vulnerable status enemy, have 39.9% chance to heal whole squad by 74 HP, 3 seconds cooldown",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66326",
@@ -10883,15 +10918,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: summon a 3.5 seconds field that attack surrounding enemies with sakura blade, dealing 179.9% physical attack based on attack power per every 0.3 second, have 21.2% on-hit chance to put 1 Sakura Mark Counter on enemy. When target enemy’s Sakura Mark Counter go higher than 3, the Counter will be reset and put a Sakura Mark on target enemy (EP Consumption: 20 – Cooldown: 12s)",
-        "nameProposal": "Cherry Blossoms Oath",
-        "passive_skill_1": "Have 59.9% on-hit chance to summon a circular field that attack enemy with sakura petals at enemy location, dealing 199.5% physical attack based on power, have 6 seconds cooldown. Deal further 440 fire elemental damage against enemy having a Sakura Mark or Sakura Mark Counter. When equipped on Sakurahi Rondo, sakura petals increase Sakura Mark Counter by 1",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66324",
@@ -10953,15 +10980,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: summon a 6 seconds field, cut 3 times per every 1 second randomly to enemies in field, each cut deal 664 physical damage, inflict 5 second weaken status, reduce their attack power by 50%",
-        "nameProposal": "Silver Guillotine",
-        "passive_skill_1": "Increase physical damage against weaken status enemy by 35%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "ATK down"
-        ],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109324",
@@ -11090,15 +11109,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 1077 fire elemental damage in cross field (EP Consumption: 18 – Cooldown: 12s)",
-        "nameProposal": "Black Smasher",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62781",
@@ -11160,17 +11171,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 834 lightning elemental damage in cross field, inflict 0.7 second paralysis status (EP Consumption: 15 – Cooldown: 15s)",
-        "nameProposal": "Thunder Angel",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "paralyze"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/70207",
@@ -11232,17 +11233,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 7 seconds, per each 0.8 second fire a wave of flame toward one random enemy in cross field, deal 675 fire elemental damage, inflict burn status, dealing 160 fire elemental damage per each 0.5 second, last for 3 seconds (EP Consumption: 20 – Cooldown: 15s)",
-        "nameProposal": "Blaze Angel",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63384",
@@ -11603,17 +11594,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 8 seconds, per each 1.0 second fire an ice shell at one random enemy inside cross field, shell explode deal small AOE 514 ice elemental damage and slow target attack speed by 50%, last for 0.8 second (EP Consumption: 14 – Cooldown: 13s)",
-        "nameProposal": "Ice Shell Cross",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62777",
@@ -11715,15 +11696,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 8 seconds, per each 0.6 second fire a flaming shell at one random enemy inside cross field, shell explode deal small AOE 476 fire elemental damage (EP Consumption: 15 – Cooldown: 13s)",
-        "nameProposal": "Flame Shell Launcher",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62779",
@@ -11774,17 +11747,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 8 seconds, inflict burn status to enemy inside cross field, deal 445 fire elemental damage per each 0.5 second (EP Consumption: 20 – Cooldown: 12s)",
-        "nameProposal": "Inferno Oath",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62778",
@@ -11835,15 +11798,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
-        },
-        "active_skill": "Summon cross and deploy: for 8 seconds, add 118 ice elemental damage for allies inside cross field (EP Consumption: 18 – Cooldown: 12s)",
-        "nameProposal": "Ice Frost Oath",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "ice"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62774",
@@ -11883,13 +11838,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
-        },
-        "active_skill": "",
-        "nameProposal": "Cross",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95866",
@@ -11899,15 +11848,7 @@
         "category": "gauntlet",
         "load": "18",
         "crit": "35",
-        "upgrades": {},
-        "active_skill": "[EP consumption: 17] [Cooldown: 25 seconds] Summon 3 projectile Xuanyuan swords. Each projectile deals 1500 fire elemental damage, and spacetime lock on-hit enemy for 4.5 seconds",
-        "nameProposal": "Fist of Taixu",
-        "passive_skill_1": "Increase all-damage dealt by Valkyrja by 8% upon hitting an enemy with normal, branch, ultimate, tag-in/QTE attack, last for 8 seconds. The effect can be overlapped itself by re-activating it via different type of attack. If overlapping is successful, refresh the duration",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109660",
@@ -11917,13 +11858,7 @@
         "category": "gauntlet",
         "load": "18",
         "crit": "24",
-        "upgrades": {},
-        "active_skill": "",
-        "nameProposal": "Twin Wolves of Eternal Twilight",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95864",
@@ -12004,17 +11939,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
-        },
-        "active_skill": "[EP consumption: 15] [Cooldown: 20 seconds] Deal 600% physical damage based on attack power to enemy in front, inflict bleed status on on-hit enemy, deal 500 physical damage based on attack power per 0.5 second, last for 8 seconds",
-        "nameProposal": "Darken Nuada",
-        "passive_skill_1": "Increase lightning elemental damage dealt through attack by 40%",
-        "passive_skill_2": "",
-        "debuffs": [
-            "bleed"
-        ],
-        "elements": [
-            "electric"
-        ]
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/101866",
@@ -12105,15 +12030,7 @@
         "category": "gauntlet",
         "load": "18",
         "crit": "23",
-        "upgrades": {},
-        "active_skill": "[EP consumption: 14] [Cooldown: 20 seconds] Pull the target in front of Valkyrja, deal 450% physical damage based on attack power, slow its speed by 80%, last for 5 seconds",
-        "nameProposal": "Star Ring Vortex",
-        "passive_skill_1": "When hitting an enemy with branch attack, deals 2500 physical damage to the surrounding enemies, cooldown 1.5 seconds",
-        "passive_skill_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": []
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92601",
@@ -12194,13 +12111,7 @@
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
-        },
-        "active_skill": "[EP consumption: 5] [Cooldown: 16 seconds] Grant a enhancement buff. While the effect is active, increase all squad members recovery effect by 30%, increase Valkyrja own attack speed by 40%, last for 8 seconds",
-        "nameProposal": "Sky Query Thousand Birds",
-        "passive_skill_1": "Increase EP gained via attack by 25%",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95893",
@@ -12210,15 +12121,7 @@
         "category": "gauntlet",
         "load": "12",
         "crit": "21",
-        "upgrades": {},
-        "active_skill": "",
-        "nameProposal": "CAS-X Saint",
-        "passive_skill_1": "On hit has 17% chance to deal 700 fire elemental damage",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": [
-            "fire"
-        ]
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92599",
@@ -12228,13 +12131,7 @@
         "category": "gauntlet",
         "load": "12",
         "crit": "13",
-        "upgrades": {},
-        "active_skill": "[EP Consumption: 10] [Cooldown: 10 seconds] Release a shockwave, deal 450% physical damage based on attack power to enemy in front",
-        "nameProposal": "CAS-II Minako",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [],
-        "elements": []
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95894",
@@ -12244,15 +12141,7 @@
         "category": "gauntlet",
         "load": "12",
         "crit": "20",
-        "upgrades": {},
-        "active_skill": "[EP Consumption: 12] [Cooldown: 14 seconds] Raise a wave air around self, dealing 450% physical damage to surrounding enemy and inflicts float status on them",
-        "nameProposal": "White Star Destroyer",
-        "passive_skill_1": "",
-        "passive_skill_2": "",
-        "debuffs": [
-            "float"
-        ],
-        "elements": []
+        "upgrades": {}
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92598",

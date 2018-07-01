@@ -20,12 +20,13 @@ let getWeaponUrls = async (url) => {
     console.log('weapon count: ', weaponRows.length);
 
     return weaponRows.map(row => {
+      let name = $(row).find('td:first-child a').text();
       let url = $(row).find('td:first-child a').attr('href');
       let rank = $(row).find('td:nth-child(2)').text().match(/\d/i) ? $(row).find('td:nth-child(2)').text().match(/\d/i)[0] : '';
       let atk = $(row).find('td:nth-child(3)').text();
       let category = getWeaponCategory($(row).attr('class'));
 
-      return {url, rank, atk, category};
+      return {url, name, rank, atk, category, description: ''};
     });
 
     console.log('weapons urls: ', weapons);
@@ -37,10 +38,10 @@ let getWeaponUrls = async (url) => {
 
 let getWeaponCategory = weapon => {
   const weaponCategory = {
-    'gan': 'pistol',
+    'gan': 'dual-gun',
     'juho': 'cannon',
     'tachi': 'katana',
-    'taiken': 'claymore',
+    'taiken': 'greatsword',
     'jyuji': 'cross',
     'wanko': 'gauntlet'
   };
@@ -73,14 +74,14 @@ let getUpgradesList = async (weaponList) => {
 
 let getUpgradeItems = async (url) => {
   let upgrades = {};
-  let crit = '';
-  let load = '';
+  let crit = '', load = '', name = '';
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
     let upgradeRows = Array.from($('.hk_sozai table tbody tr')).slice(1);
     crit = $(Array.from($('.hk3_buki'))[1]).find('table tbody tr td:nth-child(2)').text() || '';
     load = $(Array.from($('.hk3_buki'))[1]).find('table tbody tr td:last-child').text() || '';
+    name = $('')
 
     const upgradeCount = $(upgradeRows[0]).find('td').length - 1;
     
@@ -103,49 +104,66 @@ let getUpgradeItems = async (url) => {
 }
 
 let getUpgradeTranslations = (weaponList) => {
-  return readFile('./translations/translated/weapon-upgrades.json', 'utf8').then(file => {
+  return readFile('./translations/translated/weapon-upgrades.json', 'utf8')
+  .then(file => {
     let translation = JSON.parse(file);
     return weaponList.map(weapon => {
       let translatedWeapon = {...weapon};
       for (let key in translation) {
-        for (let upgradeKey in weapon.upgrades) {
-          if (upgradeKey == key) {
-            translatedWeapon.upgrades[translation[key]] = weapon.upgrades[upgradeKey];
-            delete weapon.upgrades[upgradeKey];
-          }
+        if (weapon.upgrades.hasOwnProperty(key)) {
+          translatedWeapon.upgrades[translation[key]] = weapon.upgrades[key];
+          delete weapon.upgrades[key];
         }
       }
       return translatedWeapon;
     })
   })
+  .catch(err => {
+    console.log('error in replacing translation keys');
+  })
 }
 
 // just check if any weapon has same stats
-let checkDuplicateStats = (weaponList) => {
-  const keysToCheck = ['atk', 'crit', 'category', 'rank'];
-  const compactWeaponList = weaponList.map(weapon => {
-    const { atk, crit, category, rank } = weapon;
-    return {
-      atk,
-      crit,
-      ca
+let getUniqueWeaponList = (weaponList) => {
+  const compactWeaponListUniq = _.uniqBy(weaponList, (weapon) => {
+    return [weapon.atk, weapon.crit, weapon.category, weapon.rank].join();
+  });
+
+  const duplicatedWeaponValues = _.difference(weaponList, compactWeaponListUniq);
+  fs.outputFile('./fetched/weapon-duplicates-specs-JP.json', JSON.stringify(duplicatedWeaponValues, null, 4), (err) => {
+    if (err) {
+      console.log('error when writing file out: ', err)
     }
-  })
-  return weaponList.some(weapon => {
-    
-  })
+  });
+  //console.log('COMPACT: ', weaponList.length);
+  //console.log('COMPACT UNIQ: ', compactWeaponListUniq.length);
+  return compactWeaponListUniq;
 }
 
 getWeaponUrls(urlSource).then(async weaponList => {
   const weaponsWithUpgrades = await getUpgradesList(weaponList);
+  fs.outputFile('./fetched/weapon-list-JP-RAW.json', JSON.stringify(weaponsWithUpgrades, null, 4), (err) => {
+    if (err) {
+      console.log('error when writing file out: ', err)
+    }
+  });
+  console.log('writing raw jp weapons: ', weaponsWithUpgrades.length);
   const weaponsWithTranslatedUpgrades = await getUpgradeTranslations(weaponsWithUpgrades);
+  fs.outputFile('./fetched/weapon-list-JP-with-dupls.json', JSON.stringify(weaponsWithTranslatedUpgrades, null, 4), (err) => {
+    if (err) {
+      console.log('error when writing file out: ', err)
+    }
+  });
+  console.log('writing translated upgrades weapons: ', weaponsWithTranslatedUpgrades.length);
+
+  const result = getUniqueWeaponList(weaponsWithTranslatedUpgrades);
   
   // console.log('writing: ', weaponsWithTranslatedUpgrades);
-  fs.outputFile('./fetched/weapon-list-JP.json', JSON.stringify(weaponsWithTranslatedUpgrades, null, 4), (err) => {
+  fs.outputFile('./fetched/weapon-list-JP.json', JSON.stringify(result, null, 4), (err) => {
     if (err) {
       console.log('error when writing file out: ', err)
     }
   });
 
-  console.log('WRITE DONE!');
+  console.log('writing unique-stats weapons: ', result.length);
 });

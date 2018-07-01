@@ -1,0 +1,807 @@
+[
+    {
+        "name": "ミョルニル",
+        "nameProposal": "Mjolnir",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50633"
+    },
+    {
+        "name": "天火聖裁",
+        "nameProposal": "Fire Spark – Holy Judgement",
+        "url": "https://houkai3rd.gamewith.jp/article/show/86484"
+    },
+    {
+        "name": "雷刀・鬼角",
+        "nameProposal": "Demon Horn Thunder Dagger",
+        "url": "https://houkai3rd.gamewith.jp/article/show/60447"
+    },
+    {
+        "name": "幽色のアリア",
+        "nameProposal": "Phantom Colored Aria",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109117"
+    },
+    {
+        "name": "超電磁ハンドキャノン",
+        "nameProposal": "Hyper Railgun",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50630"
+    },
+    {
+        "name": "精衛の翼",
+        "nameProposal": "Wings of Jingwei",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50632"
+    },
+    {
+        "name": "2nd聖遺物",
+        "nameProposal": "2nd Sacred Relic",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50019"
+    },
+    {
+        "name": "異形・ヘルの弓",
+        "nameProposal": "Extraordinary Form – Hel Bow",
+        "url": "https://houkai3rd.gamewith.jp/article/show/85565"
+    },
+    {
+        "name": "エネルギー遷移者",
+        "nameProposal": "The Energy Leaper",
+        "url": "https://houkai3rd.gamewith.jp/article/show/61810"
+    },
+    {
+        "name": "水妖精Ⅱ型",
+        "nameProposal": "Water Spirit Type-II",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50643"
+    },
+    {
+        "name": "原型・妖精の弓",
+        "nameProposal": "Original Fairy Bow",
+        "url": "https://houkai3rd.gamewith.jp/article/show/77333"
+    },
+    {
+        "name": "神農の守護",
+        "nameProposal": "Shennong Protection",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50635"
+    },
+    {
+        "name": "ファフニールの爆炎",
+        "nameProposal": "Fafnir Flame",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50634"
+    },
+    {
+        "name": "霊銃・八重",
+        "nameProposal": "Yae Spirit Gun",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59935"
+    },
+    {
+        "name": "光と影",
+        "nameProposal": "Light and Shadow",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50631"
+    },
+    {
+        "name": "聖銃・カレン",
+        "nameProposal": "Holy Guns - Kallen",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59938"
+    },
+    {
+        "name": "水妖精Ⅰ型",
+        "nameProposal": "Water Spirit Type-I",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50642"
+    },
+    {
+        "name": "簒奪者のハンドキャノン",
+        "nameProposal": "Usurper Hand Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/66349"
+    },
+    {
+        "name": "軒轅・パルスハンドガン",
+        "nameProposal": "Xuanyuan Pulse Pistol",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54226"
+    },
+    {
+        "name": "コルトピースメーカー",
+        "nameProposal": "Colt Peacemaker",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50647"
+    },
+    {
+        "name": "ドミネーターガン",
+        "nameProposal": "Dominator's Pistol",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50628"
+    },
+    {
+        "name": "ストームリボルバー",
+        "nameProposal": "Hurricane Revolver",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50627"
+    },
+    {
+        "name": "炎妖精Ⅰ型",
+        "nameProposal": "Fire Spirit Type-I",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50644"
+    },
+    {
+        "name": "暗役者のハンドキャノン",
+        "nameProposal": "Dark Actor Pistol",
+        "url": "https://houkai3rd.gamewith.jp/article/show/66350"
+    },
+    {
+        "name": "炎妖精Ⅱ型",
+        "nameProposal": "Fire Spirit Type-II",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50645"
+    },
+    {
+        "name": "燃える羽",
+        "nameProposal": "Burning Wings",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50641"
+    },
+    {
+        "name": "モシンナガン日輪",
+        "nameProposal": "Fire Wheel Mosin Nagant",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50640"
+    },
+    {
+        "name": "鳳銃",
+        "nameProposal": "Phoenix Gun",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54285"
+    },
+    {
+        "name": "合金ドミネーターガン",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50636"
+    },
+    {
+        "name": "合金ストームリボルバー",
+        "nameProposal": "Alloy Dominator's Pistol",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50637"
+    },
+    {
+        "name": "試作型パルスハンドガン",
+        "nameProposal": "Proto Pistols",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50638"
+    },
+    {
+        "name": "デザートイーグル",
+        "nameProposal": "Desert Eagle",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50646"
+    },
+    {
+        "name": "M1911",
+        "nameProposal": "M1911",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50649"
+    },
+    {
+        "name": "USP改",
+        "nameProposal": "USP EX",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50648"
+    },
+    {
+        "name": "USP45",
+        "nameProposal": "USP45",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50651"
+    },
+    {
+        "name": "虚無の刃",
+        "nameProposal": "Void Blade",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50661"
+    },
+    {
+        "name": "妖精剣・シルヴァン",
+        "nameProposal": "Fairy Sword – Sylvan",
+        "url": "https://houkai3rd.gamewith.jp/article/show/71558"
+    },
+    {
+        "name": "3rd聖遺物",
+        "nameProposal": "3rd Sacred Relic",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50659"
+    },
+    {
+        "name": "雷切",
+        "nameProposal": "Raikiri",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50656"
+    },
+    {
+        "name": "霊刀・桜吹雪",
+        "nameProposal": "Sakura Blossom",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59468"
+    },
+    {
+        "name": "地蔵御魂",
+        "nameProposal": "Jizou Spirit",
+        "url": "https://houkai3rd.gamewith.jp/article/show/80260"
+    },
+    {
+        "name": "開天の剣",
+        "nameProposal": "Heavenly Sword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54283"
+    },
+    {
+        "name": "雨上がりの誓い",
+        "nameProposal": "Promise After Rain",
+        "url": "https://houkai3rd.gamewith.jp/article/show/81265"
+    },
+    {
+        "name": "磁気嵐・斬",
+        "nameProposal": "MagStorm",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50657"
+    },
+    {
+        "name": "妖刀・紅染桜",
+        "nameProposal": "Demon Katana – Red Dyed Cherry Blossoms",
+        "url": "https://houkai3rd.gamewith.jp/article/show/85982"
+    },
+    {
+        "name": "蔵鋒",
+        "nameProposal": "Zouhou",
+        "url": "https://houkai3rd.gamewith.jp/article/show/68557"
+    },
+    {
+        "name": "高周波切断刀",
+        "nameProposal": "High Frequency Cutter",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59945"
+    },
+    {
+        "name": "影刀プラズマ",
+        "nameProposal": "Plasma Kagehide",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50658"
+    },
+    {
+        "name": "11式反力場打刀",
+        "nameProposal": "Vorpal Sword Type-11",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50660"
+    },
+    {
+        "name": "苗刀電魂",
+        "nameProposal": "Lightning Soul",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50665"
+    },
+    {
+        "name": "暴食節刀",
+        "nameProposal": "Gluttony Scimitar",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50654"
+    },
+    {
+        "name": "キャンディケイン太刀",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/84300"
+    },
+    {
+        "name": "疾風太刀",
+        "nameProposal": "Wind Wielder",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50655"
+    },
+    {
+        "name": "結晶逆刃刀",
+        "nameProposal": "Crystal Edge",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50669"
+    },
+    {
+        "name": "パルス太刀19式",
+        "nameProposal": "Pulse Katana Type-19",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50670"
+    },
+    {
+        "name": "熱切断の刃",
+        "nameProposal": "Heat Cutting Blade",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50666"
+    },
+    {
+        "name": "パルス太刀17式",
+        "nameProposal": "Pulse Katana Type-17",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50671"
+    },
+    {
+        "name": "雷爆",
+        "nameProposal": "Thunder Roar",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54284"
+    },
+    {
+        "name": "凰剣",
+        "nameProposal": "Phoenix Sword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54282"
+    },
+    {
+        "name": "軒轅・パルス太刀",
+        "nameProposal": "Xuanyuan: Katana",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59937"
+    },
+    {
+        "name": "苗刀雷妖",
+        "nameProposal": "Hell Thunder",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50664"
+    },
+    {
+        "name": "吸熱太刀",
+        "nameProposal": "Endergonic Tachi",
+        "url": "https://houkai3rd.gamewith.jp/article/show/75917"
+    },
+    {
+        "name": "合金・疾風太刀",
+        "nameProposal": "Alloyed Wind Wielder",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50663"
+    },
+    {
+        "name": "試作型パルス太刀",
+        "nameProposal": "Proto Katana",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50667"
+    },
+    {
+        "name": "合金・暴食節刀",
+        "nameProposal": "Alloyed Gluttony Scimitar",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50662"
+    },
+    {
+        "name": "紅桜",
+        "nameProposal": "Vermillion Edge",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50668"
+    },
+    {
+        "name": "妖刀村正",
+        "nameProposal": "Muramasa Bloodlust",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50672"
+    },
+    {
+        "name": "複合刀朱雀",
+        "nameProposal": "Rosefinch",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50676"
+    },
+    {
+        "name": "妖刀雨村",
+        "nameProposal": "Amemura Bloodlust",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50673"
+    },
+    {
+        "name": "堀川国広",
+        "nameProposal": "Horikawa Kunihiro",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50674"
+    },
+    {
+        "name": "勢州村正",
+        "nameProposal": "Seishuu Muramasa",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50677"
+    },
+    {
+        "name": "テュールの腕",
+        "nameProposal": "Týr Wrist",
+        "url": "https://houkai3rd.gamewith.jp/article/show/64775"
+    },
+    {
+        "name": "火刀・真田",
+        "nameProposal": "Sanada Fire Katana",
+        "url": "https://houkai3rd.gamewith.jp/article/show/61656"
+    },
+    {
+        "name": "5th聖遺物",
+        "nameProposal": "5th Sacred Relic",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50687"
+    },
+    {
+        "name": "ヘカトンケイル・プロト",
+        "nameProposal": "Briareus PRI",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50685"
+    },
+    {
+        "name": "殲星者19c",
+        "nameProposal": "Star Destroyer 19c",
+        "url": "https://houkai3rd.gamewith.jp/article/show/71096"
+    },
+    {
+        "name": "伏義の書",
+        "nameProposal": "Fuxi Scroll",
+        "url": "https://houkai3rd.gamewith.jp/article/show/61097"
+    },
+    {
+        "name": "地獄の焔Ⅲ型",
+        "nameProposal": "Hellfire Form 3",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59934"
+    },
+    {
+        "name": "量子破滅者Ⅱ型",
+        "nameProposal": "Quantum Demolisher Form II",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59946"
+    },
+    {
+        "name": "蚩尤の巨砲",
+        "nameProposal": "Chiyou Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50682"
+    },
+    {
+        "name": "M134バルカン",
+        "nameProposal": "M134 Vulcan",
+        "url": "https://houkai3rd.gamewith.jp/article/show/98215"
+    },
+    {
+        "name": "サイクロプス・プロト",
+        "nameProposal": "Cyclops PRI",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50686"
+    },
+    {
+        "name": "重装ウサギ19c",
+        "nameProposal": "Project Bunny 19c",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50683"
+    },
+    {
+        "name": "潜伏者キャノン",
+        "nameProposal": "Lurker's Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50678"
+    },
+    {
+        "name": "笹の葉ボーガン",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109562"
+    },
+    {
+        "name": "デバウアキャノン",
+        "nameProposal": "Devourer's Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/51174"
+    },
+    {
+        "name": "マルコフタイプA",
+        "nameProposal": "Markov Type A",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50692"
+    },
+    {
+        "name": "09式単極子砲",
+        "nameProposal": "Cathode Type-09",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50694"
+    },
+    {
+        "name": "07式単極子砲",
+        "nameProposal": "Cathode Type-07",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50695"
+    },
+    {
+        "name": "分裂ミサイルストライカー",
+        "nameProposal": "Raider Missiles",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50689"
+    },
+    {
+        "name": "軒轅・パルスキャノン",
+        "nameProposal": "Xuanyuan Pulse Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/81232"
+    },
+    {
+        "name": "氷の咆哮",
+        "nameProposal": "Howl of Ice",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54281"
+    },
+    {
+        "name": "X-01青眼のオロチ",
+        "nameProposal": "X-01 Blue Eyes of Oroch",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50693"
+    },
+    {
+        "name": "冷霜の雨",
+        "nameProposal": "Frost Rain",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59936"
+    },
+    {
+        "name": "AIちゃんキャノン",
+        "nameProposal": "AI-chan's Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/64837"
+    },
+    {
+        "name": "MiG-11誘導弾",
+        "nameProposal": "MiG-11",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50700"
+    },
+    {
+        "name": "試作型パルスキャノン",
+        "nameProposal": "Proto Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50690"
+    },
+    {
+        "name": "合金・潜伏者キャノン",
+        "nameProposal": "Alloyed Lurker's Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50680"
+    },
+    {
+        "name": "合金デバウアキャノン",
+        "nameProposal": "Alloyed Devourer's Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50681"
+    },
+    {
+        "name": "重砲ベクサー",
+        "nameProposal": "Fury Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50696"
+    },
+    {
+        "name": "SU-30キャノン砲",
+        "nameProposal": "SU-30 Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50697"
+    },
+    {
+        "name": "Mig-7レーザー砲",
+        "nameProposal": "MiG-7",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50698"
+    },
+    {
+        "name": "SU-22榴弾砲",
+        "nameProposal": "SU-22 Howitzer",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50701"
+    },
+    {
+        "name": "鮮血の舞",
+        "nameProposal": "Blood Dance",
+        "url": "https://houkai3rd.gamewith.jp/article/show/58533"
+    },
+    {
+        "name": "軒轅剣",
+        "nameProposal": "Xuanyuan Sword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/56916"
+    },
+    {
+        "name": "黎明の審判",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62839"
+    },
+    {
+        "name": "バルムンク",
+        "nameProposal": "Balmung",
+        "url": "https://houkai3rd.gamewith.jp/article/show/68024"
+    },
+    {
+        "name": "黒軒轅剣",
+        "nameProposal": "Dark Xuanyuan Sword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59933"
+    },
+    {
+        "name": "陽炎大剣",
+        "nameProposal": "Sunfire Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50706"
+    },
+    {
+        "name": "魔龍の背骨",
+        "nameProposal": "Dragon Spine",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50707"
+    },
+    {
+        "name": "7th聖遺物",
+        "nameProposal": "7th Sacred Relic",
+        "url": "https://houkai3rd.gamewith.jp/article/show/60751"
+    },
+    {
+        "name": "ニーズホッグの翼爪",
+        "nameProposal": "Nidhogg's Claws",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50708"
+    },
+    {
+        "name": "ビトレイヤークレイモア",
+        "nameProposal": "Betrayer's Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50702"
+    },
+    {
+        "name": "デウスクレイモア",
+        "nameProposal": "Godfather's Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50703"
+    },
+    {
+        "name": "レンジャー鋸刃",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109325"
+    },
+    {
+        "name": "電離共振剣",
+        "nameProposal": "Ion Resonance",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50709"
+    },
+    {
+        "name": "窒素結晶剣",
+        "nameProposal": "Nitro Crystal",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50712"
+    },
+    {
+        "name": "超重剣キング蛇",
+        "nameProposal": "King Cobra",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50710"
+    },
+    {
+        "name": "AIちゃんハンマー",
+        "nameProposal": "AI-chan's Hammer",
+        "url": "https://houkai3rd.gamewith.jp/article/show/74127"
+    },
+    {
+        "name": "真紅のクイーン",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59940"
+    },
+    {
+        "name": "超重剣アサルト",
+        "nameProposal": "Vanguard",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50711"
+    },
+    {
+        "name": "合金ビトレイヤークレイモア",
+        "nameProposal": "Alloy Betrayer's Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50704"
+    },
+    {
+        "name": "試作型パルスクレイモア",
+        "nameProposal": "Proto Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50713"
+    },
+    {
+        "name": "合金デウスクレイモア",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50705"
+    },
+    {
+        "name": "深紫の騎士",
+        "nameProposal": "Alloy Godfather's Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54360"
+    },
+    {
+        "name": "スプロケット・クレイモア",
+        "nameProposal": "Sprocket Claymore",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62838"
+    },
+    {
+        "name": "原子力推進剣・改",
+        "nameProposal": "Fusion Sword EX",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50715"
+    },
+    {
+        "name": "27式混合大剣",
+        "nameProposal": "Hybrid Type-27",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54280"
+    },
+    {
+        "name": "16式混合大剣",
+        "nameProposal": "Hybrid Type-16",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59939"
+    },
+    {
+        "name": "異端審問会のトーチ",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50714"
+    },
+    {
+        "name": "原子力推進剣・プロト",
+        "nameProposal": "Nuclear PRI",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50716"
+    },
+    {
+        "name": "エネルギー・クレイモア",
+        "nameProposal": "Energy Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50717"
+    },
+    {
+        "name": "クレイモア",
+        "nameProposal": "Greatsword",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50718"
+    },
+    {
+        "name": "誓約の十字架",
+        "nameProposal": "Judah's Oath",
+        "url": "https://houkai3rd.gamewith.jp/article/show/63255"
+    },
+    {
+        "name": "模造十字架・血の抱擁",
+        "nameProposal": "Blood Embrace",
+        "url": "https://houkai3rd.gamewith.jp/article/show/63653"
+    },
+    {
+        "name": "エーリューズニル",
+        "nameProposal": "Aurel de Nier",
+        "url": "https://houkai3rd.gamewith.jp/article/show/86341"
+    },
+    {
+        "name": "11th聖遺物",
+        "nameProposal": "11th Sacred Relic",
+        "url": "https://houkai3rd.gamewith.jp/article/show/80193"
+    },
+    {
+        "name": "桜花の誓約",
+        "nameProposal": "Cherry Blossoms Oath",
+        "url": "https://houkai3rd.gamewith.jp/article/show/66326"
+    },
+    {
+        "name": "銀色の切断者",
+        "nameProposal": "Silver Cleaver",
+        "url": "https://houkai3rd.gamewith.jp/article/show/66324"
+    },
+    {
+        "name": "レンジャー十字架",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109324"
+    },
+    {
+        "name": "黒色の粉砕者",
+        "nameProposal": "The Dark Crusher",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62780"
+    },
+    {
+        "name": "雷の天使",
+        "nameProposal": "Lightning Angel",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62781"
+    },
+    {
+        "name": "炎の天使",
+        "nameProposal": "Fire Angel",
+        "url": "https://houkai3rd.gamewith.jp/article/show/70207"
+    },
+    {
+        "name": "AIちゃんキャンディ",
+        "nameProposal": "AI-chan's Candy",
+        "url": "https://houkai3rd.gamewith.jp/article/show/63384"
+    },
+    {
+        "name": "試作型パルス十字架",
+        "nameProposal": "Proto Cross",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62773"
+    },
+    {
+        "name": "十字架・氷弾",
+        "nameProposal": "Ice Shell Cross",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62775"
+    },
+    {
+        "name": "破甲弾発射台",
+        "nameProposal": "Cross Ice Bullets",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62777"
+    },
+    {
+        "name": "火炎弾発射台",
+        "nameProposal": "Flame Bullets Launcher",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62776"
+    },
+    {
+        "name": "烈火の誓い",
+        "nameProposal": "Fire Oath",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62779"
+    },
+    {
+        "name": "氷霜の誓い",
+        "nameProposal": "Ice Oath",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62778"
+    },
+    {
+        "name": "十字架",
+        "nameProposal": "Cross",
+        "url": "https://houkai3rd.gamewith.jp/article/show/62774"
+    },
+    {
+        "name": "太虚の拳",
+        "nameProposal": "Fist of Taixu",
+        "url": "https://houkai3rd.gamewith.jp/article/show/95866"
+    },
+    {
+        "name": "永暮の双狼",
+        "nameProposal": "Twin Wolves of Eternal Twilight",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109660"
+    },
+    {
+        "name": "断光のヌアダ",
+        "nameProposal": "Darken Nuada",
+        "url": "https://houkai3rd.gamewith.jp/article/show/95864"
+    },
+    {
+        "name": "残火の鳶",
+        "nameProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/101866"
+    },
+    {
+        "name": "星環の渦",
+        "nameProposal": "Star Ring Vortex",
+        "url": "https://houkai3rd.gamewith.jp/article/show/92600"
+    },
+    {
+        "name": "百鳥問天",
+        "nameProposal": "Chidori",
+        "url": "https://houkai3rd.gamewith.jp/article/show/92601"
+    },
+    {
+        "name": "CAS-X聖徒",
+        "nameProposal": "CAS-X Saint",
+        "url": "https://houkai3rd.gamewith.jp/article/show/95893"
+    },
+    {
+        "name": "CAS-Ⅱ浪子﻿",
+        "nameProposal": "CAS-II Minako",
+        "url": "https://houkai3rd.gamewith.jp/article/show/92599"
+    },
+    {
+        "name": "白星の駆逐者",
+        "nameProposal": "White Star Destroyer",
+        "url": "https://houkai3rd.gamewith.jp/article/show/95894"
+    },
+    {
+        "name": "防護腕甲",
+        "nameProposal": "Protective Gauntlet",
+        "url": "https://houkai3rd.gamewith.jp/article/show/92598"
+    }
+]

@@ -50,7 +50,7 @@ let parseEquipment = async (items) => {
         let element = elements[index];
         let name = $(element).find('.wpb_text_column h2 span').text() || $(element).find('.wpb_text_column h2').text();
         let statsContainer = Array.from($(element).find('.wpb_text_column.wpb_content_element + .vc_row.vc_inner .vc_col-sm-4 table tbody tr:last-child').find('td'));
-        let stats = {atk: parseInt($(statsContainer[0]).text()), crit: parseInt($(statsContainer[1]).text())};
+        let stats = {atk: $(statsContainer[0]).text(), crit: $(statsContainer[1]).text()};
         let skillContainer = Array.from($(element).find('.vc_row.vc_inner + .vc_row.vc_inner .wpb_text_column.wpb_content_element .wpb_wrapper p'));
         let skills = {};
         skillContainer.forEach((container, index) => {
@@ -78,19 +78,27 @@ let parseEquipment = async (items) => {
 }
 
 let formatWeaponData = (data) => {
+  const weaponCategory = {
+    'pistol': 'dual-gun',
+    'cannon': 'cannon',
+    'katana': 'katana',
+    'claymore': 'greatsword',
+    'cross': 'cross',
+    'gauntlet': 'gauntlet'
+  };
   return data.map(item => {
     const activeSkill = item.skills['Active Skill'] || item.skills['Active Skill 2'] || '';
     return {
       name: item.name,
       atk: item.stats.atk,
       crit: item.stats.crit,
-      category: item.category,
+      category: weaponCategory[item.category],
       rank: item.rank,
       active_skill: item.skills['Active Skill'] || item.skills['Active Skill 2'] || '',
       passive_skill_1: item.skills['Passive Skill'] || '',
       passive_skill_2: item.skills['Passive Skill 2'] || '',
       debuffs: getDebuff(activeSkill),
-      element: getElemental([
+      elements: getElemental([
         item.skills['Active Skill'],
         item.skills['Active Skill 2'],
         item.skills['Passive Skill'],

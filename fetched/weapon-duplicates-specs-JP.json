@@ -1,0 +1,921 @@
+[
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50639",
+        "name": "月神の守護",
+        "rank": "3",
+        "atk": "169",
+        "category": "dual-gun",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    }
+                ]
+            },
+            "Moon Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "Broken Handle": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/58404",
+        "name": "烈炎の破滅者",
+        "rank": "4",
+        "atk": "276",
+        "category": "dual-gun",
+        "load": "18",
+        "crit": "32",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Twin Moon Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51496_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50650",
+        "name": "Cアナコンダ改",
+        "rank": "2",
+        "atk": "128",
+        "category": "dual-gun",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Moon Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "?"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
+            },
+            "Twin Moon Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Aerostat": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/60109",
+        "name": "模造霊刀・氷結曇天",
+        "rank": "4",
+        "atk": "265",
+        "category": "katana",
+        "load": "18",
+        "crit": "46",
+        "upgrades": {
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/58100",
+        "name": "女力の剣",
+        "rank": "4",
+        "atk": "272",
+        "category": "katana",
+        "load": "18",
+        "crit": "38",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50675",
+        "name": "複合刀柳葉",
+        "rank": "2",
+        "atk": "128",
+        "category": "katana",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Ocean Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "?"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51520_i.png"
+            },
+            "Twin Ocean's Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51512_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50688",
+        "name": "ユミルの腕",
+        "rank": "4",
+        "atk": "294",
+        "category": "cannon",
+        "load": "18",
+        "crit": "11",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50684",
+        "name": "核心収束砲Delta",
+        "rank": "4",
+        "atk": "282",
+        "category": "cannon",
+        "load": "18",
+        "crit": "26",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50691",
+        "name": "マルコフタイプC",
+        "rank": "3",
+        "atk": "169",
+        "category": "cannon",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    }
+                ]
+            },
+            "Broken Handle": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "Lightning Will": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50699",
+        "name": "MiG-13ロケット",
+        "rank": "2",
+        "atk": "128",
+        "category": "cannon",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Aerostat": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            },
+            "Lightning Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "?"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png"
+            },
+            "Twin Lightning Shard": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/54193",
+        "name": "極光斬艦刀",
+        "rank": "4",
+        "atk": "289",
+        "category": "greatsword",
+        "load": "18",
+        "crit": "17",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Fire Will?": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/61442",
+        "name": "牛鬼切・長光",
+        "rank": "4",
+        "atk": "289",
+        "category": "greatsword",
+        "load": "18",
+        "crit": "17",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    {
+                        "upgrade_1": "4"
+                    }
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    {
+                        "upgrade_1": "?"
+                    },
+                    {
+                        "upgrade_2": "1"
+                    },
+                    {
+                        "upgrade_3": "1"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    {
+                        "upgrade_1": "2"
+                    },
+                    {
+                        "upgrade_2": "5"
+                    },
+                    {
+                        "upgrade_3": "7"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "4"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Fire Will?": {
+                "requirement": [
+                    {
+                        "upgrade_1": "1"
+                    },
+                    {
+                        "upgrade_2": "2"
+                    },
+                    {
+                        "upgrade_3": "3"
+                    }
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
+            }
+        }
+    }
+]

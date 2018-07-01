@@ -7,12 +7,14 @@ const client = new vision.ImageAnnotatorClient({
   keyFilename: './google-vision-key.json'  
 });
 
+const fileSource = './images/houkai-weps-upgraded-gb/';
+
 // run Google Vision to get weapon data
-fs.readdir('./images/houkai-weps-sample', (err, files) => {
+fs.readdir(fileSource, (err, files) => {
   let results = [];
   files.forEach(file => {
     client
-    .documentTextDetection('./images/houkai-weps-sample/' + file)
+    .documentTextDetection(fileSource + file)
     .then(results => {
       const detections = results[0].fullTextAnnotation;
       // console.log('detections:', detections);
@@ -90,7 +92,20 @@ const parseInfo = (source) => {
   for (let key in source) {
     source[key].forEach((text, index) => {
       if (text === 'ATK') {
-        weapon.name = source[key][index - 1];
+        let nameString = source[key][index - 1];
+        if (nameString.toLowerCase().startsWith('x ') || nameString.startsWith('@ ') || nameString.startsWith('e ') || nameString.startsWith('D ') || nameString.startsWith('& ')) {
+          nameString = nameString.substring(2);
+        }
+
+        if (!!nameString.substring(0, 1).match(/[a-z]/)) {
+          nameString = nameString.substring(1);
+        }
+
+        if (nameString.startsWith('lon')) {
+          nameString.replace('lon', 'Ion');
+        }
+
+        weapon.name = nameString;
         weapon.atk = source[key][index + 1];
       }
 
@@ -105,6 +120,12 @@ const parseInfo = (source) => {
       if (_.includes(text, 'LV')) {
         weapon.description = source[key][index - 1];
       }
+
+      // if (_.includes(text, '[SP')) {
+      //   if (!!text.match(/\[SP/i)) {
+      //     const activeSkillName = text.substring(0, text.indexOf('[SP'));
+      //   }
+      // }
     });
   }
 
