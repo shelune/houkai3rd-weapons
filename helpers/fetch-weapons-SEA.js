@@ -116,12 +116,12 @@ let getDebuff = (skill) => {
     'burn': ['burn'],
     'freeze': ['freeze'],
     'float': ['float'],
-    'DEF down': ['vulnerable status', /decrea[se|sing].+defen[s|c]e/i,/redu[ce|cing].+defen[s|c]e/i, 'reduce def'],
-    'ATK down': ['weaken status', /decrea[se|sing].+attack power/i,/redu[ce|cing].+attack power/i],
+    'DEF -': ['vulnerable status', /decrea[se|sing].+defen[s|c]e/i,/redu[ce|cing].+defen[s|c]e/i, 'reduce def'],
+    'ATK -': ['weaken status', /decrea[se|sing].+attack power/i,/redu[ce|cing].+attack power/i],
     'paralyze': ['paralysis', 'paralyze'],
     'bind': ['bind', 'shackle'],
     'bleed': ['bleed ', 'bleeding'],
-    'decelerated': ['decelerated', 'space-time', 'space time'],
+    'timelock': ['decelerated', 'space-time', 'space time'],
     'amplified': ['receive extra', 'take more', 'take extra']
   }
   

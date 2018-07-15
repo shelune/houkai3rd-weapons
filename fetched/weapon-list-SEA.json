@@ -152,7 +152,7 @@
         "passive_skill_2": "",
         "debuffs": [
             "float",
-            "decelerated"
+            "timelock"
         ],
         "elements": []
     },
@@ -194,7 +194,7 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [
-            "DEF down"
+            "DEF -"
         ],
         "elements": [
             "electric"
@@ -307,7 +307,7 @@
         "passive_skill_2": "",
         "debuffs": [
             "freeze",
-            "ATK down"
+            "ATK -"
         ],
         "elements": []
     },
@@ -414,7 +414,7 @@
         "passive_skill_1": "Increase critical chance by 15%",
         "passive_skill_2": "",
         "debuffs": [
-            "DEF down"
+            "DEF -"
         ],
         "elements": []
     },
@@ -474,7 +474,7 @@
         "passive_skill_1": "Increase ranged physical damage by 40%. Reduce damage dealt by 10% per every 1m further away from the enemy, up to 80%",
         "passive_skill_2": "",
         "debuffs": [
-            "ATK down"
+            "ATK -"
         ],
         "elements": []
     },
@@ -632,7 +632,7 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [
-            "DEF down"
+            "DEF -"
         ],
         "elements": []
     },
@@ -888,7 +888,7 @@
         "passive_skill_1": "Increase Physical damage by 15 / 30 / 45 % for 8 seconds every time 10/40/70 EP is used (count only once upon immediately used, doesn’t count multiple times, for example 10 + 30 = 40) , effect cannot be stacked",
         "passive_skill_2": "",
         "debuffs": [
-            "decelerated"
+            "timelock"
         ],
         "elements": []
     },
@@ -916,8 +916,8 @@
         "passive_skill_1": "When attacked, strike lightning at attacking enemy, dealing 150% electric elemetal damage, paralyze for 1 second, cooldown 10 seconds",
         "passive_skill_2": "",
         "debuffs": [
-            "DEF down",
-            "ATK down"
+            "DEF -",
+            "ATK -"
         ],
         "elements": [
             "electric"
@@ -933,7 +933,7 @@
         "passive_skill_1": "When performing a critical, 50.0% chance to inflict knock up and lock time-space to enemy, last for 3 seconds,  6.02 seconds cooldown",
         "passive_skill_2": "",
         "debuffs": [
-            "DEF down",
+            "DEF -",
             "bind"
         ],
         "elements": [
@@ -1348,8 +1348,8 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [
-            "DEF down",
-            "decelerated"
+            "DEF -",
+            "timelock"
         ],
         "elements": []
     },
@@ -1898,7 +1898,7 @@
         "passive_skill_1": "On-hit enemy will apply all area space-time distortion for 4.5 seconds, cooldown 60 seconds",
         "passive_skill_2": "",
         "debuffs": [
-            "decelerated"
+            "timelock"
         ],
         "elements": []
     },
@@ -2165,7 +2165,7 @@
         "passive_skill_1": "Increase physical damage against weaken status enemy by 35%",
         "passive_skill_2": "",
         "debuffs": [
-            "ATK down"
+            "ATK -"
         ],
         "elements": []
     },

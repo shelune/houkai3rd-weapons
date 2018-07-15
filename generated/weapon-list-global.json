@@ -10,10 +10,10 @@
         "passive_1": "Increase critical chance by 15%",
         "passive_2": "",
         "debuffs": [
-            "DEF down"
+            "DEF -"
         ],
         "elements": [],
-        "description": "",
+        "description": "_ _",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -139,7 +139,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50633"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50633",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50633.png"
     },
     {
         "name": "Fire Spark – Holy Judgement",
@@ -229,7 +230,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/69729_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/86484"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/86484",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_86484.png"
     },
     {
         "name": "Demon Horn Thunder Dagger",
@@ -371,7 +373,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/60447"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/60447",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_60447.png"
     },
     {
         "name": "Phantom Colored Aria",
@@ -388,7 +391,8 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109117"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109117",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109117.png"
     },
     {
         "name": "Hyper Railgun",
@@ -406,7 +410,7 @@
         "elements": [
             "electric"
         ],
-        "description": "",
+        "description": "Hand cannons developed by the ME Corp Headquarters based on the test data results from Project-MEI 9 years ago. It successfully compresses a huge number of Honkai energy particles in an EM field , drastically strengthening",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -532,7 +536,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50630"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50630",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50630.png"
     },
     {
         "name": "Wings of Jingwei",
@@ -631,7 +636,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50632"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50632",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50632.png"
     },
     {
         "name": "2nd Sacred Relic",
@@ -640,7 +646,6 @@
         "atk": 254,
         "crit": 59,
         "load": 18,
-        "description": "",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -766,7 +771,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50019"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50019",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50019.png"
     },
     {
         "name": "Extraordinary Form – Hel Bow",
@@ -908,7 +914,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/85565"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/85565",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_85565.png"
     },
     {
         "name": "The Energy Leaper",
@@ -924,7 +931,7 @@
             "stun"
         ],
         "elements": [],
-        "description": "",
+        "description": "Increases own Attack Speed by 80. 0 % and Critical",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -1005,88 +1012,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/61810"
-    },
-    {
-        "name": "Water Spirit Type-II",
-        "category": "dual-gun",
-        "rank": 3,
-        "atk": 169,
-        "crit": 29,
-        "load": 12,
-        "active": "Inflict AOE float status to target while also apply space-time lock, last for 3.30 seconds (EP Consumption: 12 – Cooldown: 12s)",
-        "passive_1": "",
-        "passive_2": "",
-        "debuffs": [
-            "float",
-            "decelerated"
-        ],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 1
-                },
-                {
-                    "name": "Moon Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Broken Handle",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Microreactor",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Irralloy Sparkplug",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png",
-                    "count": 1
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "1"
-                ]
-            },
-            "Moon Will": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
-            },
-            "Broken Handle": {
-                "requirement": [
-                    "?",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            },
-            "Microreactor": {
-                "requirement": [
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "Irralloy Sparkplug": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50643"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/61810",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61810.png"
     },
     {
         "name": "Original Fairy Bow",
@@ -1183,7 +1110,90 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/77333"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/77333",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_77333.png"
+    },
+    {
+        "name": "Water Spirit Type-II",
+        "category": "dual-gun",
+        "rank": 3,
+        "atk": 169,
+        "crit": 29,
+        "load": 12,
+        "active": "Inflict AOE float status to target while also apply space-time lock, last for 3.30 seconds (EP Consumption: 12 – Cooldown: 12s)",
+        "passive_1": "",
+        "passive_2": "",
+        "debuffs": [
+            "float",
+            "timelock"
+        ],
+        "elements": [],
+        "description": "",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 1
+                },
+                {
+                    "name": "Moon Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Broken Handle",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Microreactor",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Irralloy Sparkplug",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png",
+                    "count": 1
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            },
+            "Moon Will": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "Broken Handle": {
+                "requirement": [
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50643",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50643.png"
     },
     {
         "name": "Shennong Protection",
@@ -1197,7 +1207,7 @@
         "passive_2": "",
         "debuffs": [
             "freeze",
-            "ATK down"
+            "ATK -"
         ],
         "elements": [],
         "description": "",
@@ -1281,7 +1291,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50635"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50635",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50635.png"
     },
     {
         "name": "Fafnir Flame",
@@ -1299,7 +1310,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "Part of the \" Gods \" weapon series , produced by the Schicksal using \" Soul Steel. \" It produces powerful explosive particles through the atomic fission of Honkai energy , capable of unleashing a terrifying force that rivals",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -1380,7 +1391,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50634"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50634",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50634.png"
     },
     {
         "name": "Yae Spirit Gun",
@@ -1477,7 +1489,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59935"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59935",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59935.png"
     },
     {
         "name": "Light and Shadow",
@@ -1495,7 +1508,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "Bursts frost air when a basic attack ( including",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -1576,7 +1589,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50631"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50631",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50631.png"
     },
     {
         "name": "Holy Guns - Kallen",
@@ -1654,7 +1668,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59938"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59938",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59938.png"
     },
     {
         "name": "Water Spirit Type-I",
@@ -1727,7 +1742,89 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50642"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50642",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50642.png"
+    },
+    {
+        "name": "Colt Peacemaker",
+        "category": "dual-gun",
+        "rank": 2,
+        "atk": 114,
+        "crit": 25,
+        "load": 8,
+        "active": "Fire one bullet that inflict small AOE stun status, last for 2.99 seconds (EP Consumption: 7 – Cooldown: 12s)",
+        "passive_1": "",
+        "passive_2": "",
+        "debuffs": [
+            "stun"
+        ],
+        "elements": [],
+        "description": "A double-action revolver designed and produced by the Colt Company. It works with 44 Special , 44 Magnum , and 45 Colt bullets .",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 4
+                },
+                {
+                    "name": "Moon Shard",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Moon Shard",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Honkai Beast Wingshell",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Aerostat",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png",
+                    "count": 1
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Moon Shard": {
+                "requirement": [
+                    "1",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
+            },
+            "Twin Moon Shard": {
+                "requirement": [
+                    "?",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Aerostat": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50647",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50647.png"
     },
     {
         "name": "Usurper Hand Cannon",
@@ -1740,7 +1837,7 @@
         "passive_1": "Increase ranged physical damage by 40%. Reduce damage dealt by 10% per every 1m further away from the enemy, up to 80%",
         "passive_2": "",
         "debuffs": [
-            "ATK down"
+            "ATK -"
         ],
         "elements": [],
         "description": "",
@@ -1824,7 +1921,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66349"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66349",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66349.png"
     },
     {
         "name": "Xuanyuan Pulse Pistol",
@@ -1837,7 +1935,7 @@
         "passive_1": "",
         "passive_2": "",
         "debuffs": [
-            "DEF down"
+            "DEF -"
         ],
         "elements": [
             "electric"
@@ -1906,87 +2004,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54226"
-    },
-    {
-        "name": "Colt Peacemaker",
-        "category": "dual-gun",
-        "rank": 2,
-        "atk": 114,
-        "crit": 25,
-        "load": 8,
-        "active": "Fire one bullet that inflict small AOE stun status, last for 2.99 seconds (EP Consumption: 7 – Cooldown: 12s)",
-        "passive_1": "",
-        "passive_2": "",
-        "debuffs": [
-            "stun"
-        ],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 4
-                },
-                {
-                    "name": "Moon Shard",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Twin Moon Shard",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Honkai Beast Wingshell",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Aerostat",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png",
-                    "count": 1
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            },
-            "Moon Shard": {
-                "requirement": [
-                    "1",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
-            },
-            "Twin Moon Shard": {
-                "requirement": [
-                    "?",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
-            },
-            "Honkai Beast Wingshell": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
-            },
-            "Aerostat": {
-                "requirement": [
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50647"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54226",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54226.png"
     },
     {
         "name": "Dominator's Pistol",
@@ -2004,7 +2023,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "Fury Dominator",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -2035,7 +2054,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50628"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50628",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50628.png"
     },
     {
         "name": "Hurricane Revolver",
@@ -2053,7 +2073,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "A weapon produced by the Schicksal with metal containing ice-type Honkai energy that has been affected by the fourth God Bringer. The Honkai magnetic field at the muzzle causes the bullet to spin wildly in its path , causing",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -2084,7 +2104,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50627"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50627",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50627.png"
     },
     {
         "name": "Fire Spirit Type-I",
@@ -2164,7 +2185,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50644"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50644",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50644.png"
     },
     {
         "name": "Dark Actor Pistol",
@@ -2242,7 +2264,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66350"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66350",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66350.png"
     },
     {
         "name": "Fire Spirit Type-II",
@@ -2324,7 +2347,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50645"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50645",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50645.png"
     },
     {
         "name": "Burning Wings",
@@ -2404,7 +2428,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50641"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50641",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50641.png"
     },
     {
         "name": "Fire Wheel Mosin Nagant",
@@ -2484,7 +2509,194 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50640"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50640",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50640.png"
+    },
+    {
+        "name": "Proto Pistols",
+        "category": "dual-gun",
+        "rank": 1,
+        "atk": 146,
+        "crit": 29,
+        "load": 12,
+        "description": "Produced with the USP series as reference. It's one of the Honkai weapon prototypes that very few people know about . It grows up at its master ' s side , and may be upgraded to 4-star rarity as far as current records are",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 1
+                },
+                {
+                    "name": "Moon Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Broken Handle",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Microreactor",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Irralloy Sparkplug",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Moon Shard",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Twin Moon Shard",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Honkai Beast Wingshell",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Aerostat",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Honkai Beast Paw",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51525_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Tungsten Plating",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png",
+                    "count": 0
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            },
+            "Moon Will": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "Broken Handle": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "Moon Shard": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "1",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
+            },
+            "Twin Moon Shard": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "?",
+                    "2",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "1",
+                    "2",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Aerostat": {
+                "requirement": [
+                    "?",
+                    "?",
+                    "1",
+                    "1",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            },
+            "Honkai Beast Paw": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "?",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51525_i.png"
+            },
+            "Tungsten Plating": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "?",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50638",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50638.png"
     },
     {
         "name": "Phoenix Gun",
@@ -2564,7 +2776,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54285"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54285",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54285.png"
     },
     {
         "name": "",
@@ -2603,7 +2816,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50636"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50636",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50636.png"
     },
     {
         "name": "Alloy Dominator's Pistol",
@@ -2612,7 +2826,7 @@
         "atk": 158,
         "crit": 24,
         "load": 12,
-        "description": "",
+        "description": "Fury Dominator",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -2642,192 +2856,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50637"
-    },
-    {
-        "name": "Proto Pistols",
-        "category": "dual-gun",
-        "rank": 1,
-        "atk": 146,
-        "crit": 29,
-        "load": 12,
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 1
-                },
-                {
-                    "name": "Moon Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Broken Handle",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Microreactor",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Irralloy Sparkplug",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Moon Shard",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Twin Moon Shard",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Honkai Beast Wingshell",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Aerostat",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Honkai Beast Paw",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51525_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Tungsten Plating",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png",
-                    "count": 0
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "1"
-                ]
-            },
-            "Moon Will": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "?",
-                    "?",
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
-            },
-            "Broken Handle": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "?",
-                    "?",
-                    "?",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            },
-            "Microreactor": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "?",
-                    "?",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "Irralloy Sparkplug": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "?",
-                    "?",
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            },
-            "Moon Shard": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
-            },
-            "Twin Moon Shard": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "?",
-                    "2",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
-            },
-            "Honkai Beast Wingshell": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "1",
-                    "2",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
-            },
-            "Aerostat": {
-                "requirement": [
-                    "?",
-                    "?",
-                    "1",
-                    "1",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
-            },
-            "Honkai Beast Paw": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "?",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51525_i.png"
-            },
-            "Tungsten Plating": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "?",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50638"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50637",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50637.png"
     },
     {
         "name": "Desert Eagle",
@@ -2841,7 +2871,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "Produced by the IMI Company , this weapon comes with three calibers: 357 Magnum , 44 Magnum , and 50 AE. It can be easily modified through combining different barrels , actions , and magazines .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -2905,7 +2935,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50646"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50646",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50646.png"
     },
     {
         "name": "M1911",
@@ -2983,7 +3014,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50649"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50649",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50649.png"
     },
     {
         "name": "USP EX",
@@ -3061,7 +3093,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50648"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50648",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50648.png"
     },
     {
         "name": "USP45",
@@ -3115,7 +3148,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50651"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50651",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50651.png"
     },
     {
         "name": "Void Blade",
@@ -3124,7 +3158,7 @@
         "atk": 267,
         "crit": 43,
         "load": 18,
-        "description": "",
+        "description": "Energy Devourer",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -3205,7 +3239,149 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50661"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50661",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50661.png"
+    },
+    {
+        "name": "3rd Sacred Relic",
+        "category": "katana",
+        "rank": 4,
+        "atk": 254,
+        "crit": 59,
+        "load": 18,
+        "active": "",
+        "passive_1": "",
+        "passive_2": "During Burst Mode, Physical Damage +30%",
+        "debuffs": [],
+        "elements": [],
+        "description": "A light multi-functional melee combat weapon from the last era of civilization , excavated from Lake Baikal by the Schicksal. It seems to utilize a sort of God Bringer core material and its composition is practically impossible to",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 1
+                }
+            ],
+            "upgrade_2": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 5
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 2
+                }
+            ],
+            "upgrade_3": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 7
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 4
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 3
+                }
+            ]
+        },
+        "upgrades": {
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50659",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50659.png"
     },
     {
         "name": "Fairy Sword – Sylvan",
@@ -3345,147 +3521,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/71558"
-    },
-    {
-        "name": "3rd Sacred Relic",
-        "category": "katana",
-        "rank": 4,
-        "atk": 254,
-        "crit": 59,
-        "load": 18,
-        "active": "",
-        "passive_1": "",
-        "passive_2": "During Burst Mode, Physical Damage +30%",
-        "debuffs": [],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 1
-                }
-            ],
-            "upgrade_2": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 5
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 2
-                }
-            ],
-            "upgrade_3": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 7
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 4
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 3
-                }
-            ]
-        },
-        "upgrades": {
-            "Honkai Crystal": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "Super Alloy Shield": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "Phase Shifter": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "Tesla Turbine": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "Twin Ocean's Will": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50659"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/71558",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_71558.png"
     },
     {
         "name": "Raikiri",
@@ -3501,7 +3538,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "A samurai sword developed by the ME Corp Headquarters using data acquired from Project-MEI. The powerful EM field formed around the hilt protects the wielder , like a shield of the Lightning Empress .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -3582,7 +3619,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50656"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50656",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50656.png"
     },
     {
         "name": "Sakura Blossom",
@@ -3591,7 +3629,7 @@
         "atk": 289,
         "crit": 29,
         "load": 18,
-        "description": "",
+        "description": "Round Dance Upon attacking a target , there's a 100. 0 % chance of unleashing a blade wave , dealing physical damage equal to 200 . 0 % of ATK . Blade waves deal an",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -3672,26 +3710,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59468"
-    },
-    {
-        "name": "Jizou Spirit",
-        "category": "katana",
-        "rank": 4,
-        "atk": 289,
-        "crit": 24,
-        "load": 18,
-        "active": "Summon Jizou Spirit, last for 39 seconds. When enter the battlefield, Jizou deal physical damage 300% based on attack power to enemy and its surrounding, inflict float status. Jizou’s pattern attack:",
-        "passive_1": "Increase all-damage against float status enemy by 32%",
-        "passive_2": "",
-        "debuffs": [
-            "float"
-        ],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {},
-        "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/80260"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59468",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59468.png"
     },
     {
         "name": "Heavenly Sword",
@@ -3704,8 +3724,8 @@
         "passive_1": "When attacked, strike lightning at attacking enemy, dealing 150% electric elemetal damage, paralyze for 1 second, cooldown 10 seconds",
         "passive_2": "",
         "debuffs": [
-            "DEF down",
-            "ATK down"
+            "DEF -",
+            "ATK -"
         ],
         "elements": [
             "electric"
@@ -3836,104 +3856,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54283"
-    },
-    {
-        "name": "Promise After Rain",
-        "category": "katana",
-        "rank": 4,
-        "atk": 287,
-        "crit": 29,
-        "load": 18,
-        "active": "Summon an umbrella that shoot out crystal in a circular field, dealing physical damage based on 24* 30% attack power, reduce enemy caught in crystal field attack speed and movement speed by 40%, last for 5 seconds (EP Consumption: 16 – Cooldown: 18s)",
-        "passive_1": "Increase 20% physical damage against slowed enemy\nIncrease 20% all-damage when combo reaches 50",
-        "passive_2": "",
-        "debuffs": [
-            "slow"
-        ],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 4
-                },
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 1
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            },
-            "Honkai Crystal": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "Super Alloy Shield": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "Phase Shifter": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "Tesla Turbine": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "Twin Ocean's Will": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/81265"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54283",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54283.png"
     },
     {
         "name": "MagStorm",
@@ -3951,13 +3875,9 @@
         "elements": [
             "electric"
         ],
-        "description": "",
+        "description": "A samurai sword developed by the ME Corp Headquarters using data acquired from Project-MEI. When the Honkai energy particles in the EM field explode , the impact is almost as destructive as a blow from the Third God Bringer .",
         "upgradeReq": {
             "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 4
-                },
                 {
                     "name": "Honkai Crystal",
                     "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
@@ -3983,14 +3903,63 @@
                     "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
                     "count": 1
                 }
+            ],
+            "upgrade_2": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 5
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 2
+                }
+            ],
+            "upgrade_3": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 7
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 4
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 3
+                }
             ]
         },
         "upgrades": {
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            },
             "Honkai Crystal": {
                 "requirement": [
                     "1",
@@ -4032,7 +4001,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50657"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50657",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50657.png"
     },
     {
         "name": "Demon Katana – Red Dyed Cherry Blossoms",
@@ -4129,7 +4099,126 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/85982"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/85982",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_85982.png"
+    },
+    {
+        "name": "Jizou Spirit",
+        "category": "katana",
+        "rank": 4,
+        "atk": 289,
+        "crit": 24,
+        "load": 18,
+        "active": "Summon Jizou Spirit, last for 39 seconds. When enter the battlefield, Jizou deal physical damage 300% based on attack power to enemy and its surrounding, inflict float status. Jizou’s pattern attack:",
+        "passive_1": "Increase all-damage against float status enemy by 32%",
+        "passive_2": "",
+        "debuffs": [
+            "float"
+        ],
+        "elements": [],
+        "description": "",
+        "upgradeReq": {},
+        "upgrades": {},
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/80260",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_80260.png"
+    },
+    {
+        "name": "Promise After Rain",
+        "category": "katana",
+        "rank": 4,
+        "atk": 287,
+        "crit": 29,
+        "load": 18,
+        "active": "Summon an umbrella that shoot out crystal in a circular field, dealing physical damage based on 24* 30% attack power, reduce enemy caught in crystal field attack speed and movement speed by 40%, last for 5 seconds (EP Consumption: 16 – Cooldown: 18s)",
+        "passive_1": "Increase 20% physical damage against slowed enemy\nIncrease 20% all-damage when combo reaches 50",
+        "passive_2": "",
+        "debuffs": [
+            "slow"
+        ],
+        "elements": [],
+        "description": "",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 4
+                },
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 1
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/81265",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_81265.png"
     },
     {
         "name": "Zouhou",
@@ -4224,7 +4313,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/68557"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/68557",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_68557.png"
     },
     {
         "name": "High Frequency Cutter",
@@ -4237,13 +4327,13 @@
         "passive_1": "When performing a critical, 50.0% chance to inflict knock up and lock time-space to enemy, last for 3 seconds,  6.02 seconds cooldown",
         "passive_2": "",
         "debuffs": [
-            "DEF down",
+            "DEF -",
             "bind"
         ],
         "elements": [
             "electric"
         ],
-        "description": "",
+        "description": "With the data obtained from experiments on Seele , the Anti-Entropy has achieved huge breakthroughs in the research of the movements of micro - particles , and in turn used what they learned to develop this katana , which slices",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4324,7 +4414,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59945"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59945",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59945.png"
     },
     {
         "name": "Plasma Kagehide",
@@ -4342,7 +4433,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "Deals an additional 24 ice damage upon hitting the target .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4423,7 +4514,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50658"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50658",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50658.png"
     },
     {
         "name": "Vorpal Sword Type-11",
@@ -4439,7 +4531,7 @@
             "bleed"
         ],
         "elements": [],
-        "description": "",
+        "description": "Bronya's Project Bunny 19C is fitted with modules that are capable of creating mini-black holes by consuming Honkai energy. Through reverse engineering of this module , the ME Corp has managed to create a tachi with similar",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4520,7 +4612,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50660"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50660",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50660.png"
     },
     {
         "name": "Lightning Soul",
@@ -4536,7 +4629,7 @@
         "elements": [
             "electric"
         ],
-        "description": "",
+        "description": "A saber designed especially for Valkyries by the St. 7308 Research Center . A huge number of Honkai particles are attached to the surface of the blade . The blade is in a unique shape , not to enhance its performance but to",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4600,7 +4693,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50665"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50665",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50665.png"
     },
     {
         "name": "Gluttony Scimitar",
@@ -4616,7 +4710,7 @@
             "stun"
         ],
         "elements": [],
-        "description": "",
+        "description": "A weapon produced by ME Corp through extracting the ice-and - curing - type core from the body of Honkai beast Gaņeśa and using Honkai bio - energy technology. The core is melded with a special Honkai - adaptive alloy to create an",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4647,7 +4741,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50654"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50654",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50654.png"
     },
     {
         "name": "",
@@ -4747,7 +4842,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/84364_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/84300"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/84300",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_84300.png"
     },
     {
         "name": "Wind Wielder",
@@ -4763,7 +4859,7 @@
             "slow"
         ],
         "elements": [],
-        "description": "",
+        "description": "5. 0 % chance of increasing Movement Speed by",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4794,7 +4890,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50655"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50655",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50655.png"
     },
     {
         "name": "Crystal Edge",
@@ -4810,7 +4907,7 @@
             "freeze"
         ],
         "elements": [],
-        "description": "",
+        "description": "Snowy white crystal flowers bloom on the battlefield of the Second Honkai War. The St . 7308 Research Center used these flowers to forge this reverse-edged sword , which comes with magical powers that are capable of freezing",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4874,7 +4971,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50669"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50669",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50669.png"
     },
     {
         "name": "Pulse Katana Type-19",
@@ -4888,7 +4986,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A EM pulse sword designed by Raiden Ryoma , former CEO of ME Corp himself. The purpose of the design is to allow even the average person to fight with Honkai energy . Why did he design this sword . . . ?",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -4952,7 +5050,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50670"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50670",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50670.png"
     },
     {
         "name": "Heat Cutting Blade",
@@ -5034,7 +5133,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50666"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50666",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50666.png"
     },
     {
         "name": "Pulse Katana Type-17",
@@ -5052,7 +5152,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "A EM pulse sword designed by Raiden Ryoma , former CEO of ME Corp himself. The purpose of the design is to slow down and imprison enemies instead of killing them . Why did he design this sword . . . ?",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5116,7 +5216,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50671"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50671",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50671.png"
     },
     {
         "name": "Thunder Roar",
@@ -5198,7 +5299,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54284"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54284",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54284.png"
     },
     {
         "name": "Phoenix Sword",
@@ -5214,7 +5316,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A limited-edition weapon. One of the \" Phoenix \" twin weapon set . The other half of the set , counterpart of Mei's Phoenix Sword , is Kiana ' s Feng Spear .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5278,7 +5380,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54282"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54282",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54282.png"
     },
     {
         "name": "Xuanyuan: Katana",
@@ -5296,7 +5399,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "To aid Mei , who was swallowed by Chiyou , the servant of Jixuanyuan utilized fragments of the Xuanyuan Sword to power up the pulse katana and granting it the ability to control ice .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5360,7 +5463,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59937"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59937",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59937.png"
     },
     {
         "name": "Hell Thunder",
@@ -5369,7 +5473,7 @@
         "atk": 169,
         "crit": 28,
         "load": 12,
-        "description": "",
+        "description": "A saber designed especially for Valkyries by the St. 7308 Research Center . Honkai energy flows in the blade , and when it is swung the Honkai energy is released , creating powerful shockwaves . The blade is shaped like a rice",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5433,7 +5537,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50664"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50664",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50664.png"
     },
     {
         "name": "Endergonic Tachi",
@@ -5449,7 +5554,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A katana designed by the St. 7308 Research Center especially for Valkyries . It changes attack attributes according to the type of Honkai energy that goes with each Valkyrie , in order to help each Valkyrie achieve her ultimate",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5513,53 +5618,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/75917"
-    },
-    {
-        "name": "Alloyed Wind Wielder",
-        "category": "katana",
-        "rank": 3,
-        "atk": 157,
-        "crit": 26,
-        "load": 12,
-        "active": "Summon a tornado, each hit deal 178 ice elemental damage (SP Consumption: 14 – Cooldown: 15 seconds)",
-        "passive_1": "",
-        "passive_2": "",
-        "debuffs": [],
-        "elements": [
-            "ice"
-        ],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 9
-                },
-                {
-                    "name": "Broken Handle",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png",
-                    "count": 1
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "9"
-                ]
-            },
-            "Broken Handle": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50663"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/75917",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_75917.png"
     },
     {
         "name": "Proto Katana",
@@ -5568,7 +5628,7 @@
         "atk": 146,
         "crit": 29,
         "load": 12,
-        "description": "",
+        "description": "Produced with the Muramasa series as reference. It's one of the Honkai weapon prototypes that very few people know about . It grows up at its master ' s side , and may be upgraded to 4-star rarity as far as current records are",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5744,21 +5804,24 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50667"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50667",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50667.png"
     },
     {
-        "name": "Alloyed Gluttony Scimitar",
+        "name": "Alloyed Wind Wielder",
         "category": "katana",
         "rank": 3,
-        "atk": 166,
-        "crit": 14,
+        "atk": 157,
+        "crit": 26,
         "load": 12,
-        "active": "Summon a whirlwind that pull enemy towards wielder, dealing 317 physical damage each hit (EP Consumption: 10 – Cooldown: 15)",
+        "active": "Summon a tornado, each hit deal 178 ice elemental damage (SP Consumption: 14 – Cooldown: 15 seconds)",
         "passive_1": "",
         "passive_2": "",
         "debuffs": [],
-        "elements": [],
-        "description": "",
+        "elements": [
+            "ice"
+        ],
+        "description": "5. 0 % chance of increasing Movement Speed by",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5788,7 +5851,53 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50662"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50663",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50663.png"
+    },
+    {
+        "name": "Alloyed Gluttony Scimitar",
+        "category": "katana",
+        "rank": 3,
+        "atk": 166,
+        "crit": 14,
+        "load": 12,
+        "active": "Summon a whirlwind that pull enemy towards wielder, dealing 317 physical damage each hit (EP Consumption: 10 – Cooldown: 15)",
+        "passive_1": "",
+        "passive_2": "",
+        "debuffs": [],
+        "elements": [],
+        "description": "A weapon produced by ME Corp through extracting the ice-and - curing - type core from the body of Honkai beast Gaņeśa and using Honkai bio - energy technology. The core is melded with a special Honkai - adaptive alloy to create an",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 9
+                },
+                {
+                    "name": "Broken Handle",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png",
+                    "count": 1
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "9"
+                ]
+            },
+            "Broken Handle": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50662",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50662.png"
     },
     {
         "name": "Vermillion Edge",
@@ -5868,7 +5977,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51503_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50668"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50668",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50668.png"
     },
     {
         "name": "Muramasa Bloodlust",
@@ -5882,7 +5992,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "As members of the Tokugawa family died under the Muramasa one by one , the sword became know as an unlucky omen , called a \" demon blade \" by many. Legend has it that only the pure , untainted passion of young girls",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -5946,7 +6056,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50672"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50672",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50672.png"
     },
     {
         "name": "Rosefinch",
@@ -5962,7 +6073,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "Designed and forged by the Muramasa family. The blade is forged from an unknown alloy , completely black normally but gleams in a curious orange-red color when in contact with blood . So far , no one knows exactly what material has",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -6026,7 +6137,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50676"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50676",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50676.png"
     },
     {
         "name": "Amemura Bloodlust",
@@ -6040,7 +6152,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "When slaying someone with this weapon , dew will spew out from the blade as if to wash away the blood. This may be the tears of regret of the sword , in an attempt to cleanse itself from its sins .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -6104,7 +6216,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50673"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50673",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50673.png"
     },
     {
         "name": "Horikawa Kunihiro",
@@ -6118,7 +6231,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "The beloved sword of Hijikata Toshizo of the Shinzen-gumi , a true masterpiece forged by the famed swordsmith Hyuga Sumikuni from Kyushu. Hijikata cherished this sword and kept it on him wherever he went .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -6182,7 +6295,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50674"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50674",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50674.png"
     },
     {
         "name": "Seishuu Muramasa",
@@ -6196,7 +6310,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "An ancient samurai sword from Japan. Legend has it that it was forged by the Muramasa family from Ise . Renowned since its first version , this weapon is said to be the representative of all Japanese samurai swords .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -6236,7 +6350,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50677"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50677",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50677.png"
     },
     {
         "name": "Týr Wrist",
@@ -6333,7 +6448,149 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/64775"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/64775",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_64775.png"
+    },
+    {
+        "name": "5th Sacred Relic",
+        "category": "cannon",
+        "rank": 4,
+        "atk": 254,
+        "crit": 59,
+        "load": 18,
+        "active": "",
+        "passive_1": "Based on charging level, when missle explode, create 2/4/9 mini bombs, each dealing 30% physical damage",
+        "passive_2": "",
+        "debuffs": [],
+        "elements": [],
+        "description": "Cluster Bomb Generates extra bullets upon explosion. The three stages of charging generates 2 , 4 , and 9 extra",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Twin Lightning Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png",
+                    "count": 1
+                }
+            ],
+            "upgrade_2": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 5
+                },
+                {
+                    "name": "Twin Lightning Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png",
+                    "count": 2
+                }
+            ],
+            "upgrade_3": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 4
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 7
+                },
+                {
+                    "name": "Twin Lightning Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png",
+                    "count": 3
+                }
+            ]
+        },
+        "upgrades": {
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50687",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50687.png"
     },
     {
         "name": "Sanada Fire Katana",
@@ -6473,147 +6730,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/61656"
-    },
-    {
-        "name": "5th Sacred Relic",
-        "category": "cannon",
-        "rank": 4,
-        "atk": 254,
-        "crit": 59,
-        "load": 18,
-        "active": "",
-        "passive_1": "Based on charging level, when missle explode, create 2/4/9 mini bombs, each dealing 30% physical damage",
-        "passive_2": "",
-        "debuffs": [],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Twin Lightning Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png",
-                    "count": 1
-                }
-            ],
-            "upgrade_2": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 5
-                },
-                {
-                    "name": "Twin Lightning Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png",
-                    "count": 2
-                }
-            ],
-            "upgrade_3": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 4
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 7
-                },
-                {
-                    "name": "Twin Lightning Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png",
-                    "count": 3
-                }
-            ]
-        },
-        "upgrades": {
-            "Honkai Crystal": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "Super Alloy Shield": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "Phase Shifter": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "Tesla Turbine": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "Twin Lightning Will": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50687"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/61656",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61656.png"
     },
     {
         "name": "Briareus PRI",
@@ -6626,11 +6744,11 @@
         "passive_1": "",
         "passive_2": "",
         "debuffs": [
-            "DEF down",
-            "decelerated"
+            "DEF -",
+            "timelock"
         ],
         "elements": [],
-        "description": "",
+        "description": "Time Tran",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -6711,7 +6829,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50685"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50685",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50685.png"
     },
     {
         "name": "Star Destroyer 19c",
@@ -6811,7 +6930,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/71096"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/71096",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_71096.png"
     },
     {
         "name": "Fuxi Scroll",
@@ -6906,7 +7026,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/61097"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/61097",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61097.png"
     },
     {
         "name": "Hellfire Form 3",
@@ -7003,7 +7124,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59934"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59934",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59934.png"
     },
     {
         "name": "Quantum Demolisher Form II",
@@ -7102,7 +7224,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59946"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59946",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59946.png"
     },
     {
         "name": "Chiyou Cannon",
@@ -7120,7 +7243,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "Dark Ice [SP Cost: 25] [ Cooldown : 20 sec ] Shoots an icy shock wave , freezing surrounding enemies with Dark Ice. Deals 960 ice damage every 0 . 9 sec to enemies trapped in Dark Ice and recovers skill caster's HP by 100 . Dark Ice lasts for 4 sec .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -7201,7 +7324,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50682"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50682",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50682.png"
     },
     {
         "name": "M134 Vulcan",
@@ -7341,7 +7465,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/98215"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/98215",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_98215.png"
     },
     {
         "name": "Cyclops PRI",
@@ -7355,7 +7480,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "Death Explosion",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -7436,7 +7561,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50686"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50686",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50686.png"
     },
     {
         "name": "Project Bunny 19c",
@@ -7531,7 +7657,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50683"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50683",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50683.png"
     },
     {
         "name": "Lurker's Cannon",
@@ -7547,6 +7674,56 @@
             "stun"
         ],
         "elements": [],
+        "description": "One Punch [SP Cost: 18] ( Cooldown : 12 sec Smashes ground multiple times using its mechanical arms , knocking back enemies and stunning them with each blow dealing physical damage equal to 120 % of ATK and stunning enemies for 2. 55 sec . This skill grants a short movement speed boost upon casting .",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 3
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "3"
+                ]
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50678",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50678.png"
+    },
+    {
+        "name": "Devourer's Cannon",
+        "category": "cannon",
+        "rank": 4,
+        "atk": 239,
+        "crit": 22,
+        "load": 17,
+        "active": "Slam a mechanical arm on the ground, dealing multiple instance of damage, knock back enemies, dealing 214 fire elemental damage, inflict burn status, dealing 134 fire elemtal damage and increase wielder movement speed for a period (EP Consumption: 18 – Cooldown: 12 seconds)",
+        "passive_1": "",
+        "passive_2": "",
+        "debuffs": [
+            "burn"
+        ],
+        "elements": [
+            "fire"
+        ],
         "description": "",
         "upgradeReq": {
             "upgrade_1": [
@@ -7578,7 +7755,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50678"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/51174",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_51174.png"
     },
     {
         "name": "",
@@ -7745,56 +7923,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109562"
-    },
-    {
-        "name": "Devourer's Cannon",
-        "category": "cannon",
-        "rank": 4,
-        "atk": 239,
-        "crit": 22,
-        "load": 17,
-        "active": "Slam a mechanical arm on the ground, dealing multiple instance of damage, knock back enemies, dealing 214 fire elemental damage, inflict burn status, dealing 134 fire elemtal damage and increase wielder movement speed for a period (EP Consumption: 18 – Cooldown: 12 seconds)",
-        "passive_1": "",
-        "passive_2": "",
-        "debuffs": [
-            "burn"
-        ],
-        "elements": [
-            "fire"
-        ],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 3
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 1
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "3"
-                ]
-            },
-            "Tesla Turbine": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/51174"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109562",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109562.png"
     },
     {
         "name": "Markov Type A",
@@ -7810,7 +7940,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A heavy Honkai energy weapon produced by the Mikoyan Design Bureau. It was once a standard Soviet weapon , but now comes with a Honkai energy crystal shard . Its technology system is not of Schicksal nor of Anti-Entropy .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -7874,7 +8004,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50692"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50692",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50692.png"
     },
     {
         "name": "Cathode Type-09",
@@ -7888,7 +8019,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A beam cannon developed by Kukuria , ME Corp's current CEO. It is capable of separating cathodes from Honkai energy particles and sending them through a vibration device to form light beams , which can paralyze the target .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -7952,7 +8083,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50694"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50694",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50694.png"
     },
     {
         "name": "Cathode Type-07",
@@ -7968,7 +8100,7 @@
             "slow"
         ],
         "elements": [],
-        "description": "",
+        "description": "Frost Trail [SP Cost: 7] ( Cooldown : 20 sec ] Decreases movement and attack speeds of surrounding enemies bv 80 % !",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -8032,7 +8164,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50695"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50695",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50695.png"
     },
     {
         "name": "Raider Missiles",
@@ -8046,7 +8179,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A split missile designed by the Mikoyan Design Bureau. The cannonballs come with Honkai adsorption chains , which are capable of automatically locking on to the target and dealing heavy damage . On the cannonballs , a tiny",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -8110,7 +8243,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50689"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50689",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50689.png"
     },
     {
         "name": "Xuanyuan Pulse Cannon",
@@ -8192,7 +8326,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/81232"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/81232",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_81232.png"
     },
     {
         "name": "Howl of Ice",
@@ -8270,7 +8405,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54281"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54281",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54281.png"
     },
     {
         "name": "X-01 Blue Eyes of Oroch",
@@ -8350,7 +8486,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50693"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50693",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50693.png"
     },
     {
         "name": "Frost Rain",
@@ -8364,7 +8501,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "Chill Escape Shoots frost air when attacked , decreasing surrounding enemies'Attack Speed and Movement",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -8428,7 +8565,87 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59936"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59936",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59936.png"
+    },
+    {
+        "name": "MiG-11",
+        "category": "cannon",
+        "rank": 2,
+        "atk": 94,
+        "crit": 59,
+        "load": 8,
+        "active": "",
+        "passive_1": "",
+        "passive_2": "",
+        "debuffs": [],
+        "elements": [],
+        "description": "The development of this weapon began in the mid-50s. It is capable of launching weapons up to 523 kg , with an aircraft Mach number of 0 . 85 , a practical flying height of 16000 m , and a maximum range of 620 km .",
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "",
+                    "count": 4
+                },
+                {
+                    "name": "Aerostat",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Titanium Barrel",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Lightning Shard",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Lightning Shard",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png",
+                    "count": 0
+                }
+            ]
+        },
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Aerostat": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            },
+            "Lightning Shard": {
+                "requirement": [
+                    "1",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png"
+            },
+            "Twin Lightning Shard": {
+                "requirement": [
+                    "?",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50700",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50700.png"
     },
     {
         "name": "AI-chan's Cannon",
@@ -8506,85 +8723,53 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/64837"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/64837",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_64837.png"
     },
     {
-        "name": "MiG-11",
+        "name": "Alloyed Lurker's Cannon",
         "category": "cannon",
-        "rank": 2,
-        "atk": 94,
-        "crit": 59,
-        "load": 8,
-        "active": "",
+        "rank": 3,
+        "atk": 163,
+        "crit": 17,
+        "load": 12,
+        "active": "Slam mechanical arm on the ground, creating shock waves. Shock wave deal many damage instance, each deal physical damage 90% based on attack power (EP Consumption: 12 – Cooldown: 9s)",
         "passive_1": "",
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "One Punch [SP Cost: 18] ( Cooldown : 12 sec Smashes ground multiple times using its mechanical arms , knocking back enemies and stunning them with each blow dealing physical damage equal to 120 % of ATK and stunning enemies for 2. 55 sec . This skill grants a short movement speed boost upon casting .",
         "upgradeReq": {
             "upgrade_1": [
                 {
                     "name": "",
-                    "count": 4
+                    "count": 9
                 },
                 {
-                    "name": "Aerostat",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png",
+                    "name": "Irralloy Sparkplug",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png",
                     "count": 1
-                },
-                {
-                    "name": "Titanium Barrel",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Lightning Shard",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Twin Lightning Shard",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png",
-                    "count": 0
                 }
             ]
         },
         "upgrades": {
             "": {
                 "requirement": [
-                    "4"
+                    "9"
                 ]
             },
-            "Aerostat": {
+            "Irralloy Sparkplug": {
                 "requirement": [
                     "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
-            },
-            "Titanium Barrel": {
-                "requirement": [
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
-            },
-            "Lightning Shard": {
-                "requirement": [
-                    "1",
+                    "?",
+                    "?",
                     "?"
                 ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png"
-            },
-            "Twin Lightning Shard": {
-                "requirement": [
-                    "?",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50700"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50680",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50680.png"
     },
     {
         "name": "Proto Cannon",
@@ -8593,7 +8778,7 @@
         "atk": 146,
         "crit": 29,
         "load": 12,
-        "description": "",
+        "description": "Temporary Overclocking [SP Cost: 8] [ Cooldown : 15 sec ] Enhances own weapon , increasing physical damage of basic attacks ( including combo and charged attacks ) by 32 % for 5 sec",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -8769,51 +8954,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50690"
-    },
-    {
-        "name": "Alloyed Lurker's Cannon",
-        "category": "cannon",
-        "rank": 3,
-        "atk": 163,
-        "crit": 17,
-        "load": 12,
-        "active": "Slam mechanical arm on the ground, creating shock waves. Shock wave deal many damage instance, each deal physical damage 90% based on attack power (EP Consumption: 12 – Cooldown: 9s)",
-        "passive_1": "",
-        "passive_2": "",
-        "debuffs": [],
-        "elements": [],
-        "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 9
-                },
-                {
-                    "name": "Irralloy Sparkplug",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png",
-                    "count": 1
-                }
-            ]
-        },
-        "upgrades": {
-            "": {
-                "requirement": [
-                    "9"
-                ]
-            },
-            "Irralloy Sparkplug": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50680"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50690",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50690.png"
     },
     {
         "name": "Alloyed Devourer's Cannon",
@@ -8859,7 +9001,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50681"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50681",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50681.png"
     },
     {
         "name": "Fury Cannon",
@@ -8868,7 +9011,7 @@
         "atk": 114,
         "crit": 25,
         "load": 8,
-        "description": "",
+        "description": "A heavy cannon produced by the Soviet Union. A field weapon best fitted for attacking hidden targets and ground targets . It works with Molotov cocktails , grenades , propaganda bombs and various other types of bombs . The",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -8932,7 +9075,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50696"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50696",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50696.png"
     },
     {
         "name": "SU-30 Cannon",
@@ -8946,7 +9090,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "Aims and fires directly. The trajectory of this cannon is low and extended , while the velocity of its muzzle is quite high . It is one of the main cannon types used for ground artillery . The caliber is on the small side ( under 75 mm ) .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -9010,7 +9154,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50697"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50697",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50697.png"
     },
     {
         "name": "MiG-7",
@@ -9024,7 +9169,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "This weapon utilizes superconductive energy-storing current , created through superconductive technology , to produce high - intensity lasers which can be used to fire oriented laser beams , dealing direct damage on the target",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -9088,7 +9233,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50698"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50698",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50698.png"
     },
     {
         "name": "SU-22 Howitzer",
@@ -9102,7 +9248,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A field weapon best fitted for attacking hidden targets and ground targets. It works with Molotov cocktails , grenades , propaganda bombs and various other types of bombs . The cannon's caliber is 105 mm .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -9142,7 +9288,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50701"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50701",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50701.png"
     },
     {
         "name": "Blood Dance",
@@ -9156,7 +9303,7 @@
         "passive_2": "While combo is below 5, increase physical damage by 32%",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "Reborn",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -9282,7 +9429,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/58533"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/58533",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_58533.png"
     },
     {
         "name": "Xuanyuan Sword",
@@ -9385,7 +9533,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/56916"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/56916",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_56916.png"
     },
     {
         "name": "",
@@ -9475,7 +9624,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62839"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62839",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62839.png"
     },
     {
         "name": "Balmung",
@@ -9615,7 +9765,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/68024"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/68024",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_68024.png"
     },
     {
         "name": "Dark Xuanyuan Sword",
@@ -9628,7 +9779,7 @@
         "passive_1": "On-hit enemy will apply all area space-time distortion for 4.5 seconds, cooldown 60 seconds",
         "passive_2": "",
         "debuffs": [
-            "decelerated"
+            "timelock"
         ],
         "elements": [],
         "description": "",
@@ -9712,7 +9863,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59933"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59933",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59933.png"
     },
     {
         "name": "Sunfire Greatsword",
@@ -9730,13 +9882,9 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "Murata Himeko's favorite greatsword. It may be a bit outdated and not as powerful as it could be , but it has been by Himeko ' s side even before she became a Valkyrie .",
         "upgradeReq": {
             "upgrade_1": [
-                {
-                    "name": "",
-                    "count": 4
-                },
                 {
                     "name": "Honkai Crystal",
                     "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
@@ -9762,14 +9910,63 @@
                     "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png",
                     "count": 1
                 }
+            ],
+            "upgrade_2": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 5
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Twin Fire Will?",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png",
+                    "count": 2
+                }
+            ],
+            "upgrade_3": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 7
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 4
+                },
+                {
+                    "name": "Twin Fire Will?",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png",
+                    "count": 3
+                }
             ]
         },
         "upgrades": {
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            },
             "Honkai Crystal": {
                 "requirement": [
                     "1",
@@ -9811,7 +10008,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50706"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50706",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50706.png"
     },
     {
         "name": "Dragon Spine",
@@ -9828,7 +10026,7 @@
             "bleed"
         ],
         "elements": [],
-        "description": "",
+        "description": "A greatsword forged by the Anti-Entropy using the marrow extracted from the ancient Honkai beast , Chiyou. Known as the \" Dragon \" by many , Chiyou was an enormous creature whose body still lies sleeping somewhere in the depths of",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -9909,7 +10107,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50707"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50707",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50707.png"
     },
     {
         "name": "7th Sacred Relic",
@@ -9925,7 +10124,7 @@
             "stun"
         ],
         "elements": [],
-        "description": "",
+        "description": "Sacred Rule",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10006,7 +10205,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/60751"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/60751",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_60751.png"
     },
     {
         "name": "Nidhogg's Claws",
@@ -10020,7 +10220,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "Death Dissever",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10101,7 +10301,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50708"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50708",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50708.png"
     },
     {
         "name": "Betrayer's Greatsword",
@@ -10117,7 +10318,7 @@
             "stun"
         ],
         "elements": [],
-        "description": "",
+        "description": "Murata Himeko's favorite greatsword. It may be a bit outdated and not as powerful as it could be , but it has been by Himeko ' s side even before she became a Valkyrie .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10148,7 +10349,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50702"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50702",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50702.png"
     },
     {
         "name": "Godfather's Greatsword",
@@ -10166,7 +10368,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "Murata Himeko's favorite greatsword. It may be a bit outdated and not as powerful as it could be , but it has been by Himeko ' s side even before she became a Valkyrie .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10197,7 +10399,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50703"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50703",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50703.png"
     },
     {
         "name": "",
@@ -10209,7 +10412,8 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109325"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109325",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109325.png"
     },
     {
         "name": "Ion Resonance",
@@ -10291,7 +10495,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50709"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50709",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50709.png"
     },
     {
         "name": "Nitro Crystal",
@@ -10305,7 +10510,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A greatsword developed by the ME Corp under a secret request by the leader of the Anti-Entropy alliance. It is capable of freezing enemies that it hits . Not even Kukuria , ME's current CEO , knows about its existence .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10369,7 +10574,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50712"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50712",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50712.png"
     },
     {
         "name": "King Cobra",
@@ -10383,7 +10589,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "The broadsword that belonged to Regona , captain of the late Valkyrie trooper squad. Regona was Himeko's instructor once upon a time . However , she was slain along with other squad members by someone in a Honkai battle",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10447,7 +10653,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50710"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50710",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50710.png"
     },
     {
         "name": "AI-chan's Hammer",
@@ -10527,14 +10734,15 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/74127"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/74127",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_74127.png"
     },
     {
         "name": "",
         "category": "greatsword",
         "rank": 3,
         "atk": 120,
-        "crit": 120,
+        "crit": 15,
         "load": 12,
         "description": "",
         "upgradeReq": {
@@ -10600,7 +10808,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59940"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59940",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59940.png"
     },
     {
         "name": "Vanguard",
@@ -10616,7 +10825,7 @@
             "float"
         ],
         "elements": [],
-        "description": "",
+        "description": "There was once a trooper squad of Valkyries , in which every member carried a broadsword and fought at the front lines of the battles against the Honkai. Himeko used to be part of this team as well 6 years ago . . .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10680,7 +10889,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50711"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50711",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50711.png"
     },
     {
         "name": "Alloy Betrayer's Greatsword",
@@ -10689,7 +10899,7 @@
         "atk": 169,
         "crit": 10,
         "load": 12,
-        "description": "",
+        "description": "A circulated version of the Betrayer's Greatsword , produced by the Mikoyan Design Bureau as an imitation piece. It retains 90 % of the functions of the Betrayer ' s Greatsword .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10719,7 +10929,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50704"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50704",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50704.png"
     },
     {
         "name": "Proto Greatsword",
@@ -10728,7 +10939,7 @@
         "atk": 153,
         "crit": 19,
         "load": 12,
-        "description": "",
+        "description": "Murata Himeko's favorite greatsword. It may be a bit outdated and not as powerful as it could be , but it has been by Himeko ' s side even before she became a Valkyrie .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -10904,7 +11115,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50713"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50713",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50713.png"
     },
     {
         "name": "",
@@ -10943,7 +11155,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50705"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50705",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50705.png"
     },
     {
         "name": "Alloy Godfather's Greatsword",
@@ -10952,7 +11165,7 @@
         "atk": 177,
         "crit": 17,
         "load": 12,
-        "description": "",
+        "description": "A weapon forged by the Schicksal with self-developed fire - type Honkai energy ores to replicate the Godfather's Greatsword. Its Honkai force is almost as powerful as that of the real Godfather ' s Greatsword .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11016,7 +11229,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54360"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54360",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54360.png"
     },
     {
         "name": "Sprocket Claymore",
@@ -11094,7 +11308,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62838"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62838",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62838.png"
     },
     {
         "name": "Fusion Sword EX",
@@ -11108,7 +11323,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A broadsword produced by the Mikoyan Design Bureau. The enhanced miniature Honkai energy furnace on the hilt is capable of dealing damage as powerful as a small nuclear explosion the moment it is activated .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11172,7 +11387,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50715"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50715",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50715.png"
     },
     {
         "name": "Hybrid Type-27",
@@ -11181,7 +11397,7 @@
         "atk": 116,
         "crit": 23,
         "load": 8,
-        "description": "",
+        "description": "A hybrid greatsword , it boasts the piercing function of knight swords , the chopping function of a slaying blade , and the easy-to - use characteristic of a broadsword. Only a powerful warrior could maneuver it skillfully .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11245,7 +11461,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54280"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/54280",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54280.png"
     },
     {
         "name": "Hybrid Type-16",
@@ -11259,7 +11476,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A hybrid greatsword , it boasts the piercing function of knight swords , the chopping function of a slaying blade , and the easy-to - use characteristic of a broadsword. In the hands of an experienced warrior , it is extremely deadly .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11323,15 +11540,16 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59939"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/59939",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59939.png"
     },
     {
         "name": "",
         "category": "greatsword",
         "rank": 3,
         "atk": 165,
-        "crit": null,
-        "load": null,
+        "crit": 0,
+        "load": 0,
         "description": "",
         "upgradeReq": {
             "upgrade_1": [
@@ -11396,7 +11614,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51506_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50714"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50714",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50714.png"
     },
     {
         "name": "Nuclear PRI",
@@ -11410,7 +11629,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A broadsword produced by the Mikoyan Design Bureau. The miniature Honkai energy furnace on the hilt is remodeled from an ancient Soviet Union nuclear furnace .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11474,7 +11693,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50716"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50716",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50716.png"
     },
     {
         "name": "Energy Greatsword",
@@ -11488,7 +11708,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A standard greatsword designed by St. 7308 Research Center especially for Valkyries . Based on an old greatsword model , this sword boasts increased Honkai energy powers . The blade gleams in the purple shade of Honkai energy .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11552,7 +11772,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51515_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50717"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50717",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50717.png"
     },
     {
         "name": "Greatsword",
@@ -11561,7 +11782,7 @@
         "atk": 78,
         "crit": 6,
         "load": 6,
-        "description": "",
+        "description": "Murata Himeko's favorite greatsword. It may be a bit outdated and not as powerful as it could be , but it has been by Himeko ' s side even before she became a Valkyrie .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11601,7 +11822,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51524_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50718"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/50718",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50718.png"
     },
     {
         "name": "Judah's Oath",
@@ -11745,7 +11967,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/63255"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/63255",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_63255.png"
     },
     {
         "name": "Blood Embrace",
@@ -11754,7 +11977,7 @@
         "atk": 265,
         "crit": 46,
         "load": 18,
-        "description": "",
+        "description": "A weapon created by Bishop Otto in imitation of \" Oath of Judah. \" Forged from a huge supply of \" Soul Steel , \" the weapon is also implanted with the cores of three emperor-level Honkai beasts . . .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -11880,7 +12103,21 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/63653"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/63653",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_63653.png"
+    },
+    {
+        "name": "ディメンションソナタ",
+        "category": "cross",
+        "rank": 4,
+        "atk": 271,
+        "crit": 38,
+        "load": 18,
+        "description": "",
+        "upgradeReq": {},
+        "upgrades": {},
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/111284",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_111284.png"
     },
     {
         "name": "Aurel de Nier",
@@ -11978,7 +12215,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/86341"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/86341",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_86341.png"
     },
     {
         "name": "11th Sacred Relic",
@@ -12118,7 +12356,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/80193"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/80193",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_80193.png"
     },
     {
         "name": "Cherry Blossoms Oath",
@@ -12215,7 +12454,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66326"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66326",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66326.png"
     },
     {
         "name": "Silver Cleaver",
@@ -12228,10 +12468,10 @@
         "passive_1": "Increase physical damage against weaken status enemy by 35%",
         "passive_2": "",
         "debuffs": [
-            "ATK down"
+            "ATK -"
         ],
         "elements": [],
-        "description": "",
+        "description": "Execute",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -12295,7 +12535,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66324"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/66324",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66324.png"
     },
     {
         "name": "",
@@ -12407,7 +12648,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51495_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109324"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109324",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109324.png"
     },
     {
         "name": "The Dark Crusher",
@@ -12423,7 +12665,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A cross-shaped weapon designed by the Mikoyan Design Bureau. When deployed , it automatically attacks the nearby areas , annihilating everything in the vicinity .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -12487,7 +12729,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62780"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62780",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62780.png"
     },
     {
         "name": "Lightning Angel",
@@ -12505,7 +12748,7 @@
         "elements": [
             "electric"
         ],
-        "description": "",
+        "description": "A cross-shaped weapon developed by the Schicksal. The core of emperor - level Honkai beast Ramiel has been implanted inside it , making it capable of unleashing powerful lightning bolts .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -12569,7 +12812,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62781"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62781",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62781.png"
     },
     {
         "name": "Fire Angel",
@@ -12587,7 +12831,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A cross-shaped weapon developed by the Schicksal. The core of emperor - level Honkai beast Raziel has been implanted inside it , making it capable of spewing destructive flames .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -12651,7 +12895,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/70207"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/70207",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_70207.png"
     },
     {
         "name": "AI-chan's Candy",
@@ -12724,7 +12969,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62845_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/63384"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/63384",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_63384.png"
     },
     {
         "name": "Proto Cross",
@@ -12733,7 +12979,7 @@
         "atk": 163,
         "crit": 22,
         "load": 12,
-        "description": "",
+        "description": "A cross-shaped self - defense machine gun developed by the Schicksal. It can be used to fire silver bullets that are effective against Honkai beasts , though apparently Theresa prefers simply throwing it at the enemy .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -12909,7 +13155,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62846_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62773"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62773",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62773.png"
     },
     {
         "name": "Ice Shell Cross",
@@ -12927,7 +13174,7 @@
         "elements": [
             "ice"
         ],
-        "description": "",
+        "description": "A cross-shaped self - defense machine gun developed by the Schicksal. It can be used to fire silver bullets that are effective against Honkai beasts , though apparently Theresa prefers simply throwing it at the enemy .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -12979,7 +13226,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62775"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62775",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62775.png"
     },
     {
         "name": "Cross Ice Bullets",
@@ -12988,7 +13236,7 @@
         "atk": 128,
         "crit": 2,
         "load": 8,
-        "description": "",
+        "description": "An adapted cross-shaped self - defense machine gun , which fires ice bullets that freeze the enemy. It is more powerful than the average cross , though apparently Theresa still prefers to just throw it at the enemy . . .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -13040,7 +13288,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62777"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62777",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62777.png"
     },
     {
         "name": "Flame Bullets Launcher",
@@ -13056,7 +13305,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A small Soviet-produced catapult for firebombs. Though it has become much lighter than it used to be , it still weighs a whopping 250 kg . Only that one ridiculously strong Maiden would ever run around carrying it on her back . . .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -13108,7 +13357,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62776"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62776",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62776.png"
     },
     {
         "name": "Fire Oath",
@@ -13126,7 +13376,7 @@
         "elements": [
             "fire"
         ],
-        "description": "",
+        "description": "A cross-shaped weapon designed especially for Theresa by the St. 7308 Research Center . The cross converts Honkai energy into flame energy , which aids Valkyries in their battles .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -13178,7 +13428,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62779"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62779",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62779.png"
     },
     {
         "name": "Ice Oath",
@@ -13246,7 +13497,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62842_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62778"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62778",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62778.png"
     },
     {
         "name": "Cross",
@@ -13260,7 +13512,7 @@
         "passive_2": "",
         "debuffs": [],
         "elements": [],
-        "description": "",
+        "description": "A cross-shaped self - defense machine gun developed by the Schicksal. It can be used to fire silver bullets that are effective against Honkai beasts , though apparently Theresa prefers simply throwing it at the enemy .",
         "upgradeReq": {
             "upgrade_1": [
                 {
@@ -13300,7 +13552,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51526_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62774"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/62774",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62774.png"
     },
     {
         "name": "Fist of Taixu",
@@ -13319,24 +13572,144 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95866"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95866",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95866.png"
     },
     {
-        "name": "Twin Wolves of Eternal Twilight",
+        "name": "",
         "category": "gauntlet",
         "rank": 4,
         "atk": 283,
-        "crit": 24,
+        "crit": 23,
         "load": 18,
-        "active": "",
-        "passive_1": "",
-        "passive_2": "",
-        "debuffs": [],
-        "elements": [],
         "description": "",
-        "upgradeReq": {},
-        "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109660"
+        "upgradeReq": {
+            "upgrade_1": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 0
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 1
+                }
+            ],
+            "upgrade_2": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 5
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 2
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 2
+                }
+            ],
+            "upgrade_3": [
+                {
+                    "name": "Honkai Crystal",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Super Alloy Shield",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
+                    "count": 7
+                },
+                {
+                    "name": "Phase Shifter",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
+                    "count": 4
+                },
+                {
+                    "name": "Tesla Turbine",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
+                    "count": 1
+                },
+                {
+                    "name": "Twin Ocean's Will",
+                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
+                    "count": 3
+                }
+            ]
+        },
+        "upgrades": {
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        },
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/101866",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_101866.png"
     },
     {
         "name": "Darken Nuada",
@@ -13480,142 +13853,39 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95864"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95864",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95864.png"
     },
     {
-        "name": "",
+        "name": "Twin Wolves of Eternal Twilight",
         "category": "gauntlet",
         "rank": 4,
         "atk": 283,
-        "crit": 23,
+        "crit": 24,
+        "load": 18,
+        "active": "",
+        "passive_1": "",
+        "passive_2": "",
+        "debuffs": [],
+        "elements": [],
+        "description": "",
+        "upgradeReq": {},
+        "upgrades": {},
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/109660",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109660.png"
+    },
+    {
+        "name": "タイタンの拳",
+        "category": "gauntlet",
+        "rank": 3,
+        "atk": 230,
+        "crit": 11,
         "load": 18,
         "description": "",
-        "upgradeReq": {
-            "upgrade_1": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 0
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 1
-                }
-            ],
-            "upgrade_2": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 5
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 2
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 2
-                }
-            ],
-            "upgrade_3": [
-                {
-                    "name": "Honkai Crystal",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Super Alloy Shield",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png",
-                    "count": 7
-                },
-                {
-                    "name": "Phase Shifter",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png",
-                    "count": 4
-                },
-                {
-                    "name": "Tesla Turbine",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png",
-                    "count": 1
-                },
-                {
-                    "name": "Twin Ocean's Will",
-                    "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png",
-                    "count": 3
-                }
-            ]
-        },
-        "upgrades": {
-            "Honkai Crystal": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "Super Alloy Shield": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "Phase Shifter": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "Tesla Turbine": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "Twin Ocean's Will": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
-            }
-        },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/101866"
+        "upgradeReq": {},
+        "upgrades": {},
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/110632",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_110632.png"
     },
     {
         "name": "Star Ring Vortex",
@@ -13634,7 +13904,8 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92600"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92600",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92600.png"
     },
     {
         "name": "Chidori",
@@ -13774,7 +14045,8 @@
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
             }
         },
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92601"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92601",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92601.png"
     },
     {
         "name": "CAS-X Saint",
@@ -13793,7 +14065,8 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95893"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95893",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95893.png"
     },
     {
         "name": "CAS-II Minako",
@@ -13810,7 +14083,8 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92599"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92599",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92599.png"
     },
     {
         "name": "White Star Destroyer",
@@ -13829,7 +14103,8 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95894"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/95894",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95894.png"
     },
     {
         "name": "Protective Gauntlet",
@@ -13841,6 +14116,7 @@
         "description": "",
         "upgradeReq": {},
         "upgrades": {},
-        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92598"
+        "referenceUrl": "https://houkai3rd.gamewith.jp/article/show/92598",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92598.png"
     }
 ]

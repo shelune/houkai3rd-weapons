@@ -25,8 +25,9 @@ let getWeaponUrls = async (url) => {
       let rank = $(row).find('td:nth-child(2)').text().match(/\d/i) ? $(row).find('td:nth-child(2)').text().match(/\d/i)[0] : '';
       let atk = $(row).find('td:nth-child(3)').text();
       let category = getWeaponCategory($(row).attr('class'));
+      let thumbnail = $(row).find('td:first-child a img').attr('src');
 
-      return {url, name, rank, atk, category, description: ''};
+      return {url, thumbnail, name, rank, atk, category, description: ''};
     });
 
     console.log('weapons urls: ', weapons);
@@ -56,7 +57,7 @@ let getWeaponCategory = weapon => {
 let getUpgradesList = async (weaponList) => {
   try {
     const weaponListWithUpgrades = await Promise.all(weaponList.map(async weapon => {
-      const { load, crit, upgrades } = await getUpgradeItems(weapon.url);
+      const { load, crit, upgrades } = await getExtraInfo(weapon.url);
       return {
         ...weapon,
         load,
@@ -72,16 +73,22 @@ let getUpgradesList = async (weaponList) => {
   }
 }
 
-let getUpgradeItems = async (url) => {
+let getExtraInfo = async (url) => {
   let upgrades = {};
   let crit = '', load = '', name = '';
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
     let upgradeRows = Array.from($('.hk_sozai table tbody tr')).slice(1);
-    crit = $(Array.from($('.hk3_buki'))[1]).find('table tbody tr td:nth-child(2)').text() || '';
-    load = $(Array.from($('.hk3_buki'))[1]).find('table tbody tr td:last-child').text() || '';
-    name = $('')
+
+    const statTable = $(Array.from($('.hk3_buki'))[1]).find('table');
+    const statCellPos = {
+      atk: findStatCell($, statTable, '攻撃'),
+      crit: findStatCell($, statTable, '会心'),
+      load: findStatCell($, statTable, 'コスト')
+    };
+    crit = statTable.find(`tr td`).eq(statCellPos.crit).text() || '0';
+    load = statTable.find('tr td:last-child').text() || '0';
 
     const upgradeCount = $(upgradeRows[0]).find('td').length - 1;
     
@@ -101,7 +108,16 @@ let getUpgradeItems = async (url) => {
   } catch (err) {
     console.log('getting upgrades but failed: ', err);
   }
-}
+};
+
+let findStatCell = ($, source, stat) => {
+  const statHeaders = Array.from(source.find('tr:first-child th'));
+  const statCell = statHeaders.filter(header => {
+    return $(header).text().trim() === stat;
+  })[0];
+  const index = $(statCell).index();
+  return index;
+};
 
 let getUpgradeTranslations = (weaponList) => {
   return readFile('./translations/translated/weapon-upgrades.json', 'utf8')

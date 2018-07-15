@@ -26,9 +26,11 @@ let updateGlobalNames = async () => {
   let nameTranslations = await getFile(globalNames);
   let weaponListWithGlobalNames = weaponListJP.map(weapon => {
     let source = _.find(nameTranslations, (obj) => {return obj.url === weapon.url});
-    weapon.name = source.nameProposal;
-    weapon.nameJP = source.name;
-    delete weapon.nameProposal;
+    if (!!source) {
+      weapon.name = source.nameProposal;
+      weapon.nameJP = source.name;
+      delete weapon.nameProposal;
+    }
     return weapon;
   });
   return weaponListWithGlobalNames;
@@ -39,9 +41,9 @@ let updateDescription = async (weaponList) => {
   let weaponListWithDescriptions = weaponList.map(weapon => {
     let target = {...weapon, description: ''};
     let source = _.find(weaponListGlobal, weaponGlobal => {
-      return _.includes(target.nameProposal, weaponGlobal.name);
+      return _.includes(target.name, weaponGlobal.name);
     });
-    target.description = source ? source.description || '' : '';
+    target.description = source ? source.description : '';
     return target;
   });
   return weaponListWithDescriptions;
@@ -66,7 +68,7 @@ let formatProperties = (weaponList) => {
       debuffs, elements,
       description,
       upgradeReq, upgrades,
-      url
+      url, thumbnail
     } = weapon;
     return {
       name, category, rank,
@@ -77,7 +79,8 @@ let formatProperties = (weaponList) => {
       debuffs, elements,
       description,
       upgradeReq, upgrades,
-      referenceUrl: url
+      referenceUrl: url,
+      thumbnail
     };
   });
 }

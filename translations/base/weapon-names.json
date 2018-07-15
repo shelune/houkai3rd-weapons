@@ -45,14 +45,14 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/61810"
     },
     {
-        "name": "水妖精Ⅱ型",
-        "namedProposal": "Moon God Protection",
-        "url": "https://houkai3rd.gamewith.jp/article/show/50643"
-    },
-    {
         "name": "原型・妖精の弓",
         "namedProposal": "Original Fairy Bow",
         "url": "https://houkai3rd.gamewith.jp/article/show/77333"
+    },
+    {
+        "name": "水妖精Ⅱ型",
+        "namedProposal": "Moon God Protection",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50643"
     },
     {
         "name": "神農の守護",
@@ -85,6 +85,11 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/50642"
     },
     {
+        "name": "コルトピースメーカー",
+        "namedProposal": "Colt Peacemaker",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50647"
+    },
+    {
         "name": "簒奪者のハンドキャノン",
         "namedProposal": "Usurper Hand Cannon",
         "url": "https://houkai3rd.gamewith.jp/article/show/66349"
@@ -93,11 +98,6 @@
         "name": "軒轅・パルスハンドガン",
         "namedProposal": "Xuanyuan Pulse Pistol",
         "url": "https://houkai3rd.gamewith.jp/article/show/54226"
-    },
-    {
-        "name": "コルトピースメーカー",
-        "namedProposal": "Colt Peacemaker",
-        "url": "https://houkai3rd.gamewith.jp/article/show/50647"
     },
     {
         "name": "ドミネーターガン",
@@ -135,6 +135,11 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/50640"
     },
     {
+        "name": "試作型パルスハンドガン",
+        "namedProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50638"
+    },
+    {
         "name": "鳳銃",
         "namedProposal": "Phoenix Gun",
         "url": "https://houkai3rd.gamewith.jp/article/show/54285"
@@ -148,11 +153,6 @@
         "name": "合金ストームリボルバー",
         "namedProposal": "",
         "url": "https://houkai3rd.gamewith.jp/article/show/50637"
-    },
-    {
-        "name": "試作型パルスハンドガン",
-        "namedProposal": "",
-        "url": "https://houkai3rd.gamewith.jp/article/show/50638"
     },
     {
         "name": "デザートイーグル",
@@ -180,14 +180,14 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/50661"
     },
     {
-        "name": "妖精剣・シルヴァン",
-        "namedProposal": "Fairy Sword – Sylvan",
-        "url": "https://houkai3rd.gamewith.jp/article/show/71558"
-    },
-    {
         "name": "3rd聖遺物",
         "namedProposal": "3rd Sacred Relic",
         "url": "https://houkai3rd.gamewith.jp/article/show/50659"
+    },
+    {
+        "name": "妖精剣・シルヴァン",
+        "namedProposal": "Fairy Sword – Sylvan",
+        "url": "https://houkai3rd.gamewith.jp/article/show/71558"
     },
     {
         "name": "雷切",
@@ -200,19 +200,9 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/59468"
     },
     {
-        "name": "地蔵御魂",
-        "namedProposal": "Jizou Spirit",
-        "url": "https://houkai3rd.gamewith.jp/article/show/80260"
-    },
-    {
         "name": "開天の剣",
         "namedProposal": "Heavenly Sword",
         "url": "https://houkai3rd.gamewith.jp/article/show/54283"
-    },
-    {
-        "name": "雨上がりの誓い",
-        "namedProposal": "Promise After Rain",
-        "url": "https://houkai3rd.gamewith.jp/article/show/81265"
     },
     {
         "name": "磁気嵐・斬",
@@ -223,6 +213,16 @@
         "name": "妖刀・紅染桜",
         "namedProposal": "Demon Katana – Red Dyed Cherry Blossoms",
         "url": "https://houkai3rd.gamewith.jp/article/show/85982"
+    },
+    {
+        "name": "地蔵御魂",
+        "namedProposal": "Jizou Spirit",
+        "url": "https://houkai3rd.gamewith.jp/article/show/80260"
+    },
+    {
+        "name": "雨上がりの誓い",
+        "namedProposal": "Promise After Rain",
+        "url": "https://houkai3rd.gamewith.jp/article/show/81265"
     },
     {
         "name": "蔵鋒",
@@ -310,14 +310,14 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/75917"
     },
     {
-        "name": "合金・疾風太刀",
-        "namedProposal": "Alloyed Gale Tachi",
-        "url": "https://houkai3rd.gamewith.jp/article/show/50663"
-    },
-    {
         "name": "試作型パルス太刀",
         "namedProposal": "",
         "url": "https://houkai3rd.gamewith.jp/article/show/50667"
+    },
+    {
+        "name": "合金・疾風太刀",
+        "namedProposal": "Alloyed Gale Tachi",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50663"
     },
     {
         "name": "合金・暴食節刀",
@@ -360,14 +360,14 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/64775"
     },
     {
-        "name": "火刀・真田",
-        "namedProposal": "Sanada Fire Katana",
-        "url": "https://houkai3rd.gamewith.jp/article/show/61656"
-    },
-    {
         "name": "5th聖遺物",
         "namedProposal": "5th Sacred Relic",
         "url": "https://houkai3rd.gamewith.jp/article/show/50687"
+    },
+    {
+        "name": "火刀・真田",
+        "namedProposal": "Sanada Fire Katana",
+        "url": "https://houkai3rd.gamewith.jp/article/show/61656"
     },
     {
         "name": "ヘカトンケイル・プロト",
@@ -420,14 +420,14 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/50678"
     },
     {
-        "name": "笹の葉ボーガン",
-        "namedProposal": "",
-        "url": "https://houkai3rd.gamewith.jp/article/show/109562"
-    },
-    {
         "name": "デバウアキャノン",
         "namedProposal": "Devourer Cannon",
         "url": "https://houkai3rd.gamewith.jp/article/show/51174"
+    },
+    {
+        "name": "笹の葉ボーガン",
+        "namedProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109562"
     },
     {
         "name": "マルコフタイプA",
@@ -470,24 +470,24 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/59936"
     },
     {
-        "name": "AIちゃんキャノン",
-        "namedProposal": "AI-chan Cannon",
-        "url": "https://houkai3rd.gamewith.jp/article/show/64837"
-    },
-    {
         "name": "MiG-11誘導弾",
         "namedProposal": "MiG-11 Guided Missile​",
         "url": "https://houkai3rd.gamewith.jp/article/show/50700"
     },
     {
-        "name": "試作型パルスキャノン",
-        "namedProposal": "",
-        "url": "https://houkai3rd.gamewith.jp/article/show/50690"
+        "name": "AIちゃんキャノン",
+        "namedProposal": "AI-chan Cannon",
+        "url": "https://houkai3rd.gamewith.jp/article/show/64837"
     },
     {
         "name": "合金・潜伏者キャノン",
         "namedProposal": "Alloyed Lurker Cannon",
         "url": "https://houkai3rd.gamewith.jp/article/show/50680"
+    },
+    {
+        "name": "試作型パルスキャノン",
+        "namedProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50690"
     },
     {
         "name": "合金デバウアキャノン",
@@ -675,6 +675,11 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/63653"
     },
     {
+        "name": "ディメンションソナタ",
+        "namedProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/111284"
+    },
+    {
         "name": "エーリューズニル",
         "namedProposal": "Aurel de Nier",
         "url": "https://houkai3rd.gamewith.jp/article/show/86341"
@@ -760,9 +765,9 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/95866"
     },
     {
-        "name": "永暮の双狼",
-        "namedProposal": "Twin Wolves of Eternal Twilight",
-        "url": "https://houkai3rd.gamewith.jp/article/show/109660"
+        "name": "残火の鳶",
+        "namedProposal": "",
+        "url": "https://houkai3rd.gamewith.jp/article/show/101866"
     },
     {
         "name": "断光のヌアダ",
@@ -770,9 +775,14 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/95864"
     },
     {
-        "name": "残火の鳶",
+        "name": "永暮の双狼",
+        "namedProposal": "Twin Wolves of Eternal Twilight",
+        "url": "https://houkai3rd.gamewith.jp/article/show/109660"
+    },
+    {
+        "name": "タイタンの拳",
         "namedProposal": "",
-        "url": "https://houkai3rd.gamewith.jp/article/show/101866"
+        "url": "https://houkai3rd.gamewith.jp/article/show/110632"
     },
     {
         "name": "星環の渦",

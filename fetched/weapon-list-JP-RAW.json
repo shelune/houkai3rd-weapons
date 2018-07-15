@@ -1,6 +1,7 @@
 [
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50633",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50633.png",
         "name": "ミョルニル",
         "rank": "4",
         "atk": "298",
@@ -53,6 +54,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/86484",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_86484.png",
         "name": "天火聖裁",
         "rank": "4",
         "atk": "260",
@@ -106,6 +108,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60447",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_60447.png",
         "name": "雷刀・鬼角",
         "rank": "4",
         "atk": "264",
@@ -158,6 +161,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109117",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109117.png",
         "name": "幽色のアリア",
         "rank": "4",
         "atk": "275",
@@ -169,6 +173,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50630",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50630.png",
         "name": "超電磁ハンドキャノン",
         "rank": "4",
         "atk": "287",
@@ -221,6 +226,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50632",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50632.png",
         "name": "精衛の翼",
         "rank": "4",
         "atk": "259",
@@ -278,6 +284,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50019",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50019.png",
         "name": "2nd聖遺物",
         "rank": "4",
         "atk": "254",
@@ -330,6 +337,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/85565",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_85565.png",
         "name": "異形・ヘルの弓",
         "rank": "4",
         "atk": "287",
@@ -382,6 +390,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61810",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61810.png",
         "name": "エネルギー遷移者",
         "rank": "4",
         "atk": "276",
@@ -438,52 +447,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/50643",
-        "name": "水妖精Ⅱ型",
-        "rank": "3",
-        "atk": "169",
-        "category": "dual-gun",
-        "description": "",
-        "load": "12",
-        "crit": "29",
-        "upgrades": {
-            "月光の意志": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
-            },
-            "折れた刀の柄": {
-                "requirement": [
-                    "?",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            },
-            "超小型原子炉": {
-                "requirement": [
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "イリジウム合金点火プラグ": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            },
-            "": {
-                "requirement": [
-                    "1"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/77333",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_77333.png",
         "name": "原型・妖精の弓",
         "rank": "4",
         "atk": "279",
@@ -540,7 +505,54 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50643",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50643.png",
+        "name": "水妖精Ⅱ型",
+        "rank": "3",
+        "atk": "169",
+        "category": "dual-gun",
+        "description": "",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "月光の意志": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "折れた刀の柄": {
+                "requirement": [
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "超小型原子炉": {
+                "requirement": [
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "イリジウム合金点火プラグ": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50635",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50635.png",
         "name": "神農の守護",
         "rank": "4",
         "atk": "285",
@@ -598,6 +610,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50634",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50634.png",
         "name": "ファフニールの爆炎",
         "rank": "4",
         "atk": "248",
@@ -655,6 +668,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59935",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59935.png",
         "name": "霊銃・八重",
         "rank": "4",
         "atk": "267",
@@ -712,6 +726,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50639",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50639.png",
         "name": "月神の守護",
         "rank": "3",
         "atk": "169",
@@ -757,6 +772,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/58404",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_58404.png",
         "name": "烈炎の破滅者",
         "rank": "4",
         "atk": "276",
@@ -814,6 +830,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50631",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50631.png",
         "name": "光と影",
         "rank": "4",
         "atk": "270",
@@ -871,6 +888,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59938",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59938.png",
         "name": "聖銃・カレン",
         "rank": "3",
         "atk": "183",
@@ -916,6 +934,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50642",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50642.png",
         "name": "水妖精Ⅰ型",
         "rank": "3",
         "atk": "163",
@@ -960,7 +979,54 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50647",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50647.png",
+        "name": "コルトピースメーカー",
+        "rank": "2",
+        "atk": "114",
+        "category": "dual-gun",
+        "description": "",
+        "load": "8",
+        "crit": "25",
+        "upgrades": {
+            "月光の欠片": {
+                "requirement": [
+                    "1",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
+            },
+            "ダブル月光の欠片": {
+                "requirement": [
+                    "?",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
+            },
+            "崩壊獣の羽": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "浮遊装甲": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            },
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/66349",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66349.png",
         "name": "簒奪者のハンドキャノン",
         "rank": "4",
         "atk": "272",
@@ -1018,6 +1084,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54226",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54226.png",
         "name": "軒轅・パルスハンドガン",
         "rank": "3",
         "atk": "165",
@@ -1062,52 +1129,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/50647",
-        "name": "コルトピースメーカー",
-        "rank": "2",
-        "atk": "114",
-        "category": "dual-gun",
-        "description": "",
-        "load": "8",
-        "crit": "25",
-        "upgrades": {
-            "月光の欠片": {
-                "requirement": [
-                    "1",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
-            },
-            "ダブル月光の欠片": {
-                "requirement": [
-                    "?",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
-            },
-            "崩壊獣の羽": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
-            },
-            "浮遊装甲": {
-                "requirement": [
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
-            },
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50628",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50628.png",
         "name": "ドミネーターガン",
         "rank": "4",
         "atk": "244",
@@ -1135,6 +1158,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50627",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50627.png",
         "name": "ストームリボルバー",
         "rank": "4",
         "atk": "224",
@@ -1162,6 +1186,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50644",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50644.png",
         "name": "炎妖精Ⅰ型",
         "rank": "3",
         "atk": "188",
@@ -1207,6 +1232,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66350",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66350.png",
         "name": "暗役者のハンドキャノン",
         "rank": "3",
         "atk": "179",
@@ -1252,6 +1278,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50645",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50645.png",
         "name": "炎妖精Ⅱ型",
         "rank": "3",
         "atk": "182",
@@ -1297,6 +1324,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50641",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50641.png",
         "name": "燃える羽",
         "rank": "3",
         "atk": "176",
@@ -1342,6 +1370,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50640",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50640.png",
         "name": "モシンナガン日輪",
         "rank": "3",
         "atk": "180",
@@ -1386,104 +1415,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/54285",
-        "name": "鳳銃",
-        "rank": "3",
-        "atk": "158",
-        "category": "dual-gun",
-        "description": "",
-        "load": "12",
-        "crit": "25",
-        "upgrades": {
-            "月光の意志": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
-            },
-            "折れた刀の柄": {
-                "requirement": [
-                    "?",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            },
-            "超小型原子炉": {
-                "requirement": [
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "イリジウム合金点火プラグ": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            },
-            "": {
-                "requirement": [
-                    "1"
-                ]
-            }
-        }
-    },
-    {
-        "url": "https://houkai3rd.gamewith.jp/article/show/50636",
-        "name": "合金ドミネーターガン",
-        "rank": "3",
-        "atk": "169",
-        "category": "dual-gun",
-        "description": "",
-        "load": "12",
-        "crit": "10",
-        "upgrades": {
-            "超小型原子炉": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "": {
-                "requirement": [
-                    "9"
-                ]
-            }
-        }
-    },
-    {
-        "url": "https://houkai3rd.gamewith.jp/article/show/50637",
-        "name": "合金ストームリボルバー",
-        "rank": "3",
-        "atk": "158",
-        "category": "dual-gun",
-        "description": "",
-        "load": "12",
-        "crit": "24",
-        "upgrades": {
-            "超小型原子炉": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "": {
-                "requirement": [
-                    "9"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50638",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50638.png",
         "name": "試作型パルスハンドガン",
         "rank": "1",
         "atk": "146",
@@ -1610,7 +1543,108 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/54285",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54285.png",
+        "name": "鳳銃",
+        "rank": "3",
+        "atk": "158",
+        "category": "dual-gun",
+        "description": "",
+        "load": "12",
+        "crit": "25",
+        "upgrades": {
+            "月光の意志": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "折れた刀の柄": {
+                "requirement": [
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "超小型原子炉": {
+                "requirement": [
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "イリジウム合金点火プラグ": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50636",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50636.png",
+        "name": "合金ドミネーターガン",
+        "rank": "3",
+        "atk": "169",
+        "category": "dual-gun",
+        "description": "",
+        "load": "12",
+        "crit": "10",
+        "upgrades": {
+            "超小型原子炉": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "": {
+                "requirement": [
+                    "9"
+                ]
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50637",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50637.png",
+        "name": "合金ストームリボルバー",
+        "rank": "3",
+        "atk": "158",
+        "category": "dual-gun",
+        "description": "",
+        "load": "12",
+        "crit": "24",
+        "upgrades": {
+            "超小型原子炉": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "": {
+                "requirement": [
+                    "9"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50646",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50646.png",
         "name": "デザートイーグル",
         "rank": "2",
         "atk": "128",
@@ -1656,6 +1690,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50650",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50650.png",
         "name": "Cアナコンダ改",
         "rank": "2",
         "atk": "128",
@@ -1701,6 +1736,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50649",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50649.png",
         "name": "M1911",
         "rank": "2",
         "atk": "94",
@@ -1746,6 +1782,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50648",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50648.png",
         "name": "USP改",
         "rank": "2",
         "atk": "121",
@@ -1791,6 +1828,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50651",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50651.png",
         "name": "USP45",
         "rank": "1",
         "atk": "76",
@@ -1822,6 +1860,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50661",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50661.png",
         "name": "虚無の刃",
         "rank": "4",
         "atk": "267",
@@ -1878,59 +1917,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/71558",
-        "name": "妖精剣・シルヴァン",
-        "rank": "4",
-        "atk": "275",
-        "category": "katana",
-        "description": "",
-        "load": "18",
-        "crit": "36",
-        "upgrades": {
-            "崩壊結晶": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "ダブル紺碧の意志": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
-            },
-            "超合金の盾": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "相転移シールド": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "テスラタービン": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50659",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50659.png",
         "name": "3rd聖遺物",
         "rank": "4",
         "atk": "254",
@@ -1982,7 +1970,61 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/71558",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_71558.png",
+        "name": "妖精剣・シルヴァン",
+        "rank": "4",
+        "atk": "275",
+        "category": "katana",
+        "description": "",
+        "load": "18",
+        "crit": "36",
+        "upgrades": {
+            "崩壊結晶": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "ダブル紺碧の意志": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            },
+            "超合金の盾": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "相転移シールド": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "テスラタービン": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50656",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50656.png",
         "name": "雷切",
         "rank": "4",
         "atk": "265",
@@ -2040,6 +2082,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60109",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_60109.png",
         "name": "模造霊刀・氷結曇天",
         "rank": "4",
         "atk": "265",
@@ -2092,6 +2135,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59468",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59468.png",
         "name": "霊刀・桜吹雪",
         "rank": "4",
         "atk": "289",
@@ -2148,18 +2192,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/80260",
-        "name": "地蔵御魂",
-        "rank": "4",
-        "atk": "289",
-        "category": "katana",
-        "description": "",
-        "load": "18",
-        "crit": "24",
-        "upgrades": {}
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/54283",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54283.png",
         "name": "開天の剣",
         "rank": "4",
         "atk": "289",
@@ -2211,64 +2245,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/81265",
-        "name": "雨上がりの誓い",
-        "rank": "4",
-        "atk": "287",
-        "category": "katana",
-        "description": "",
-        "load": "18",
-        "crit": "29",
-        "upgrades": {
-            "崩壊結晶": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "ダブル紺碧の意志": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
-            },
-            "超合金の盾": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "相転移シールド": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "テスラタービン": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50657",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50657.png",
         "name": "磁気嵐・斬",
         "rank": "4",
         "atk": "298",
@@ -2316,16 +2294,12 @@
                     "1"
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "": {
-                "requirement": [
-                    "4"
-                ]
             }
         }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/85982",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_85982.png",
         "name": "妖刀・紅染桜",
         "rank": "4",
         "atk": "287",
@@ -2382,7 +2356,78 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/80260",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_80260.png",
+        "name": "地蔵御魂",
+        "rank": "4",
+        "atk": "289",
+        "category": "katana",
+        "description": "",
+        "load": "18",
+        "crit": "24",
+        "upgrades": {}
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/81265",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_81265.png",
+        "name": "雨上がりの誓い",
+        "rank": "4",
+        "atk": "287",
+        "category": "katana",
+        "description": "",
+        "load": "18",
+        "crit": "29",
+        "upgrades": {
+            "崩壊結晶": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "ダブル紺碧の意志": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            },
+            "超合金の盾": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "相転移シールド": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "テスラタービン": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/68557",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_68557.png",
         "name": "蔵鋒",
         "rank": "4",
         "atk": "287",
@@ -2440,6 +2485,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59945",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59945.png",
         "name": "高周波切断刀",
         "rank": "4",
         "atk": "272",
@@ -2497,6 +2543,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50658",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50658.png",
         "name": "影刀プラズマ",
         "rank": "4",
         "atk": "269",
@@ -2554,6 +2601,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/58100",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_58100.png",
         "name": "女力の剣",
         "rank": "4",
         "atk": "272",
@@ -2611,6 +2659,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50660",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50660.png",
         "name": "11式反力場打刀",
         "rank": "4",
         "atk": "282",
@@ -2668,6 +2717,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50665",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50665.png",
         "name": "苗刀電魂",
         "rank": "3",
         "atk": "163",
@@ -2713,6 +2763,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50654",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50654.png",
         "name": "暴食節刀",
         "rank": "4",
         "atk": "239",
@@ -2740,6 +2791,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/84300",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_84300.png",
         "name": "キャンディケイン太刀",
         "rank": "3",
         "atk": "221",
@@ -2807,6 +2859,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50655",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50655.png",
         "name": "疾風太刀",
         "rank": "4",
         "atk": "224",
@@ -2834,6 +2887,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50669",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50669.png",
         "name": "結晶逆刃刀",
         "rank": "3",
         "atk": "169",
@@ -2879,6 +2933,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50670",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50670.png",
         "name": "パルス太刀19式",
         "rank": "3",
         "atk": "182",
@@ -2924,6 +2979,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50666",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50666.png",
         "name": "熱切断の刃",
         "rank": "3",
         "atk": "178",
@@ -2969,6 +3025,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50671",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50671.png",
         "name": "パルス太刀17式",
         "rank": "3",
         "atk": "188",
@@ -3014,6 +3071,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54284",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54284.png",
         "name": "雷爆",
         "rank": "3",
         "atk": "180",
@@ -3059,6 +3117,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54282",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54282.png",
         "name": "凰剣",
         "rank": "3",
         "atk": "158",
@@ -3104,6 +3163,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59937",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59937.png",
         "name": "軒轅・パルス太刀",
         "rank": "3",
         "atk": "165",
@@ -3149,6 +3209,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50664",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50664.png",
         "name": "苗刀雷妖",
         "rank": "3",
         "atk": "169",
@@ -3194,6 +3255,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/75917",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_75917.png",
         "name": "吸熱太刀",
         "rank": "3",
         "atk": "175",
@@ -3238,33 +3300,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/50663",
-        "name": "合金・疾風太刀",
-        "rank": "3",
-        "atk": "157",
-        "category": "katana",
-        "description": "",
-        "load": "12",
-        "crit": "26",
-        "upgrades": {
-            "折れた刀の柄": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            },
-            "": {
-                "requirement": [
-                    "9"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50667",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50667.png",
         "name": "試作型パルス太刀",
         "rank": "1",
         "atk": "146",
@@ -3391,7 +3428,35 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50663",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50663.png",
+        "name": "合金・疾風太刀",
+        "rank": "3",
+        "atk": "157",
+        "category": "katana",
+        "description": "",
+        "load": "12",
+        "crit": "26",
+        "upgrades": {
+            "折れた刀の柄": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "": {
+                "requirement": [
+                    "9"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50662",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50662.png",
         "name": "合金・暴食節刀",
         "rank": "3",
         "atk": "166",
@@ -3418,6 +3483,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50668",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50668.png",
         "name": "紅桜",
         "rank": "3",
         "atk": "163",
@@ -3463,6 +3529,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50672",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50672.png",
         "name": "妖刀村正",
         "rank": "2",
         "atk": "128",
@@ -3508,6 +3575,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50675",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50675.png",
         "name": "複合刀柳葉",
         "rank": "2",
         "atk": "128",
@@ -3553,6 +3621,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50676",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50676.png",
         "name": "複合刀朱雀",
         "rank": "2",
         "atk": "114",
@@ -3598,6 +3667,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50673",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50673.png",
         "name": "妖刀雨村",
         "rank": "2",
         "atk": "94",
@@ -3643,6 +3713,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50674",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50674.png",
         "name": "堀川国広",
         "rank": "2",
         "atk": "121",
@@ -3688,6 +3759,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50677",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50677.png",
         "name": "勢州村正",
         "rank": "1",
         "atk": "76",
@@ -3719,6 +3791,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/64775",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_64775.png",
         "name": "テュールの腕",
         "rank": "4",
         "atk": "282",
@@ -3775,59 +3848,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/61656",
-        "name": "火刀・真田",
-        "rank": "4",
-        "atk": "275",
-        "category": "cannon",
-        "description": "",
-        "load": "18",
-        "crit": "34",
-        "upgrades": {
-            "崩壊結晶": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "ダブル雷霆の意志": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
-            },
-            "超合金の盾": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "相転移シールド": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "テスラタービン": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50687",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50687.png",
         "name": "5th聖遺物",
         "rank": "4",
         "atk": "254",
@@ -3879,7 +3901,61 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/61656",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61656.png",
+        "name": "火刀・真田",
+        "rank": "4",
+        "atk": "275",
+        "category": "cannon",
+        "description": "",
+        "load": "18",
+        "crit": "34",
+        "upgrades": {
+            "崩壊結晶": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "ダブル雷霆の意志": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            },
+            "超合金の盾": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "相転移シールド": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "テスラタービン": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50685",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50685.png",
         "name": "ヘカトンケイル・プロト",
         "rank": "4",
         "atk": "298",
@@ -3937,6 +4013,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/71096",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_71096.png",
         "name": "殲星者19c",
         "rank": "4",
         "atk": "283",
@@ -3994,6 +4071,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61097",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61097.png",
         "name": "伏義の書",
         "rank": "4",
         "atk": "272",
@@ -4051,6 +4129,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59934",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59934.png",
         "name": "地獄の焔Ⅲ型",
         "rank": "4",
         "atk": "285",
@@ -4108,6 +4187,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59946",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59946.png",
         "name": "量子破滅者Ⅱ型",
         "rank": "4",
         "atk": "280",
@@ -4165,6 +4245,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50682",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50682.png",
         "name": "蚩尤の巨砲",
         "rank": "4",
         "atk": "294",
@@ -4222,6 +4303,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/98215",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_98215.png",
         "name": "M134バルカン",
         "rank": "4",
         "atk": "281",
@@ -4274,6 +4356,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50688",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50688.png",
         "name": "ユミルの腕",
         "rank": "4",
         "atk": "294",
@@ -4331,6 +4414,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50686",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50686.png",
         "name": "サイクロプス・プロト",
         "rank": "4",
         "atk": "248",
@@ -4388,6 +4472,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50683",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50683.png",
         "name": "重装ウサギ19c",
         "rank": "4",
         "atk": "287",
@@ -4445,6 +4530,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50684",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50684.png",
         "name": "核心収束砲Delta",
         "rank": "4",
         "atk": "282",
@@ -4502,6 +4588,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50678",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50678.png",
         "name": "潜伏者キャノン",
         "rank": "4",
         "atk": "234",
@@ -4528,7 +4615,36 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/51174",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_51174.png",
+        "name": "デバウアキャノン",
+        "rank": "4",
+        "atk": "239",
+        "category": "cannon",
+        "description": "",
+        "load": "17",
+        "crit": "22",
+        "upgrades": {
+            "テスラタービン": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "": {
+                "requirement": [
+                    "3"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/109562",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109562.png",
         "name": "笹の葉ボーガン",
         "rank": "3",
         "atk": "231",
@@ -4585,34 +4701,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/51174",
-        "name": "デバウアキャノン",
-        "rank": "4",
-        "atk": "239",
-        "category": "cannon",
-        "description": "",
-        "load": "17",
-        "crit": "22",
-        "upgrades": {
-            "テスラタービン": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "": {
-                "requirement": [
-                    "3"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50692",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50692.png",
         "name": "マルコフタイプA",
         "rank": "3",
         "atk": "163",
@@ -4658,6 +4748,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50694",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50694.png",
         "name": "09式単極子砲",
         "rank": "3",
         "atk": "182",
@@ -4703,6 +4794,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50695",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50695.png",
         "name": "07式単極子砲",
         "rank": "3",
         "atk": "188",
@@ -4748,6 +4840,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50689",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50689.png",
         "name": "分裂ミサイルストライカー",
         "rank": "3",
         "atk": "169",
@@ -4793,6 +4886,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/81232",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_81232.png",
         "name": "軒轅・パルスキャノン",
         "rank": "3",
         "atk": "165",
@@ -4838,6 +4932,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54281",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54281.png",
         "name": "氷の咆哮",
         "rank": "3",
         "atk": "166",
@@ -4883,6 +4978,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50691",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50691.png",
         "name": "マルコフタイプC",
         "rank": "3",
         "atk": "169",
@@ -4928,6 +5024,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50693",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50693.png",
         "name": "X-01青眼のオロチ",
         "rank": "3",
         "atk": "178",
@@ -4973,6 +5070,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59936",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59936.png",
         "name": "冷霜の雨",
         "rank": "3",
         "atk": "176",
@@ -5017,52 +5115,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/64837",
-        "name": "AIちゃんキャノン",
-        "rank": "3",
-        "atk": "174",
-        "category": "cannon",
-        "description": "",
-        "load": "12",
-        "crit": "3",
-        "upgrades": {
-            "雷霆の意志": {
-                "requirement": [
-                    "1",
-                    "2"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
-            },
-            "折れた刀の柄": {
-                "requirement": [
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
-            },
-            "超小型原子炉": {
-                "requirement": [
-                    "?",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
-            },
-            "イリジウム合金点火プラグ": {
-                "requirement": [
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            },
-            "": {
-                "requirement": [
-                    "1"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50700",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50700.png",
         "name": "MiG-11誘導弾",
         "rank": "2",
         "atk": "94",
@@ -5107,7 +5161,81 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/64837",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_64837.png",
+        "name": "AIちゃんキャノン",
+        "rank": "3",
+        "atk": "174",
+        "category": "cannon",
+        "description": "",
+        "load": "12",
+        "crit": "3",
+        "upgrades": {
+            "雷霆の意志": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
+            },
+            "折れた刀の柄": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "超小型原子炉": {
+                "requirement": [
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "イリジウム合金点火プラグ": {
+                "requirement": [
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50680",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50680.png",
+        "name": "合金・潜伏者キャノン",
+        "rank": "3",
+        "atk": "163",
+        "category": "cannon",
+        "description": "",
+        "load": "12",
+        "crit": "17",
+        "upgrades": {
+            "イリジウム合金点火プラグ": {
+                "requirement": [
+                    "1",
+                    "?",
+                    "?",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "": {
+                "requirement": [
+                    "9"
+                ]
+            }
+        }
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50690",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50690.png",
         "name": "試作型パルスキャノン",
         "rank": "1",
         "atk": "146",
@@ -5234,33 +5362,8 @@
         }
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/50680",
-        "name": "合金・潜伏者キャノン",
-        "rank": "3",
-        "atk": "163",
-        "category": "cannon",
-        "description": "",
-        "load": "12",
-        "crit": "17",
-        "upgrades": {
-            "イリジウム合金点火プラグ": {
-                "requirement": [
-                    "1",
-                    "?",
-                    "?",
-                    "?"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
-            },
-            "": {
-                "requirement": [
-                    "9"
-                ]
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50681",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50681.png",
         "name": "合金デバウアキャノン",
         "rank": "3",
         "atk": "166",
@@ -5287,6 +5390,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50696",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50696.png",
         "name": "重砲ベクサー",
         "rank": "2",
         "atk": "114",
@@ -5332,6 +5436,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50697",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50697.png",
         "name": "SU-30キャノン砲",
         "rank": "2",
         "atk": "121",
@@ -5377,6 +5482,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50698",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50698.png",
         "name": "Mig-7レーザー砲",
         "rank": "2",
         "atk": "128",
@@ -5422,6 +5528,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50699",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50699.png",
         "name": "MiG-13ロケット",
         "rank": "2",
         "atk": "128",
@@ -5467,6 +5574,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50701",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50701.png",
         "name": "SU-22榴弾砲",
         "rank": "1",
         "atk": "76",
@@ -5498,6 +5606,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/58533",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_58533.png",
         "name": "鮮血の舞",
         "rank": "4",
         "atk": "289",
@@ -5550,6 +5659,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/56916",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_56916.png",
         "name": "軒轅剣",
         "rank": "4",
         "atk": "276",
@@ -5607,6 +5717,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62839",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62839.png",
         "name": "黎明の審判",
         "rank": "4",
         "atk": "268",
@@ -5664,6 +5775,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/68024",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_68024.png",
         "name": "バルムンク",
         "rank": "4",
         "atk": "285",
@@ -5716,6 +5828,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59933",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59933.png",
         "name": "黒軒轅剣",
         "rank": "4",
         "atk": "250",
@@ -5773,6 +5886,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50706",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50706.png",
         "name": "陽炎大剣",
         "rank": "4",
         "atk": "280",
@@ -5820,16 +5934,12 @@
                     "4"
                 ],
                 "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            },
-            "": {
-                "requirement": [
-                    "4"
-                ]
             }
         }
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54193",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54193.png",
         "name": "極光斬艦刀",
         "rank": "4",
         "atk": "289",
@@ -5887,6 +5997,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61442",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61442.png",
         "name": "牛鬼切・長光",
         "rank": "4",
         "atk": "289",
@@ -5944,6 +6055,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50707",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50707.png",
         "name": "魔龍の背骨",
         "rank": "4",
         "atk": "271",
@@ -6001,6 +6113,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60751",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_60751.png",
         "name": "7th聖遺物",
         "rank": "4",
         "atk": "263",
@@ -6058,6 +6171,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50708",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50708.png",
         "name": "ニーズホッグの翼爪",
         "rank": "4",
         "atk": "272",
@@ -6115,6 +6229,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50702",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50702.png",
         "name": "ビトレイヤークレイモア",
         "rank": "4",
         "atk": "245",
@@ -6142,6 +6257,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50703",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50703.png",
         "name": "デウスクレイモア",
         "rank": "4",
         "atk": "234",
@@ -6169,6 +6285,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109325",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109325.png",
         "name": "レンジャー鋸刃",
         "rank": "4",
         "atk": "243",
@@ -6180,6 +6297,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50709",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50709.png",
         "name": "電離共振剣",
         "rank": "3",
         "atk": "171",
@@ -6225,6 +6343,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50712",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50712.png",
         "name": "窒素結晶剣",
         "rank": "3",
         "atk": "168",
@@ -6270,6 +6389,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50710",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50710.png",
         "name": "超重剣キング蛇",
         "rank": "3",
         "atk": "185",
@@ -6315,6 +6435,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/74127",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_74127.png",
         "name": "AIちゃんハンマー",
         "rank": "3",
         "atk": "182",
@@ -6360,13 +6481,14 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59940",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59940.png",
         "name": "真紅のクイーン",
         "rank": "3",
         "atk": "120",
         "category": "greatsword",
         "description": "",
         "load": "12",
-        "crit": "120",
+        "crit": "15",
         "upgrades": {
             "陽炎の意志": {
                 "requirement": [
@@ -6405,6 +6527,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50711",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50711.png",
         "name": "超重剣アサルト",
         "rank": "3",
         "atk": "183",
@@ -6450,6 +6573,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50704",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50704.png",
         "name": "合金ビトレイヤークレイモア",
         "rank": "3",
         "atk": "169",
@@ -6476,6 +6600,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50713",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50713.png",
         "name": "試作型パルスクレイモア",
         "rank": "1",
         "atk": "153",
@@ -6603,6 +6728,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50705",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50705.png",
         "name": "合金デウスクレイモア",
         "rank": "3",
         "atk": "163",
@@ -6629,6 +6755,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54360",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54360.png",
         "name": "深紫の騎士",
         "rank": "3",
         "atk": "177",
@@ -6674,6 +6801,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62838",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62838.png",
         "name": "スプロケット・クレイモア",
         "rank": "3",
         "atk": "173",
@@ -6719,6 +6847,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50715",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50715.png",
         "name": "原子力推進剣・改",
         "rank": "2",
         "atk": "124",
@@ -6764,6 +6893,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54280",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54280.png",
         "name": "27式混合大剣",
         "rank": "2",
         "atk": "116",
@@ -6809,6 +6939,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59939",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59939.png",
         "name": "16式混合大剣",
         "rank": "2",
         "atk": "126",
@@ -6854,13 +6985,14 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50714",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50714.png",
         "name": "異端審問会のトーチ",
         "rank": "3",
         "atk": "165",
         "category": "greatsword",
         "description": "",
-        "load": "",
-        "crit": "",
+        "load": "0",
+        "crit": "0",
         "upgrades": {
             "陽炎の意志": {
                 "requirement": [
@@ -6899,6 +7031,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50716",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50716.png",
         "name": "原子力推進剣・プロト",
         "rank": "2",
         "atk": "121",
@@ -6944,6 +7077,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50717",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50717.png",
         "name": "エネルギー・クレイモア",
         "rank": "2",
         "atk": "122",
@@ -6989,6 +7123,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50718",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50718.png",
         "name": "クレイモア",
         "rank": "1",
         "atk": "78",
@@ -7020,6 +7155,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63255",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_63255.png",
         "name": "誓約の十字架",
         "rank": "4",
         "atk": "276",
@@ -7072,6 +7208,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63653",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_63653.png",
         "name": "模造十字架・血の抱擁",
         "rank": "4",
         "atk": "265",
@@ -7123,7 +7260,20 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/111284",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_111284.png",
+        "name": "ディメンションソナタ",
+        "rank": "4",
+        "atk": "271",
+        "category": "cross",
+        "description": "",
+        "load": "18",
+        "crit": "38",
+        "upgrades": {}
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/86341",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_86341.png",
         "name": "エーリューズニル",
         "rank": "4",
         "atk": "275",
@@ -7181,6 +7331,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/80193",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_80193.png",
         "name": "11th聖遺物",
         "rank": "4",
         "atk": "274",
@@ -7233,6 +7384,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66326",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66326.png",
         "name": "桜花の誓約",
         "rank": "4",
         "atk": "257",
@@ -7290,6 +7442,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66324",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_66324.png",
         "name": "銀色の切断者",
         "rank": "4",
         "atk": "268",
@@ -7335,6 +7488,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109324",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109324.png",
         "name": "レンジャー十字架",
         "rank": "4",
         "atk": "240",
@@ -7379,6 +7533,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62780",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62780.png",
         "name": "黒色の粉砕者",
         "rank": "3",
         "atk": "182",
@@ -7424,6 +7579,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62781",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62781.png",
         "name": "雷の天使",
         "rank": "3",
         "atk": "168",
@@ -7469,6 +7625,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/70207",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_70207.png",
         "name": "炎の天使",
         "rank": "3",
         "atk": "185",
@@ -7514,6 +7671,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63384",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_63384.png",
         "name": "AIちゃんキャンディ",
         "rank": "3",
         "atk": "178",
@@ -7559,6 +7717,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62773",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62773.png",
         "name": "試作型パルス十字架",
         "rank": "1",
         "atk": "163",
@@ -7686,6 +7845,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62775",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62775.png",
         "name": "十字架・氷弾",
         "rank": "2",
         "atk": "121",
@@ -7724,6 +7884,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62777",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62777.png",
         "name": "破甲弾発射台",
         "rank": "2",
         "atk": "128",
@@ -7762,6 +7923,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62776",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62776.png",
         "name": "火炎弾発射台",
         "rank": "2",
         "atk": "102",
@@ -7800,6 +7962,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62779",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62779.png",
         "name": "烈火の誓い",
         "rank": "2",
         "atk": "123",
@@ -7838,6 +8001,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62778",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62778.png",
         "name": "氷霜の誓い",
         "rank": "2",
         "atk": "116",
@@ -7876,6 +8040,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62774",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_62774.png",
         "name": "十字架",
         "rank": "1",
         "atk": "76",
@@ -7907,6 +8072,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95866",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95866.png",
         "name": "太虚の拳",
         "rank": "4",
         "atk": "268",
@@ -7917,70 +8083,8 @@
         "upgrades": {}
     },
     {
-        "url": "https://houkai3rd.gamewith.jp/article/show/109660",
-        "name": "永暮の双狼",
-        "rank": "4",
-        "atk": "283",
-        "category": "gauntlet",
-        "description": "",
-        "load": "18",
-        "crit": "24",
-        "upgrades": {}
-    },
-    {
-        "url": "https://houkai3rd.gamewith.jp/article/show/95864",
-        "name": "断光のヌアダ",
-        "rank": "4",
-        "atk": "279",
-        "category": "gauntlet",
-        "description": "",
-        "load": "18",
-        "crit": "32",
-        "upgrades": {
-            "崩壊結晶": {
-                "requirement": [
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
-            },
-            "ダブル十字結晶": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "3"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
-            },
-            "超合金の盾": {
-                "requirement": [
-                    "1",
-                    "2",
-                    "4"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
-            },
-            "相転移シールド": {
-                "requirement": [
-                    "2",
-                    "5",
-                    "7"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
-            },
-            "テスラタービン": {
-                "requirement": [
-                    "?",
-                    "1",
-                    "1"
-                ],
-                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
-            }
-        }
-    },
-    {
         "url": "https://houkai3rd.gamewith.jp/article/show/101866",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_101866.png",
         "name": "残火の鳶",
         "rank": "4",
         "atk": "283",
@@ -8032,7 +8136,85 @@
         }
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/95864",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95864.png",
+        "name": "断光のヌアダ",
+        "rank": "4",
+        "atk": "279",
+        "category": "gauntlet",
+        "description": "",
+        "load": "18",
+        "crit": "32",
+        "upgrades": {
+            "崩壊結晶": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "ダブル十字結晶": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/62865_i.png"
+            },
+            "超合金の盾": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "相転移シールド": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "テスラタービン": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        }
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/109660",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_109660.png",
+        "name": "永暮の双狼",
+        "rank": "4",
+        "atk": "283",
+        "category": "gauntlet",
+        "description": "",
+        "load": "18",
+        "crit": "24",
+        "upgrades": {}
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/110632",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_110632.png",
+        "name": "タイタンの拳",
+        "rank": "3",
+        "atk": "230",
+        "category": "gauntlet",
+        "description": "",
+        "load": "18",
+        "crit": "11",
+        "upgrades": {}
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/92600",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92600.png",
         "name": "星環の渦",
         "rank": "4",
         "atk": "257",
@@ -8044,6 +8226,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92601",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92601.png",
         "name": "百鳥問天",
         "rank": "4",
         "atk": "268",
@@ -8096,6 +8279,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95893",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95893.png",
         "name": "CAS-X聖徒",
         "rank": "3",
         "atk": "172",
@@ -8107,6 +8291,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92599",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92599.png",
         "name": "CAS-Ⅱ浪子﻿",
         "rank": "3",
         "atk": "166",
@@ -8118,6 +8303,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/95894",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_95894.png",
         "name": "白星の駆逐者",
         "rank": "3",
         "atk": "173",
@@ -8129,6 +8315,7 @@
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92598",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_92598.png",
         "name": "防護腕甲",
         "rank": "1",
         "atk": "78",

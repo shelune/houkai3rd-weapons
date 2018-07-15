@@ -82,12 +82,6 @@ const formatSource = (source) => {
 
 // parse weapon specs
 const parseInfo = (source) => {
-  const ranks = {
-    '1': '1',
-    '2': '15',
-    '3': '25',
-    '4': '35'
-  };
   let weapon = {};
   for (let key in source) {
     source[key].forEach((text, index) => {
