@@ -88,17 +88,21 @@ let formatProperties = (weaponList) => {
 let formatUpgrades = (weaponList) => {
   return weaponList.map(weapon => {
     let target = {...weapon};
-    target.upgradeReq = {};
+    target.upgradeReq = [];
     let upgradeItems = _.keys(target.upgrades);
-    let upgradeCount = target.upgrades[upgradeItems[0]] ? target.upgrades[upgradeItems[0]].requirement : [];
+    let upgradeCount = target.upgrades[_.last(upgradeItems)] ? target.upgrades[_.last(upgradeItems)].requirement : [];
     for (let i = 0; i < upgradeCount.length; i++) {
-      target.upgradeReq[`upgrade_${i + 1}`] = upgradeItems.map(item => {
-        return {
-          name: item,
-          img: target.upgrades[item].img,
-          count: isNaN(target.upgrades[item].requirement[i] * 1) ? 0 : parseInt(target.upgrades[item].requirement[i]),
-        }
-      })
+      target.upgradeReq.push(
+        {
+          ['count']: i,
+          ['materials']: upgradeItems.map(item => {
+            return {
+              name: item,
+              img: target.upgrades[item].img,
+              count: isNaN(target.upgrades[item].requirement[i] * 1) ? 0 : parseInt(target.upgrades[item].requirement[i]),
+            }
+        })
+      });
     }
     return target;
   });

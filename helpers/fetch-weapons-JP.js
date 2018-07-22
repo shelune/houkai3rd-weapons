@@ -79,7 +79,7 @@ let getExtraInfo = async (url) => {
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
-    let upgradeRows = Array.from($('.hk_sozai table tbody tr')).slice(1);
+    let upgradeRows = Array.from($('.hk_sozai table tr')).slice(1);
 
     const statTable = $(Array.from($('.hk3_buki'))[1]).find('table');
     const statCellPos = {
