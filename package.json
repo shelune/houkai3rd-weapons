@@ -13,6 +13,7 @@
   "dependencies": {
     "@google-cloud/vision": "^0.20.0",
     "axios": "^0.18.0",
+    "base64-img": "^1.0.4",
     "cheerio": "^1.0.0-rc.2",
     "fs-extra": "^6.0.1",
     "lodash": "^4.17.10"

@@ -172,8 +172,8 @@ getWeaponUrls(urlSource).then(async weaponList => {
   });
   console.log('writing translated upgrades weapons: ', weaponsWithTranslatedUpgrades.length);
 
-  const result = getUniqueWeaponList(weaponsWithTranslatedUpgrades);
-  
+  // const result = getUniqueWeaponList(weaponsWithTranslatedUpgrades);
+  const result = weaponsWithTranslatedUpgrades;
   // console.log('writing: ', weaponsWithTranslatedUpgrades);
   fs.outputFile('./fetched/weapon-list-JP.json', JSON.stringify(result, null, 4), (err) => {
     if (err) {
@@ -181,5 +181,5 @@ getWeaponUrls(urlSource).then(async weaponList => {
     }
   });
 
-  console.log('writing unique-stats weapons: ', result.length);
+  console.log('writing finalized weapons: ', result.length);
 });

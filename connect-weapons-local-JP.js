@@ -26,11 +26,15 @@ let updateGlobalNames = async () => {
   let nameTranslations = await getFile(globalNames);
   let weaponListWithGlobalNames = weaponListJP.map(weapon => {
     let source = _.find(nameTranslations, (obj) => {return obj.url === weapon.url});
+    if (!!source && source.name === '核心収束砲Delta') {
+      console.log('source: ', source);
+    }
     if (!!source) {
       weapon.name = source.nameProposal;
       weapon.nameJP = source.name;
       delete weapon.nameProposal;
     }
+    
     return weapon;
   });
   return weaponListWithGlobalNames;
@@ -68,7 +72,7 @@ let formatProperties = (weaponList) => {
       debuffs, elements,
       description,
       upgradeReq, upgrades,
-      url, thumbnail
+      url, thumbnail, nameJP
     } = weapon;
     return {
       name, category, rank,
@@ -80,7 +84,8 @@ let formatProperties = (weaponList) => {
       description,
       upgradeReq, upgrades,
       referenceUrl: url,
-      thumbnail
+      thumbnail,
+      nameJP
     };
   });
 }
@@ -109,6 +114,7 @@ let formatUpgrades = (weaponList) => {
 }
 
 updateGlobalNames().then(async weaponList => {
+  console.log('global named weapon list: ', weaponList);
   let weaponListWithDescriptions = await updateDescription(weaponList);
   let weaponFormatted = formatUpgrades(formatStats(weaponListWithDescriptions));
   let result = formatProperties(weaponFormatted)

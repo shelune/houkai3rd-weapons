@@ -70,6 +70,11 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/59935"
     },
     {
+        "name": "月神の守護",
+        "nameProposal": "Artemis Guardian",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50639"
+    },
+    {
         "name": "光と影",
         "nameProposal": "Light and Shadow",
         "url": "https://houkai3rd.gamewith.jp/article/show/50631"
@@ -141,12 +146,12 @@
     },
     {
         "name": "合金ドミネーターガン",
-        "nameProposal": "",
+        "nameProposal": "Alloy Dominator's Pistol",
         "url": "https://houkai3rd.gamewith.jp/article/show/50636"
     },
     {
         "name": "合金ストームリボルバー",
-        "nameProposal": "Alloy Dominator's Pistol",
+        "nameProposal": "Alloy Hurricane Revolver",
         "url": "https://houkai3rd.gamewith.jp/article/show/50637"
     },
     {
@@ -256,7 +261,7 @@
     },
     {
         "name": "キャンディケイン太刀",
-        "nameProposal": "",
+        "nameProposal": "Candy Sword",
         "url": "https://houkai3rd.gamewith.jp/article/show/84300"
     },
     {
@@ -391,7 +396,7 @@
     },
     {
         "name": "量子破滅者Ⅱ型",
-        "nameProposal": "Quantum Demolisher Form II",
+        "nameProposal": "Quantum Demolisher Type-II",
         "url": "https://houkai3rd.gamewith.jp/article/show/59946"
     },
     {
@@ -421,7 +426,7 @@
     },
     {
         "name": "笹の葉ボーガン",
-        "nameProposal": "",
+        "nameProposal": "Bamboo Leaf",
         "url": "https://houkai3rd.gamewith.jp/article/show/109562"
     },
     {
@@ -526,7 +531,7 @@
     },
     {
         "name": "黎明の審判",
-        "nameProposal": "",
+        "nameProposal": "Dawn Judgement",
         "url": "https://houkai3rd.gamewith.jp/article/show/62839"
     },
     {
@@ -571,7 +576,7 @@
     },
     {
         "name": "レンジャー鋸刃",
-        "nameProposal": "",
+        "nameProposal": "Ranger Saw Blade",
         "url": "https://houkai3rd.gamewith.jp/article/show/109325"
     },
     {
@@ -595,11 +600,6 @@
         "url": "https://houkai3rd.gamewith.jp/article/show/74127"
     },
     {
-        "name": "真紅のクイーン",
-        "nameProposal": "",
-        "url": "https://houkai3rd.gamewith.jp/article/show/59940"
-    },
-    {
         "name": "超重剣アサルト",
         "nameProposal": "Vanguard",
         "url": "https://houkai3rd.gamewith.jp/article/show/50711"
@@ -616,12 +616,12 @@
     },
     {
         "name": "合金デウスクレイモア",
-        "nameProposal": "",
+        "nameProposal": "Alloy Godfather's Greatsword",
         "url": "https://houkai3rd.gamewith.jp/article/show/50705"
     },
     {
         "name": "深紫の騎士",
-        "nameProposal": "Alloy Godfather's Greatsword",
+        "nameProposal": "Deep Purple Knight",
         "url": "https://houkai3rd.gamewith.jp/article/show/54360"
     },
     {
@@ -643,11 +643,6 @@
         "name": "16式混合大剣",
         "nameProposal": "Hybrid Type-16",
         "url": "https://houkai3rd.gamewith.jp/article/show/59939"
-    },
-    {
-        "name": "異端審問会のトーチ",
-        "nameProposal": "",
-        "url": "https://houkai3rd.gamewith.jp/article/show/50714"
     },
     {
         "name": "原子力推進剣・プロト",
@@ -696,7 +691,7 @@
     },
     {
         "name": "レンジャー十字架",
-        "nameProposal": "",
+        "nameProposal": "Ranger Cross (*)",
         "url": "https://houkai3rd.gamewith.jp/article/show/109324"
     },
     {
@@ -771,7 +766,7 @@
     },
     {
         "name": "残火の鳶",
-        "nameProposal": "",
+        "nameProposal": "Ember Of Kite (*)",
         "url": "https://houkai3rd.gamewith.jp/article/show/101866"
     },
     {
@@ -803,5 +798,75 @@
         "name": "防護腕甲",
         "nameProposal": "Protective Gauntlet",
         "url": "https://houkai3rd.gamewith.jp/article/show/92598"
+    },
+    {
+        "name": "烈炎の破滅者",
+        "nameProposal": "Blaze Destroyer",
+        "url": "https://houkai3rd.gamewith.jp/article/show/58404"
+    },
+    {
+        "name": "ディメンションソナタ",
+        "nameProposal": "Dimension Sonata",
+        "url": "https://houkai3rd.gamewith.jp/article/show/111284"
+    },
+    {
+        "name": "マルコフタイプC",
+        "nameProposal": "Markov Type C",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50691"
+    },
+    {
+        "name": "核心収束砲Delta",
+        "nameProposal": "Core Evoker Delta",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50684"
+    },
+    {
+        "name": "極光斬艦刀",
+        "nameProposal": "Schwert Gewehr",
+        "url": "https://houkai3rd.gamewith.jp/article/show/54193"
+    },
+    {
+        "name": "模造霊刀・氷結曇天",
+        "nameProposal": "Ice Epiphyllum",
+        "url": "https://houkai3rd.gamewith.jp/article/show/60109"
+    },
+    {
+        "name": "牛鬼切・長光",
+        "nameProposal": "Ghostslayer Nagamitsu",
+        "url": "https://houkai3rd.gamewith.jp/article/show/61442"
+    },
+    {
+        "name": "複合刀柳葉",
+        "nameProposal": "Willow",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50675"
+    },
+    {
+        "name": "ユミルの腕",
+        "nameProposal": "Ymir's Wrist",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50688"
+    },
+    {
+        "name": "Cアナコンダ改",
+        "nameProposal": "Colt Anaconda EX",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50650"
+    },
+    {
+        "name": "真紅のクイーン",
+        "nameProposal": "Deep Crimson Queen",
+        "url": "https://houkai3rd.gamewith.jp/article/show/59940"
+    },
+    {
+        "name": "異端審問会のトーチ",
+        "nameProposal": "Heresy Trial Torch",
+        "url": "https://houkai3rd.gamewith.jp/article/show/50714"
+    },
+    {
+        "name": "タイタンの拳",
+        "nameProposal": "Titan Fist",
+        "url": "https://houkai3rd.gamewith.jp/article/show/110632"
+    },
+    {
+        "name": "女力の剣",
+        "nameProposal": "Nuwa Blade",
+        "url": "https://houkai3rd.gamewith.jp/article/show/58100"
     }
 ]

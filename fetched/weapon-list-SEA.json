@@ -9,7 +9,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/USP45.png",
+        "textBlocks": "「RUSP45"
     },
     {
         "name": "Remodelled USP",
@@ -21,7 +23,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Remodelled-USP.png",
+        "textBlocks": "「GUSP・改"
     },
     {
         "name": "M1911",
@@ -33,7 +37,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/M1911.png",
+        "textBlocks": "「GM1911"
     },
     {
         "name": "Desert Eagle",
@@ -45,7 +51,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Desert-Eagle.png",
+        "textBlocks": "デザートイーグル"
     },
     {
         "name": "Colt Peacemaker",
@@ -59,7 +67,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Colt-Peacemaker.png",
+        "textBlocks": "「"
     },
     {
         "name": "Remodelled C – Anaconda",
@@ -71,7 +81,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Remodelled-C-Anaconda-.png",
+        "textBlocks": "AC・アナコンダ・改"
     },
     {
         "name": "Water Fairy Form I",
@@ -83,7 +95,9 @@
         "passive_skill_1": "Increase physical damage against float status enemy by 40%",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Fairy-Form-I.png",
+        "textBlocks": "水妖精」型"
     },
     {
         "name": "Water Fairy Form II",
@@ -97,7 +111,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Fairy-Form-II.png",
+        "textBlocks": "水妖精/型"
     },
     {
         "name": "Fire Fairy Form I",
@@ -111,7 +127,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Fire-Fairy-Form-I.png",
+        "textBlocks": "炎妖精1型"
     },
     {
         "name": "Fire Fairy Form II",
@@ -127,7 +145,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Fire-Fairy-Form-II.png",
+        "textBlocks": "炎妖精小型"
     },
     {
         "name": "Pulse Pistol Prototype",
@@ -139,7 +159,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Pistol-Prototype.png",
+        "textBlocks": "試作型パルスハンドガン"
     },
     {
         "name": "Moon God Protection",
@@ -154,7 +176,9 @@
             "float",
             "timelock"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Moon-God-Protection.png",
+        "textBlocks": "「"
     },
     {
         "name": "Fire Wheel Mosin Nagant",
@@ -168,7 +192,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Fire-Wheel-Mosin-Nagant.png",
+        "textBlocks": "「"
     },
     {
         "name": "Burning Wings",
@@ -182,7 +208,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Burning-Wings.png",
+        "textBlocks": "「"
     },
     {
         "name": "Xuanyuan Pulse Pistol",
@@ -198,7 +226,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Xuanyuan-Pulse-Pistol.png",
+        "textBlocks": "「自軒猿・パルスハンドガン"
     },
     {
         "name": "Dark Actor Pistol",
@@ -210,7 +240,9 @@
         "passive_skill_1": "Increase physical ranged attack by 30%. Reduce damage dealt based on distance, each 1m further away, reduce 10% damage dealt, up to 80%",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Dark-Actor-Pistol.png",
+        "textBlocks": "「"
     },
     {
         "name": "Phoenix Gun",
@@ -224,7 +256,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Phoenix-Gun.png",
+        "textBlocks": "鳳"
     },
     {
         "name": "Kallen Saint Gun",
@@ -236,7 +270,9 @@
         "passive_skill_1": "When hit, absorb 40% damage, release a holy light, cooldown 15 seconds. Holy light deal physical damage 290% based on attack power, reduce enemy attack speed by 75% for 4.5 seconds.",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Kallen-Saint-Gun.png",
+        "textBlocks": "「自聖銃・カレン"
     },
     {
         "name": "Alloyed Storm Revolver",
@@ -250,7 +286,9 @@
         "debuffs": [],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Storm-Revolver.png",
+        "textBlocks": "「"
     },
     {
         "name": "Alloyed Dominator Gun",
@@ -264,7 +302,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Dominator-Gun.png",
+        "textBlocks": "「結合金・ドミネーター・ガン"
     },
     {
         "name": "2nd Sacred Relic",
@@ -278,7 +318,9 @@
         "debuffs": [],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/2nd-sacred-relic.png",
+        "textBlocks": "2nd聖遺物"
     },
     {
         "name": "Super Railgun Hand Cannon",
@@ -294,7 +336,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Super-railgun-hand-cannon.png",
+        "textBlocks": "超電磁ハンドキャノン"
     },
     {
         "name": "Shennong Protection",
@@ -309,7 +353,9 @@
             "freeze",
             "ATK -"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Shennong-protection.png",
+        "textBlocks": "神農の守護"
     },
     {
         "name": "Yae Spirit Gun",
@@ -323,7 +369,9 @@
         "debuffs": [
             "bind"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Yae-spirit-gun.png",
+        "textBlocks": "「"
     },
     {
         "name": "Dominator Gun",
@@ -339,7 +387,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Dominator-pistol.png",
+        "textBlocks": "ミドミネーター・ガン"
     },
     {
         "name": "Fafnir Explosion Flame",
@@ -355,7 +405,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Fafnir-immolation.png",
+        "textBlocks": "ファフニールの爆炎"
     },
     {
         "name": "Infernal Demolisher",
@@ -372,7 +424,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Recca-destroyer.png",
+        "textBlocks": "烈炎の破滅者"
     },
     {
         "name": "Wings of Jingwei",
@@ -388,7 +442,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Wing-of-Jingwei.png",
+        "textBlocks": "精衛の翼"
     },
     {
         "name": "Demon Horn Thunder Dagger",
@@ -402,7 +458,9 @@
         "debuffs": [],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Demon-Horn-Thunder-Dagger.png",
+        "textBlocks": "雷刀·鬼角"
     },
     {
         "name": "Mjolnir",
@@ -416,7 +474,9 @@
         "debuffs": [
             "DEF -"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Mjolnir.png",
+        "textBlocks": "「ミョルニル"
     },
     {
         "name": "Light and Shadow",
@@ -432,7 +492,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Light-and-Shadow.png",
+        "textBlocks": "「"
     },
     {
         "name": "Energy Warper",
@@ -446,7 +508,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Enenrgy-Warper.png",
+        "textBlocks": "エネルギー遷移者"
     },
     {
         "name": "Hurricane Revolver",
@@ -462,7 +526,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Storm-revolver.png",
+        "textBlocks": "ストーム・リボルバー"
     },
     {
         "name": "Usurper Hand Cannon",
@@ -476,7 +542,9 @@
         "debuffs": [
             "ATK -"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Usurper-Hand-Cannon.png",
+        "textBlocks": "急奪者のハンドキャノン"
     },
     {
         "name": "Original Fairy Bow",
@@ -490,7 +558,9 @@
         "debuffs": [
             "bleed"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/original-fairy-gun.png",
+        "textBlocks": "「島原型・妖精の弓"
     },
     {
         "name": "Extraordinary Form – Hel Bow",
@@ -504,7 +574,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/Extraordinary-Form-Hull-Bow.jpg",
+        "textBlocks": "|"
     },
     {
         "name": "Phantom Colored Aria",
@@ -516,7 +588,9 @@
         "passive_skill_1": "Increase character elemental damage dealt by 15%. Additionally, after tag-in, increase character all damage dealt by 50%, last for 5 seconds. This can only be triggered every 30 seconds after character perform tag-in\nPerforming ultimate attack resets this skill cooldown and the skill will be immediately in effect",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/06/aria2-1.jpg",
+        "textBlocks": "「自幽色のアリア"
     },
     {
         "name": "Fire Spark – Holy Judgement",
@@ -532,7 +606,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/fire-spark-holy-judgement.jpg",
+        "textBlocks": "天火圣裁"
     },
     {
         "name": "Seishuu Muramasa",
@@ -544,7 +620,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Seishuu-Muramasa.png",
+        "textBlocks": "勢州村正"
     },
     {
         "name": "Horikawa Kunihiro",
@@ -556,7 +634,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Horikawa-Kunihiro.png",
+        "textBlocks": "堀川国広"
     },
     {
         "name": "Demon Katana – Uson",
@@ -568,7 +648,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Demon-Katana-Uson.png",
+        "textBlocks": "「"
     },
     {
         "name": "Demon Katana – Muramasa",
@@ -580,7 +662,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Demon-Katana-Murasama-.png",
+        "textBlocks": "妖刀・村正"
     },
     {
         "name": "Composite Katana – Vermilion Bird",
@@ -594,7 +678,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Multifuction-Katana-Vermilion-Bird.png",
+        "textBlocks": "複合刀・朱雀"
     },
     {
         "name": "Composite Katana – Yanagiba",
@@ -606,7 +692,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Multifuction-Katana-Yanagiba.png",
+        "textBlocks": "複合刀・柳葉"
     },
     {
         "name": "Lightning Soul Miaodao",
@@ -620,7 +708,9 @@
         "debuffs": [],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Lightning-Soul-Miaodao.png",
+        "textBlocks": "苗力・電魂"
     },
     {
         "name": "Thunder Demon Miaodao",
@@ -634,7 +724,9 @@
         "debuffs": [
             "DEF -"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Thunder-Demon-Miaodao.png",
+        "textBlocks": "「"
     },
     {
         "name": "Pulse Tachi Type 17",
@@ -650,7 +742,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Tachi-Type-17.png",
+        "textBlocks": "「"
     },
     {
         "name": "Pulse Tachi Type 19",
@@ -662,7 +756,9 @@
         "passive_skill_1": "Reduce Skill EP Activation Cost by 22%",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Tachi-Type-19.png",
+        "textBlocks": "「"
     },
     {
         "name": "Pulse Tachi Prototype",
@@ -674,7 +770,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Tachi-Prototype.png",
+        "textBlocks": "試作型パルス太刀"
     },
     {
         "name": "Reverse Crystal Blade Katana",
@@ -688,7 +786,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Reverse-Crystal-Blade-Katana.png",
+        "textBlocks": "結晶逆刃刀"
     },
     {
         "name": "Heat Cutting Blade",
@@ -704,7 +804,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Heat-Cutting-Blade.png",
+        "textBlocks": "「"
     },
     {
         "name": "Crimson Cherry Blossoms",
@@ -718,7 +820,9 @@
         "debuffs": [
             "bind"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Crimson-Cherry-Blossoms.png",
+        "textBlocks": "紅桜"
     },
     {
         "name": "Thunder Roar",
@@ -734,7 +838,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Thunder-Roar.png",
+        "textBlocks": "三只小2"
     },
     {
         "name": "Xuanyuan Pulse Tachi",
@@ -750,7 +856,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Xuanyuan-Pulse-Tachi.png",
+        "textBlocks": "軒猿・パルス太刀"
     },
     {
         "name": "Endotherm Tachi",
@@ -764,7 +872,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Endotherm-Tachi.png",
+        "textBlocks": "吸熱太刀"
     },
     {
         "name": "Phoenix Blade",
@@ -778,7 +888,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Phoenix-Blade.png",
+        "textBlocks": "■剣"
     },
     {
         "name": "Alloyed Gluttony Settou",
@@ -790,7 +902,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Gluttony-Setto.png",
+        "textBlocks": "「"
     },
     {
         "name": "Alloyed Gale Tachi",
@@ -804,7 +918,9 @@
         "debuffs": [],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Gale-Tachi.png",
+        "textBlocks": "「"
     },
     {
         "name": "3rd Sacred Relic",
@@ -816,7 +932,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "During Burst Mode, Physical Damage +30%",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/3rd-Sacred-Relic.png",
+        "textBlocks": "3rd聖遺物"
     },
     {
         "name": "Raikiri",
@@ -830,7 +948,9 @@
         "debuffs": [],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Raikiri.png",
+        "textBlocks": "雷切"
     },
     {
         "name": "Magnetic Storm",
@@ -846,7 +966,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Zan-Jikiarashi.png",
+        "textBlocks": "磁気嵐・斬"
     },
     {
         "name": "Shadow Sword – Plasma",
@@ -862,7 +984,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Plasma-Kagegatana.png",
+        "textBlocks": "「ご影刀・プラズマ"
     },
     {
         "name": "Reversal Force Uchigatana Type 11",
@@ -876,7 +1000,9 @@
         "debuffs": [
             "bleed"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Reversal-Force-Uchigatana-Type-11-.png",
+        "textBlocks": "11式反力場打刀"
     },
     {
         "name": "Blade of Nihility",
@@ -890,7 +1016,9 @@
         "debuffs": [
             "timelock"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Blade-of-Nihility.png",
+        "textBlocks": "虚無の刃"
     },
     {
         "name": "Nuwa Blade",
@@ -904,7 +1032,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Nuwa-Blade.png",
+        "textBlocks": "v女カの剣"
     },
     {
         "name": "Heavenly Sword",
@@ -921,7 +1051,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Heavely-Blade.png",
+        "textBlocks": "開天の剣"
     },
     {
         "name": "High Frequency Liston Knife",
@@ -938,7 +1070,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/High-Frequency-Blade.png",
+        "textBlocks": "|"
     },
     {
         "name": "Replica Spirit Sword – Freezing Cloudy",
@@ -952,7 +1086,9 @@
         "debuffs": [],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Hyouketsu-Donten-Mozou-Reigatana.png",
+        "textBlocks": "模造刀・氷結曇天"
     },
     {
         "name": "Spirit Sword – Flurry of Cherry Blossoms",
@@ -966,7 +1102,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Sakura-Fubuki.png",
+        "textBlocks": "户靈刀樱吹"
     },
     {
         "name": "Gluttony Settou",
@@ -980,7 +1118,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Blade-of-Gluttony.png",
+        "textBlocks": "「暴食節刀"
     },
     {
         "name": "Zouhou",
@@ -992,7 +1132,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "On hit,  8.0% chance to inflict AOE paralysis status, last for 3 seconds, cooldown 6 seconds",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Kouzou.png",
+        "textBlocks": "蔵鋒"
     },
     {
         "name": "Gale Tachi",
@@ -1006,7 +1148,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Gale-Tachi.png",
+        "textBlocks": "疾風太刀"
     },
     {
         "name": "Fairy Sword – Sylvan",
@@ -1018,7 +1162,9 @@
         "passive_skill_1": "For each 10% extra movement speed, increase attack all-damage by 5%, stack up to 50%.  Increase movement speed by 30%",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Fairy-Sword-Sylvan.png",
+        "textBlocks": "「"
     },
     {
         "name": "Promise After Rain",
@@ -1032,7 +1178,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/promise-after-rain.jpg",
+        "textBlocks": "「"
     },
     {
         "name": "Jizou Spirit",
@@ -1046,7 +1194,9 @@
         "debuffs": [
             "float"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Jizou-Spirit.jpg",
+        "textBlocks": "地蔵御魂"
     },
     {
         "name": "Candy Sword",
@@ -1058,7 +1208,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "When combo reaches 10, increase elemental damage by 15%",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/candy-sword.jpg",
+        "textBlocks": "キャンディケイン太刀"
     },
     {
         "name": "Demon Katana – Red Dyed Cherry Blossoms",
@@ -1072,7 +1224,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/demon-katana-red-dyed-cherry-blossoms.jpg",
+        "textBlocks": "妖刀·赤染樱"
     },
     {
         "name": "SU-45 Howitzer",
@@ -1084,7 +1238,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/SU-45-Howitzer.png",
+        "textBlocks": "「"
     },
     {
         "name": "SU-30 Cannon",
@@ -1096,7 +1252,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/SU-30-Cannon.png",
+        "textBlocks": "SU-30キャノン砲"
     },
     {
         "name": "MiG-11 Guided Missile​",
@@ -1108,7 +1266,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/MiG-11-Guided-Missile​.png",
+        "textBlocks": ""
     },
     {
         "name": "MiG-13 Rocket",
@@ -1120,7 +1280,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/MiG-13-Rocket.png",
+        "textBlocks": "「"
     },
     {
         "name": "Mig-7 Laser Cannon",
@@ -1132,7 +1294,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Heavy-Artillery​-Vector.png",
+        "textBlocks": ""
     },
     {
         "name": "Heavy Artillery​ Vector",
@@ -1144,7 +1308,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Heavy-Artillery​-Vector.png",
+        "textBlocks": ""
     },
     {
         "name": "Markov Type A",
@@ -1158,7 +1324,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Markov-Type-A.png",
+        "textBlocks": "「"
     },
     {
         "name": "Markov Type C",
@@ -1170,7 +1338,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Markov-Type-C.png",
+        "textBlocks": "「"
     },
     {
         "name": "Monopole Cannon Type 07",
@@ -1184,7 +1354,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Monopole-Cannon-Type-07.png",
+        "textBlocks": "07式单極子砲"
     },
     {
         "name": "Monopole Cannon Type 09",
@@ -1196,7 +1368,9 @@
         "passive_skill_1": "On hit 1.5% chance to inflict paralysis status to enemy, causing immobilize and unable to attack, last for 2.99 seconds",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Monopole-Cannon-Type-09.png",
+        "textBlocks": "09式単極子砲"
     },
     {
         "name": "Pulse Cannon Prototype",
@@ -1208,7 +1382,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Cannon-Prototype.png",
+        "textBlocks": "試作型パルスキャン」"
     },
     {
         "name": "Missile Division – The Striker",
@@ -1220,7 +1396,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Missile-Division-The-Striker.png",
+        "textBlocks": "「"
     },
     {
         "name": "X-01 Blue Eyes of Oroch",
@@ -1234,7 +1412,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/X-01-Blue-Eyes-of-Oroch.png",
+        "textBlocks": "「"
     },
     {
         "name": "Rain of Cold Frost",
@@ -1246,7 +1426,9 @@
         "passive_skill_1": "Knock down attack inflict frost debuff, slow enemy and its surrounding attack speed and movement speed by 70%, last for 6 seconds, cooldown 15 seconds",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Rain-of-Cold-Frost.png",
+        "textBlocks": "冷霜の雨"
     },
     {
         "name": "Howl of Ice",
@@ -1258,7 +1440,9 @@
         "passive_skill_1": "On hit 39.8% chance to inflict freeze status, last for 3 seconds, cooldown 9.07 seconds",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Howl.png",
+        "textBlocks": "水の咆哮"
     },
     {
         "name": "Alloyed Lurker Cannon",
@@ -1270,7 +1454,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Lurker-Cannon.png",
+        "textBlocks": "「"
     },
     {
         "name": "Alloyed Devourer Cannon",
@@ -1284,7 +1470,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Devourer-Cannon.png",
+        "textBlocks": "●合金・デバウアキャノン"
     },
     {
         "name": "AI-chan Cannon",
@@ -1296,7 +1484,9 @@
         "passive_skill_1": "On 3rd charge phase, on hit 66.3% chance to inflict vulnerable status, reduce enemy movement speed, does not stack with other movement speed reducing status",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/AI-chan-Cannon.png",
+        "textBlocks": "「"
     },
     {
         "name": "Xuanyuan Pulse Cannon",
@@ -1312,7 +1502,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/xuanyuan-pulse-cannon.jpg",
+        "textBlocks": "「2軒猿・パルスキャノン"
     },
     {
         "name": "5th Sacred Relic",
@@ -1324,7 +1516,9 @@
         "passive_skill_1": "Based on charging level, when missle explode, create 2/4/9 mini bombs, each dealing 30% physical damage",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/5th-Sacred-Relic.png",
+        "textBlocks": "5th聖遺物"
     },
     {
         "name": "Original Cyclops",
@@ -1336,7 +1530,9 @@
         "passive_skill_1": "On hit, imbue a mark that will explode on-death, dealing 399% AOE physical damage mark last for 5 seconds",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Cyclops-Project.png",
+        "textBlocks": "「"
     },
     {
         "name": "Original Hekatonkheires",
@@ -1351,7 +1547,9 @@
             "DEF -",
             "timelock"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Hekatonkheires-Project.png",
+        "textBlocks": "「"
     },
     {
         "name": "Remodelled Bunny 19c",
@@ -1363,7 +1561,9 @@
         "passive_skill_1": "On kill, has 60% chance to increase all damage by 75% for 3 seconds",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Remodeled-Bunny-19C.png",
+        "textBlocks": "●重装ウサギ19C"
     },
     {
         "name": "Convergent Kernel Cannon Delta",
@@ -1380,7 +1580,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Core-Amass-Delta-Cannon.png",
+        "textBlocks": "核心收束砲Delta"
     },
     {
         "name": "Ymir Arm",
@@ -1394,7 +1596,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Ymirs-Arm.png",
+        "textBlocks": "「"
     },
     {
         "name": "Fuxi Scroll",
@@ -1406,7 +1610,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Yuxi-Scroll.png",
+        "textBlocks": "伏義の書"
     },
     {
         "name": "Chi You Gigantic Cannon",
@@ -1422,7 +1628,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Chi-You-Giant-Canon.png",
+        "textBlocks": "貴方の三砲"
     },
     {
         "name": "Hellfire Form 3",
@@ -1436,7 +1644,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Hellfire-Type-3.png",
+        "textBlocks": "地獄の始II型"
     },
     {
         "name": "Sanada Fire Katana",
@@ -1448,7 +1658,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Fire-Katana-Sanada.png",
+        "textBlocks": "「"
     },
     {
         "name": "Týr Arm",
@@ -1462,7 +1674,9 @@
         "debuffs": [
             "bleed"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Tyrs-Arm.png",
+        "textBlocks": "●テュールの腕"
     },
     {
         "name": "Quantum Demolisher Form II",
@@ -1478,7 +1692,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Quantum-Destroyer-Type-2.png",
+        "textBlocks": "量子破滅者||型"
     },
     {
         "name": "Lurker Cannon",
@@ -1492,7 +1708,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Lurker-Cannon.png",
+        "textBlocks": "「"
     },
     {
         "name": "Devourer Cannon",
@@ -1508,7 +1726,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Devourer-Cannon.png",
+        "textBlocks": "「"
     },
     {
         "name": "Star Destroyer 19c",
@@ -1525,7 +1745,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Plannet-Anniliator.jpg",
+        "textBlocks": "難星者19c"
     },
     {
         "name": "M134 Vulcan",
@@ -1537,7 +1759,9 @@
         "passive_skill_1": "Deal 50% physical damage based on attack power to any enemy surrounding the target upon critical charge attack, cooldown 0.3 second",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/m134-vulcan.jpg",
+        "textBlocks": "PM134バルカン"
     },
     {
         "name": "Claymore",
@@ -1549,7 +1773,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Claymore.png",
+        "textBlocks": "「のクレイモア"
     },
     {
         "name": "Melding Type 27 – Greatsword",
@@ -1561,7 +1787,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Melding-Type-27-Greatsword.png",
+        "textBlocks": "「027式混合大剣"
     },
     {
         "name": "Energy Claymore",
@@ -1573,7 +1801,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Energy-Claymore.png",
+        "textBlocks": "「ウエネルギー・クレイモア"
     },
     {
         "name": "Remodelled Nuclear Propulsion Sword",
@@ -1585,7 +1815,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Remodelled-Nuclear-Propulsion-Sword.png",
+        "textBlocks": "の原子力推進剣・改"
     },
     {
         "name": "Original Nuclear Propulsion Sword",
@@ -1597,7 +1829,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Original-Nuclear-Propulsion-Sword-.png",
+        "textBlocks": "の原子力推進剣・プロト"
     },
     {
         "name": "Melding Type 16 – Greatsword",
@@ -1609,7 +1843,9 @@
         "passive_skill_1": "Increase all-damage against stun, bind, space-time decelerated enemy by 20%",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Melding-Type-16-Greatsword.png",
+        "textBlocks": "「16式混合大剣"
     },
     {
         "name": "Crystallized Nitrogen Sword",
@@ -1621,7 +1857,9 @@
         "passive_skill_1": "On hit 8% chance to inflict freeze status, last for 2.14 seconds",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Crystallized-Nitrogen-Sword.png",
+        "textBlocks": "室素結晶劍"
     },
     {
         "name": "Assault Ultra Greatsword",
@@ -1635,7 +1873,9 @@
         "debuffs": [
             "float"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Assault-Ultra-Greatsword.png",
+        "textBlocks": "の超重剣・アサルト"
     },
     {
         "name": "Electrolysis Resonance Sword",
@@ -1651,7 +1891,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Electrolysis-Resonance-Sword.png",
+        "textBlocks": "電離共振劍"
     },
     {
         "name": "Snake King Ultra Greatsword",
@@ -1663,7 +1905,9 @@
         "passive_skill_1": "Give 19 EP when starting battle",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Snake-King-Ultra-Greatsword.png",
+        "textBlocks": "の超重剣・キング蛇"
     },
     {
         "name": "Pulse Claymore Prototype",
@@ -1675,7 +1919,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Claymore-Prototype.png",
+        "textBlocks": "「P試作型パルス・クレイモア"
     },
     {
         "name": "Deep Purple Knight",
@@ -1687,7 +1933,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Deep-Purple-Knight.png",
+        "textBlocks": "の深紫の騎士"
     },
     {
         "name": "Deep Crimson Queen",
@@ -1699,7 +1947,9 @@
         "passive_skill_1": "Increase out going physical damage by 0.6% for each 1% HP loss",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Deep-Crimson-Queen.png",
+        "textBlocks": "真紅のクイーン"
     },
     {
         "name": "Sprocket Claymore",
@@ -1711,7 +1961,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Sprocket-Claymore.png",
+        "textBlocks": "クスプロケット・クレイモア"
     },
     {
         "name": "Alloyed Deus Claymore",
@@ -1725,7 +1977,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Deus-Claymore.png",
+        "textBlocks": "の合金・デウス・クレイモア"
     },
     {
         "name": "Alloyed Betrayer Claymore",
@@ -1737,7 +1991,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Betrayer-Claymore.png",
+        "textBlocks": "の合金・ビトレイヤー・クレイモア"
     },
     {
         "name": "AI-chan Hammer",
@@ -1751,7 +2007,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/AI-chan-hammer.jpg",
+        "textBlocks": "DAIちゃんハンマー"
     },
     {
         "name": "Heresy Trial Torch",
@@ -1765,7 +2023,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/torch.jpg",
+        "textBlocks": "の異端審問会のトーチ"
     },
     {
         "name": "Níðhǫggr Wing Claw",
@@ -1777,7 +2037,9 @@
         "passive_skill_1": "On hit, 10% chance to inflict bleed status, dealing 151 physical attack per every 0.5 seconds for 3 seconds.",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Níðhǫggr-Wing-Claw.png",
+        "textBlocks": ""
     },
     {
         "name": "7th Sacred Relic",
@@ -1791,7 +2053,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/7th-Sacred-Relic.png",
+        "textBlocks": "7th聖遺物"
     },
     {
         "name": "Masquerade of Red Blood",
@@ -1805,7 +2069,9 @@
         "debuffs": [
             "amplified"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Masquerade-of-Red-Blood.png",
+        "textBlocks": "「D鮮血の舞"
     },
     {
         "name": "Sunfire Claymore",
@@ -1821,7 +2087,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Sunfire-Claymore-.png",
+        "textBlocks": "三只小18"
     },
     {
         "name": "Archfiend Dragon Spine",
@@ -1836,7 +2104,9 @@
             "bind",
             "bleed"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Archfiend-Dragon-Spine.png",
+        "textBlocks": "の魔龍の背骨"
     },
     {
         "name": "Aurora Zanbato",
@@ -1852,7 +2122,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Aurora-Zanbato.png",
+        "textBlocks": "|極光斬艦刀"
     },
     {
         "name": "Xuanyuan Sword",
@@ -1872,7 +2144,9 @@
             "ice",
             "fire",
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Xuan-Yuan-Sword.png",
+        "textBlocks": "2軒轅劍"
     },
     {
         "name": "Dawn Judgement",
@@ -1886,7 +2160,9 @@
         "debuffs": [],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Judgment-of-Twilight.png",
+        "textBlocks": "つ黎明の審判"
     },
     {
         "name": "Dark Xuanyuan Sword",
@@ -1900,7 +2176,9 @@
         "debuffs": [
             "timelock"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Corrupted-Xuan-Yuan-Sword.png",
+        "textBlocks": "「黑軒轅劍"
     },
     {
         "name": "Ox Demon Cutter Nagamitsu",
@@ -1912,7 +2190,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "While combo is below 5, increase physical damage by 32%",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Ushionisetsu-Osamitsu.png",
+        "textBlocks": "「の牛鬼切・長光"
     },
     {
         "name": "Deus Claymore",
@@ -1928,7 +2208,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Deus-Claymore.png",
+        "textBlocks": "「ウデウス・クレイモア"
     },
     {
         "name": "Betrayer Claymore",
@@ -1942,7 +2224,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Betrayer-Claymore.png",
+        "textBlocks": "「フビトレイヤー・クレイモア"
     },
     {
         "name": "Balmung",
@@ -1954,7 +2238,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/balmung.png",
+        "textBlocks": "「Dバルムンク"
     },
     {
         "name": "Cross",
@@ -1966,7 +2252,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Cross.png",
+        "textBlocks": "十字架"
     },
     {
         "name": "Ice Shell Cross",
@@ -1982,7 +2270,9 @@
         ],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Shell-Cross.png",
+        "textBlocks": "「"
     },
     {
         "name": "Armor-piercing Shell Launcher",
@@ -1994,7 +2284,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Armor-piercing-Shell-Launcher.png",
+        "textBlocks": "破甲弹凳射台"
     },
     {
         "name": "Flame Shell Launcher",
@@ -2008,7 +2300,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Flame-Shell-Launcher.png",
+        "textBlocks": "「火炎弾発射台"
     },
     {
         "name": "Inferno Oath",
@@ -2024,7 +2318,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Inferno-Oath.png",
+        "textBlocks": "烈火の誓い"
     },
     {
         "name": "Ice Frost Oath",
@@ -2038,7 +2334,9 @@
         "debuffs": [],
         "elements": [
             "ice"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Frost-Oath.png",
+        "textBlocks": "「"
     },
     {
         "name": "Black Smasher",
@@ -2052,7 +2350,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Black-Smasher.png",
+        "textBlocks": "黒色の粉砕者"
     },
     {
         "name": "Blaze Angel",
@@ -2068,7 +2368,9 @@
         ],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Blaze-Angel.png",
+        "textBlocks": "炎の天使"
     },
     {
         "name": "Thunder Angel",
@@ -2084,7 +2386,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Thunder-Angel.png",
+        "textBlocks": "OF"
     },
     {
         "name": "Pulse Cross Prototype",
@@ -2096,7 +2400,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Cross-Prototype.png",
+        "textBlocks": "試作型パルス十字架"
     },
     {
         "name": "AI-chan Candy",
@@ -2108,7 +2414,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/AI-chan-Candy.png",
+        "textBlocks": "「SAIちゃんキャンディ"
     },
     {
         "name": "Judah Oath",
@@ -2124,7 +2432,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Judah-Oath.png",
+        "textBlocks": "「"
     },
     {
         "name": "Replica Cross – Bloody Embrace",
@@ -2139,7 +2449,9 @@
             "float",
             "bleed"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Blood-Embraced.png",
+        "textBlocks": "参模造十字架・血の抱擁"
     },
     {
         "name": "Cherry Blossoms Oath",
@@ -2153,7 +2465,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Sakura-Oath.png",
+        "textBlocks": "「"
     },
     {
         "name": "Silver Guillotine",
@@ -2167,7 +2481,9 @@
         "debuffs": [
             "ATK -"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Silver-Colored-Cutter.png",
+        "textBlocks": "多银色切割者"
     },
     {
         "name": "11th Sacred Relic",
@@ -2179,7 +2495,9 @@
         "passive_skill_1": "On hit against vulnerable status enemy, have 39.9% chance to heal whole squad by 74 HP, 3 seconds cooldown",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/11th-Sacred-Relic.jpg",
+        "textBlocks": "11th聖遺物"
     },
     {
         "name": "Aurel de Nier",
@@ -2194,7 +2512,9 @@
             "stun",
             "amplified"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/Aurel-de-Nier.jpg",
+        "textBlocks": "埃琉德尼尔"
     },
     {
         "name": "Protective Gauntlet",
@@ -2206,7 +2526,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/02/Protective-Guantlet.jpg",
+        "textBlocks": "防護腕甲"
     },
     {
         "name": "CAS-II Minako",
@@ -2218,7 +2540,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/02/CAS-II-Minako.jpg",
+        "textBlocks": "OCAS-II浪子"
     },
     {
         "name": "White Star Destroyer",
@@ -2232,7 +2556,9 @@
         "debuffs": [
             "float"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/white-star.jpg",
+        "textBlocks": "○白星の駆逐者"
     },
     {
         "name": "CAS-X Saint",
@@ -2246,7 +2572,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/cas-X-saint.jpg",
+        "textBlocks": "OCAS-X聖徒"
     },
     {
         "name": "Sky Query Thousand Birds",
@@ -2258,7 +2586,9 @@
         "passive_skill_1": "Increase EP gained via attack by 25%",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/02/sky-query-thousand-birds.jpg",
+        "textBlocks": "○百鳥問天"
     },
     {
         "name": "Star Ring Vortex",
@@ -2272,7 +2602,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/Star-Ring-Vortex.jpg",
+        "textBlocks": "「○星環の過"
     },
     {
         "name": "Fist of Taixu",
@@ -2286,7 +2618,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/03/fist-of-taixu.jpg",
+        "textBlocks": "の太虚の拳"
     },
     {
         "name": "Darken Nuada",
@@ -2302,7 +2636,9 @@
         ],
         "elements": [
             "electric"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/03/Nuadha.jpg",
+        "textBlocks": "○断光のヌアダ"
     },
     {
         "name": "Ember of Kite",
@@ -2316,7 +2652,9 @@
         "debuffs": [],
         "elements": [
             "fire"
-        ]
+        ],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/ember-of-kite.jpg",
+        "textBlocks": "●残火の意"
     },
     {
         "name": "Titan Fist",
@@ -2328,7 +2666,9 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/06/titan-fist.png",
+        "textBlocks": "●ゴッドファーザー覇王拳"
     },
     {
         "name": "Twin Wolves of Eternal Twilight",
@@ -2340,6 +2680,8 @@
         "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
-        "elements": []
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/06/twilight-wolves.png",
+        "textBlocks": "○永暮の双狼"
     }
 ]

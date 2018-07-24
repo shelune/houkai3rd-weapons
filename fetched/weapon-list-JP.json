@@ -837,6 +837,127 @@
         "elements": []
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50639",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50639.png",
+        "name": "月神の守護",
+        "rank": "3",
+        "atk": "169",
+        "category": "dual-gun",
+        "description": "",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            },
+            "Moon Will": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51505_i.png"
+            },
+            "Broken Handle": {
+                "requirement": [
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            }
+        },
+        "active_skill": "Inflict AOE float status to target while also apply space-time lock, last for 3.30 seconds (EP Consumption: 12 – Cooldown: 12s)",
+        "nameProposal": "Moon God Protection",
+        "passive_skill_1": "",
+        "passive_skill_2": "",
+        "debuffs": [
+            "float",
+            "timelock"
+        ],
+        "elements": []
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/58404",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_58404.png",
+        "name": "烈炎の破滅者",
+        "rank": "4",
+        "atk": "276",
+        "category": "dual-gun",
+        "description": "",
+        "load": "18",
+        "crit": "32",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Twin Moon Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51496_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            }
+        },
+        "active_skill": "Kiana will jump back, leaving a bullet that will explode, deal physical damage 349% based on attack power,  and stun the enemies in the area for 4.49 seconds (EP Consumption: 14 – Cooldown: 16s)",
+        "nameProposal": "Energy Warper",
+        "passive_skill_1": "After performing space-time distortion, increases attack speed by 79.8%, critical rate by 24.9%,  last for 4 seconds. Only last in Space-time distortion.",
+        "passive_skill_2": "",
+        "debuffs": [
+            "stun"
+        ],
+        "elements": []
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50631",
         "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50631.png",
         "name": "光と影",
@@ -1813,6 +1934,58 @@
         "elements": []
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50650",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50650.png",
+        "name": "Cアナコンダ改",
+        "rank": "2",
+        "atk": "128",
+        "category": "dual-gun",
+        "description": "",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Moon Shard": {
+                "requirement": [
+                    "1",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51522_i.png"
+            },
+            "Twin Moon Shard": {
+                "requirement": [
+                    "?",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51514_i.png"
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Aerostat": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            }
+        },
+        "active_skill": "Fire one bullet that inflict small AOE 60% attack speed and movement speed reduction, last for 4.48 seconds (EP Consumption: 5 – Cooldown: 10s)",
+        "nameProposal": "Remodelled C – Anaconda",
+        "passive_skill_1": "",
+        "passive_skill_2": "",
+        "debuffs": [],
+        "elements": []
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50649",
         "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50649.png",
         "name": "M1911",
@@ -2197,6 +2370,67 @@
         ]
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/60109",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_60109.png",
+        "name": "模造霊刀・氷結曇天",
+        "rank": "4",
+        "atk": "265",
+        "category": "katana",
+        "description": "",
+        "load": "18",
+        "crit": "46",
+        "upgrades": {
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        },
+        "active_skill": "Create a 3.5m freezing AOE under wielder, last for 10.0 seconds, increase friendly unit’s ice elemental damage by 39.8%, enemies inside the area will be exploded with frostbite after 6 seconds, receive 975 ice elemetal damage (EP Consumption: 20 – Cooldown: 18s)",
+        "nameProposal": "Replica Spirit Sword – Freezing Cloudy",
+        "passive_skill_1": "Increase elemental damage by 14.9%. Every 5 seconds, the next attack will deal 1260 ice elemental damage within 5m radius. When equipped on Sakura – Unfogotten, performing a critical attack will gain 200KP",
+        "passive_skill_2": "",
+        "debuffs": [],
+        "elements": [
+            "ice"
+        ]
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/59468",
         "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_59468.png",
         "name": "霊刀・桜吹雪",
@@ -2392,11 +2626,6 @@
         "load": "18",
         "crit": "31",
         "upgrades": {
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            },
             "Honkai Crystal": {
                 "requirement": [
                     "1",
@@ -2732,6 +2961,75 @@
         ],
         "elements": [
             "ice"
+        ]
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/58100",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_58100.png",
+        "name": "女力の剣",
+        "rank": "4",
+        "atk": "272",
+        "category": "katana",
+        "description": "",
+        "load": "18",
+        "crit": "38",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Ocean's Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51494_i.png"
+            }
+        },
+        "active_skill": "Teleport to target enemy and inflict a small AOE bind, last for 4 seconds, reduce bound enemies’ defense power by 80%, dealing 233 electric elemental damage per every 0.5 second (EP Consumption: 14 – Cooldown: 11s)",
+        "nameProposal": "High Frequency Liston Knife",
+        "passive_skill_1": "When performing a critical, 50.0% chance to inflict knock up and lock time-space to enemy, last for 3 seconds,  6.02 seconds cooldown",
+        "passive_skill_2": "",
+        "debuffs": [
+            "DEF -",
+            "bind"
+        ],
+        "elements": [
+            "electric"
         ]
     },
     {
@@ -3781,6 +4079,58 @@
         "elements": []
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50675",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50675.png",
+        "name": "複合刀柳葉",
+        "rank": "2",
+        "atk": "128",
+        "category": "katana",
+        "description": "",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Beast Wingshell": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51517_i.png"
+            },
+            "Ocean Shard": {
+                "requirement": [
+                    "1",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51520_i.png"
+            },
+            "Twin Ocean's Shard": {
+                "requirement": [
+                    "?",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51512_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            }
+        },
+        "active_skill": "Perform a slash in a wide angle, deal physical damage 249% based on attack power (EP Consumption: 9 – Cooldown: 7s)",
+        "nameProposal": "Composite Katana – Yanagiba",
+        "passive_skill_1": "",
+        "passive_skill_2": "",
+        "debuffs": [],
+        "elements": []
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50676",
         "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50676.png",
         "name": "複合刀朱雀",
@@ -4622,6 +4972,74 @@
         "elements": []
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50688",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50688.png",
+        "name": "ユミルの腕",
+        "rank": "4",
+        "atk": "294",
+        "category": "cannon",
+        "description": "",
+        "load": "18",
+        "crit": "11",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        },
+        "active_skill": "Release a strong rupture, seal caught enemies in black ice status, inflict freeze status on to them, dealing 956 ice elemental damage while wielder heal 99 HP per every 0.9 second, black ice last for 4 seconds (EP Consumption: 25 – Cooldown: 20s)",
+        "nameProposal": "Chi You Gigantic Cannon",
+        "passive_skill_1": "",
+        "passive_skill_2": "",
+        "debuffs": [
+            "freeze"
+        ],
+        "elements": [
+            "ice"
+        ]
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50686",
         "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50686.png",
         "name": "サイクロプス・プロト",
@@ -4747,6 +5165,72 @@
         "passive_skill_1": "On kill, has 60% chance to increase all damage by 75% for 3 seconds",
         "passive_skill_2": "",
         "debuffs": [],
+        "elements": []
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50684",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50684.png",
+        "name": "核心収束砲Delta",
+        "rank": "4",
+        "atk": "282",
+        "category": "cannon",
+        "description": "",
+        "load": "18",
+        "crit": "26",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Lightning Will": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51492_i.png"
+            }
+        },
+        "active_skill": "Perform a 3-times-charge shoot at the enemies, damaged enemies will be put into bleed state, taking 313 physical damage per every 0.5 second, last for 7 seconds (SP Consumption: 19 – Cooldown: 9 seconds)",
+        "nameProposal": "Týr Arm",
+        "passive_skill_1": "",
+        "passive_skill_2": "",
+        "debuffs": [
+            "bleed"
+        ],
         "elements": []
     },
     {
@@ -5197,6 +5681,58 @@
         "active_skill": "",
         "nameProposal": "Howl of Ice",
         "passive_skill_1": "On hit 39.8% chance to inflict freeze status, last for 3 seconds, cooldown 9.07 seconds",
+        "passive_skill_2": "",
+        "debuffs": [],
+        "elements": []
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50691",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50691.png",
+        "name": "マルコフタイプC",
+        "rank": "3",
+        "atk": "169",
+        "category": "cannon",
+        "description": "",
+        "load": "12",
+        "crit": "29",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "1"
+                ]
+            },
+            "Broken Handle": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51509_i.png"
+            },
+            "Microreactor": {
+                "requirement": [
+                    "?",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51508_i.png"
+            },
+            "Irralloy Sparkplug": {
+                "requirement": [
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51507_i.png"
+            },
+            "Lightning Will": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51501_i.png"
+            }
+        },
+        "active_skill": "Increase wielder movement speed by 100%, last for 5.98 seconds (EP Consumption: 6 – Cooldown: 15s)",
+        "nameProposal": "Missile Division – The Striker",
+        "passive_skill_1": "",
         "passive_skill_2": "",
         "debuffs": [],
         "elements": []
@@ -5758,6 +6294,58 @@
         "elements": []
     },
     {
+        "url": "https://houkai3rd.gamewith.jp/article/show/50699",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50699.png",
+        "name": "MiG-13ロケット",
+        "rank": "2",
+        "atk": "128",
+        "category": "cannon",
+        "description": "",
+        "load": "8",
+        "crit": "2",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Aerostat": {
+                "requirement": [
+                    "1",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51516_i.png"
+            },
+            "Titanium Barrel": {
+                "requirement": [
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51518_i.png"
+            },
+            "Lightning Shard": {
+                "requirement": [
+                    "1",
+                    "?"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51519_i.png"
+            },
+            "Twin Lightning Shard": {
+                "requirement": [
+                    "?",
+                    "2"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51510_i.png"
+            }
+        },
+        "active_skill": "",
+        "nameProposal": "Mig-7 Laser Cannon",
+        "passive_skill_1": "",
+        "passive_skill_2": "",
+        "debuffs": [],
+        "elements": []
+    },
+    {
         "url": "https://houkai3rd.gamewith.jp/article/show/50701",
         "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_50701.png",
         "name": "SU-22榴弾砲",
@@ -6171,6 +6759,134 @@
         "elements": [
             "fire"
         ]
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/54193",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_54193.png",
+        "name": "極光斬艦刀",
+        "rank": "4",
+        "atk": "289",
+        "category": "greatsword",
+        "description": "",
+        "load": "18",
+        "crit": "17",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Fire Will?": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
+            }
+        },
+        "active_skill": "",
+        "nameProposal": "Ox Demon Cutter Nagamitsu",
+        "passive_skill_1": "",
+        "passive_skill_2": "While combo is below 5, increase physical damage by 32%",
+        "debuffs": [],
+        "elements": []
+    },
+    {
+        "url": "https://houkai3rd.gamewith.jp/article/show/61442",
+        "thumbnail": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/icon_61442.png",
+        "name": "牛鬼切・長光",
+        "rank": "4",
+        "atk": "289",
+        "category": "greatsword",
+        "description": "",
+        "load": "18",
+        "crit": "17",
+        "upgrades": {
+            "": {
+                "requirement": [
+                    "4"
+                ]
+            },
+            "Honkai Crystal": {
+                "requirement": [
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51491_i.png"
+            },
+            "Super Alloy Shield": {
+                "requirement": [
+                    "?",
+                    "1",
+                    "1"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51500_i.png"
+            },
+            "Phase Shifter": {
+                "requirement": [
+                    "2",
+                    "5",
+                    "7"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51499_i.png"
+            },
+            "Tesla Turbine": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51498_i.png"
+            },
+            "Twin Fire Will?": {
+                "requirement": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "img": "https://gamewith.akamaized.net/article_tools/houkai3rd/gacha/51497_i.png"
+            }
+        },
+        "active_skill": "",
+        "nameProposal": "Ox Demon Cutter Nagamitsu",
+        "passive_skill_1": "",
+        "passive_skill_2": "While combo is below 5, increase physical damage by 32%",
+        "debuffs": [],
+        "elements": []
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50707",

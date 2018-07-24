@@ -2,6 +2,12 @@ const fs = require('fs-extra');
 const cheerio = require('cheerio');
 const axios = require('axios');
 const _ = require('lodash');
+const base64Img = require('base64-img');
+const vision = require('@google-cloud/vision');
+
+const client = new vision.ImageAnnotatorClient({
+  keyFilename: './google-vision-key.json'  
+});
 
 const urlWeapon = 'http://houkai3rd.arthobbylab.com/weapon';
 
@@ -48,6 +54,7 @@ let parseEquipment = async (items) => {
     
       for (let index in elements) {
         let element = elements[index];
+        let image = $(element).find('.wpb_text_column.wpb_content_element + .vc_row.vc_inner .vc_col-sm-8 .vc_figure a img').attr('data-lazy-src');
         let name = $(element).find('.wpb_text_column h2 span').text() || $(element).find('.wpb_text_column h2').text();
         let statsContainer = Array.from($(element).find('.wpb_text_column.wpb_content_element + .vc_row.vc_inner .vc_col-sm-4 table tbody tr:last-child').find('td'));
         let stats = {atk: $(statsContainer[0]).text(), crit: $(statsContainer[1]).text()};
@@ -66,7 +73,7 @@ let parseEquipment = async (items) => {
           }
         });
 
-        let equipment = {name: name, stats: stats, skills: skills, category: equipmentCategory, rank: equipmentRank};
+        let equipment = {name, stats, skills, category: equipmentCategory, rank: equipmentRank, image};
         equipmentArr.push(equipment);
       }
     } catch (err) {
@@ -88,6 +95,8 @@ let formatWeaponData = (data) => {
   };
   return data.map(item => {
     const activeSkill = item.skills['Active Skill'] || item.skills['Active Skill 2'] || '';
+    const jpName = _.replace(mergeOCRDetections(item.textBlocks), / /g, '');
+    
     return {
       name: item.name,
       atk: item.stats.atk,
@@ -103,7 +112,9 @@ let formatWeaponData = (data) => {
         item.skills['Active Skill 2'],
         item.skills['Passive Skill'],
         item.skills['Passive Skill 2']
-      ])
+      ]),
+      image: item.image,
+      textBlocks: jpName
     }
   });
 }
@@ -157,16 +168,81 @@ let getElemental = (skills) => {
   return _.uniq(elementals);
 }
 
-getEquipmentUrls(urlWeapon).then(async (result) => {
-  let parsed = await parseEquipment(result);
-  console.log('parsed: ', parsed);
-  let formatted = formatWeaponData(parsed);
-  console.log('formatted: ', formatted);
+const detectOCR = async (path) => {
+  try {
+    const results = await client.documentTextDetection(path);
+    return results;
+  } catch (err) {
+    console.log('error when detecting OCR:', err);
+  }
+};
 
-  fs.outputFile('./fetched/weapon-list-SEA.json', JSON.stringify(formatted, null, 4), (err) => {
-    if (err) {
-      console.log('error when writing file out: ', err)
-    }
-  });
-  console.log('DONE');
+const mergeOCRDetections = (source) => {
+  try {
+    const detections = source[0].fullTextAnnotation;
+    // console.log('detections:', detections);
+    const blocks = _.flattenDeep(detections.pages.map(page => {
+      return page.blocks.map(block => {
+        return block.paragraphs.map(paragraph => {
+          return _.join(paragraph.words.map(word => {
+            return _.join(word.symbols.map(symbol => {
+              return symbol.text;
+            }), '');
+          }), ' ');
+        });
+      });
+    }));
+    return blocks ? blocks[0] : '';
+  } catch (err) {
+    console.log('error when merging ocr together: ', err);
+  }
+}
+
+const getJPName = async (weaponList) => {
+  try {
+    const weaponListWithJPName = await Promise.all(weaponList.map(async weapon => {
+      const outputFileName = weapon.image.match(/([^\/]+$)/i) ? weapon.image.match(/([^\/]+$)/i)[0] : 'Random Image';
+      await downloadImages(weapon.image, outputFileName);
+      const textBlocks = await detectOCR('./images/houkai-weps-SEA/' + outputFileName);detectOCR
+      return {
+        ...weapon,
+        textBlocks,
+      }
+    }));
+    console.log('weapon with jp name: ', weaponListWithJPName);
+    return weaponListWithJPName;
+  } catch (err) {
+    console.log('error when attempt to get JP name: ', err);
+  }
+}
+
+const downloadImages = async (url, destinationName) => {
+  try {
+    const response = await axios.get(url, {
+      responseType: 'arraybuffer'
+    });
+    fs.writeFileSync(`./images/houkai-weps-SEA/${destinationName}`, response.data);
+  } catch (err) {
+    console.log('error when downloading image', err);
+  }
+}
+
+getEquipmentUrls(urlWeapon).then(async (weaponList) => {
+  try {
+    let parsed = await parseEquipment(weaponList);
+    console.log('parsed: ', parsed);
+    let ocr = await getJPName(parsed);
+    let formatted = formatWeaponData(ocr);
+    let result = formatted;
+    console.log('result: ', result);
+
+    fs.outputFile('./fetched/weapon-list-SEA.json', JSON.stringify(result, null, 4), (err) => {
+      if (err) {
+        console.log('error when writing file out: ', err)
+      }
+    });
+    console.log('DONE');
+  } catch (err) {
+    console.log('error when writing file', err);
+  }
 });

@@ -2308,11 +2308,6 @@
         "load": "18",
         "crit": "31",
         "upgrades": {
-            "": {
-                "requirement": [
-                    "4"
-                ]
-            },
             "Honkai Crystal": {
                 "requirement": [
                     "1",
