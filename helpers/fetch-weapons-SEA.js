@@ -1,4 +1,5 @@
 const fs = require('fs-extra');
+const util = require('util');
 const cheerio = require('cheerio');
 const axios = require('axios');
 const _ = require('lodash');
@@ -25,7 +26,7 @@ let getEquipmentUrls = async (url) => {
       let weapon = {name: nameSlug, url: href};
       equipments.push(weapon);
     }
-    console.log('equipment urls: ', equipments);
+    // console.log('equipment urls: ', equipments);
     return equipments;
   } catch (err) {
     console.log('error when getting page content: ', err);
@@ -58,18 +59,22 @@ let parseEquipment = async (items) => {
         let name = $(element).find('.wpb_text_column h2 span').text() || $(element).find('.wpb_text_column h2').text();
         let statsContainer = Array.from($(element).find('.wpb_text_column.wpb_content_element + .vc_row.vc_inner .vc_col-sm-4 table tbody tr:last-child').find('td'));
         let stats = {atk: $(statsContainer[0]).text(), crit: $(statsContainer[1]).text()};
-        let skillContainer = Array.from($(element).find('.vc_row.vc_inner + .vc_row.vc_inner .wpb_text_column.wpb_content_element .wpb_wrapper p'));
-        let skills = {};
+        let skillContainer = Array.from($(element).find('.vc_row.vc_inner + .vc_row.vc_inner .wpb_text_column.wpb_content_element .wpb_wrapper > *'));
+        let skills = {
+          active: '',
+          passive: []
+        };
         skillContainer.forEach((container, index) => {
           const text = $(container).text();
-          const textLower = text.toLowerCase();
-          const separationRegex = textLower.match(/skill ?\d?:/i);
+          const activeSkillText = text.toLowerCase().match(/active skill:/i);
           // console.log('skill text: ', text);
           
-          if (!!separationRegex) {
-            const separationWord = separationRegex[0];
+          if (!!activeSkillText) {
+            const separationWord = activeSkillText[0];
             const colonPos = text.toLowerCase().indexOf(separationWord) + separationWord.length;
-            skills[text.substring(0, colonPos - 1).trim()] = text.substring(colonPos).trim();
+            skills.active = text.substring(colonPos).trim();
+          } else {
+            skills.passive.push(text);
           }
         });
 
@@ -94,8 +99,11 @@ let formatWeaponData = (data) => {
     'gauntlet': 'gauntlet'
   };
   return data.map(item => {
-    const activeSkill = item.skills['Active Skill'] || item.skills['Active Skill 2'] || '';
-    const jpName = _.replace(mergeOCRDetections(item.textBlocks), / /g, '');
+    const nameJP = !!mergeOCRDetections(item.textBlocks) ? _.replace(mergeOCRDetections(item.textBlocks)[0], / /g, '') : '';
+    const passiveSkills = item.skills.passive.map(skill => {
+      return skill.trim().replace(/\n/g, '. ');
+    });
+
     
     return {
       name: item.name,
@@ -103,10 +111,9 @@ let formatWeaponData = (data) => {
       crit: item.stats.crit,
       category: weaponCategory[item.category],
       rank: item.rank,
-      active_skill: item.skills['Active Skill'] || item.skills['Active Skill 2'] || '',
-      passive_skill_1: item.skills['Passive Skill'] || '',
-      passive_skill_2: item.skills['Passive Skill 2'] || '',
-      debuffs: getDebuff(activeSkill),
+      active_skill: item.skills.active,
+      passive_skill: passiveSkills,
+      debuffs: getDebuff(item.skills.active),
       elements: getElemental([
         item.skills['Active Skill'],
         item.skills['Active Skill 2'],
@@ -114,7 +121,7 @@ let formatWeaponData = (data) => {
         item.skills['Passive Skill 2']
       ]),
       image: item.image,
-      textBlocks: jpName
+      nameJP: nameJP
     }
   });
 }
@@ -179,8 +186,11 @@ const detectOCR = async (path) => {
 
 const mergeOCRDetections = (source) => {
   try {
+    if (!source) {
+      return [];
+    }
+
     const detections = source[0].fullTextAnnotation;
-    // console.log('detections:', detections);
     const blocks = _.flattenDeep(detections.pages.map(page => {
       return page.blocks.map(block => {
         return block.paragraphs.map(paragraph => {
@@ -192,7 +202,10 @@ const mergeOCRDetections = (source) => {
         });
       });
     }));
-    return blocks ? blocks[0] : '';
+    const filtered = blocks.filter(text => {
+      return text.length > 2;
+    });
+    return filtered;
   } catch (err) {
     console.log('error when merging ocr together: ', err);
   }
@@ -202,8 +215,9 @@ const getJPName = async (weaponList) => {
   try {
     const weaponListWithJPName = await Promise.all(weaponList.map(async weapon => {
       const outputFileName = weapon.image.match(/([^\/]+$)/i) ? weapon.image.match(/([^\/]+$)/i)[0] : 'Random Image';
-      await downloadImages(weapon.image, outputFileName);
-      const textBlocks = await detectOCR('./images/houkai-weps-SEA/' + outputFileName);detectOCR
+      // await downloadImages(weapon.image, outputFileName);
+      const textBlocks = await detectOCR('./images/houkai-weps-SEA/' + outputFileName);
+      
       return {
         ...weapon,
         textBlocks,
@@ -219,22 +233,29 @@ const getJPName = async (weaponList) => {
 const downloadImages = async (url, destinationName) => {
   try {
     const response = await axios.get(url, {
+      timeout: 5000,
       responseType: 'arraybuffer'
     });
+    console.log('writing file nao: ', url);
     fs.writeFileSync(`./images/houkai-weps-SEA/${destinationName}`, response.data);
   } catch (err) {
     console.log('error when downloading image', err);
   }
 }
 
+console.log('Getting equipment data...');
+
 getEquipmentUrls(urlWeapon).then(async (weaponList) => {
   try {
+    console.log('Equipment data obtained. Parsing equipment data...');
     let parsed = await parseEquipment(weaponList);
-    console.log('parsed: ', parsed);
+    // console.log('parsed: ', parsed);
+    console.log('Equipment parsed. Getting JP name out of images...');
     let ocr = await getJPName(parsed);
+    console.log('JP name processed. Attempting to format data...');
     let formatted = formatWeaponData(ocr);
     let result = formatted;
-    console.log('result: ', result);
+    // console.log('result: ', result);
 
     fs.outputFile('./fetched/weapon-list-SEA.json', JSON.stringify(result, null, 4), (err) => {
       if (err) {
@@ -243,6 +264,15 @@ getEquipmentUrls(urlWeapon).then(async (weaponList) => {
     });
     console.log('DONE');
   } catch (err) {
-    console.log('error when writing file', err);
+    console.log('ERROR when writing file', err);
   }
 });
+
+
+const getWeapons = (fileName) => {
+  return readFile(fileName, 'utf8').then(file => {
+    return JSON.parse(file);
+  }).catch(err => {
+    console.log('error when getting weapons', err);
+  })
+}
