@@ -124,7 +124,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60447",
@@ -184,7 +186,9 @@
             "Passive Skill: Gives 30% electric elemental damage. When in Burst mode,  on hit inflict enemy electric shock status​, increase incoming lightning elemental damage 59.8%, last for 7 seconds."
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109117",
@@ -204,7 +208,9 @@
             "Passive Skill: Increase character elemental damage dealt by 15%. Additionally, after tag-in, increase character all damage dealt by 50%, last for 5 seconds. This can only be triggered every 30 seconds after character perform tag-in. Performing ultimate attack resets this skill cooldown and the skill will be immediately in effect"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50630",
@@ -266,7 +272,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50632",
@@ -333,7 +341,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50019",
@@ -394,7 +404,9 @@
             "Passive Skill 2: Add additional 50 lightning elemental damage on-hit"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/85565",
@@ -779,7 +791,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59935",
@@ -1034,7 +1048,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59938",
@@ -1306,7 +1322,9 @@
         "debuffs": [
             "DEF -"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50628",
@@ -1343,7 +1361,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50627",
@@ -1380,7 +1400,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50644",
@@ -1433,7 +1455,9 @@
             "Passive Skill: 10% chance on hit to inflict burn status, deal 119 fire elemental damage per each 0.5 second, last for 2.06 second"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66350",
@@ -1539,7 +1563,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50641",
@@ -1592,7 +1618,9 @@
             "Passive Skill: 6% on hit to deal an explosive attack, deal 476 AOE fire elemental damage"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50640",
@@ -1643,7 +1671,9 @@
         "nameProposal": "Fire Wheel Mosin Nagant",
         "passive": [],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50638",
@@ -1830,7 +1860,9 @@
             "If quad has Mei Valkyrja, burn status applies to a small AOE on target"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50636",
@@ -2384,7 +2416,9 @@
             "Passive Skill: Increase elemental damage by 14.9%. Every 5 seconds, the next attack will deal 1260 ice elemental damage within 5m radius. When equipped on Sakura – Unfogotten, performing a critical attack will gain 200KP"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/60109",
@@ -2444,7 +2478,9 @@
             "Passive Skill: Increase elemental damage by 14.9%. Every 5 seconds, the next attack will deal 1260 ice elemental damage within 5m radius. When equipped on Sakura – Unfogotten, performing a critical attack will gain 200KP"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59468",
@@ -2565,7 +2601,9 @@
             "DEF -",
             "ATK -"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50657",
@@ -2627,7 +2665,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/85982",
@@ -2688,7 +2728,11 @@
             "Passive Skill: Increase fire elemental damage by Valkyrja by 40%"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "ice",
+            "fire",
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/80260",
@@ -2846,7 +2890,9 @@
             ""
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59945",
@@ -2914,7 +2960,9 @@
             "DEF -",
             "bind"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50658",
@@ -2981,7 +3029,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/58100",
@@ -3049,7 +3099,9 @@
             "DEF -",
             "bind"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50660",
@@ -3169,7 +3221,9 @@
             "Passive Skill: Add 42 lightning damage into each attack"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50654",
@@ -3478,7 +3532,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50671",
@@ -3531,7 +3587,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54284",
@@ -3584,7 +3642,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54282",
@@ -3637,7 +3697,9 @@
             "Passive Skill: On hit add 36 fire elemental damage into each attack. When Kiana in squad, increase enemy burn status fire elemental damage by 18%"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59937",
@@ -3690,7 +3752,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50664",
@@ -3789,7 +3853,9 @@
             "Passive Skill: When current EP is below 20%, increase physical damage by 17%. When current EP is above 80%, add 71 fire elemental into each attack"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50667",
@@ -3954,7 +4020,9 @@
         "nameProposal": "Alloyed Gale Tachi",
         "passive": [],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50662",
@@ -4200,7 +4268,9 @@
         "nameProposal": "Composite Katana – Vermilion Bird",
         "passive": [],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50673",
@@ -4539,7 +4609,9 @@
             "On hit missile, add 55 fire elemental damage, then explode dealing 490 AOE fire elemental damage"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50685",
@@ -4609,7 +4681,11 @@
             "DEF -",
             "timelock"
         ],
-        "elements": []
+        "elements": [
+            "ice",
+            "fire",
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/71096",
@@ -4679,7 +4755,9 @@
             "burn",
             "float"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/61097",
@@ -4746,7 +4824,10 @@
             "Ice Mode: Shoot ice fog​ continuously. On hit, has 5% chance to reduce 50% movement speed and attack speed for 3  seconds *(works like Particle Beam Cannon)"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire",
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59934",
@@ -4813,7 +4894,9 @@
             "Increase all-damage against enemy inflicted freeze, time-space deceleration status by 20%"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/59946",
@@ -4881,7 +4964,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50682",
@@ -4950,7 +5035,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/98215",
@@ -5082,7 +5169,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50686",
@@ -5361,7 +5450,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109562",
@@ -5474,7 +5565,9 @@
             "Passive Skill: on hit 60% chance to inflict burn status, dealing 149 fire elemental damage per each 0.5 second, last for 4.08 seconds"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50694",
@@ -5693,7 +5786,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54281",
@@ -6227,7 +6322,9 @@
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50696",
@@ -6603,7 +6700,11 @@
             "freeze",
             "paralyze"
         ],
-        "elements": []
+        "elements": [
+            "ice",
+            "fire",
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62839",
@@ -6668,7 +6769,9 @@
             "Passive Skill: When performing a critical hit, has 24.9% chance to explode 1792 electric elemental damage under wielder, inflict weaken status to caught enemy for 4 seconds, reducing their defense power by 50%, has 7 seconds cooldown"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/68024",
@@ -6857,7 +6960,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/54193",
@@ -7263,7 +7368,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109325",
@@ -7328,7 +7435,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50712",
@@ -8085,7 +8194,9 @@
             "Passive Skill: On hit have 11.11% to deal 302 fire elemental damage to target and its surroundings"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/50716",
@@ -8294,7 +8405,9 @@
         "debuffs": [
             "bind"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63653",
@@ -8562,7 +8675,9 @@
             "Passive Skill: Have 59.9% on-hit chance to summon a circular field that attack enemy with sakura petals at enemy location, dealing 199.5% physical attack based on power, have 6 seconds cooldown. Deal further 440 fire elemental damage against enemy having a Sakura Mark or Sakura Mark Counter. When equipped on Sakurahi Rondo, sakura petals increase Sakura Mark Counter by 1"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/66324",
@@ -8713,7 +8828,9 @@
         "nameProposal": "Black Smasher",
         "passive": [],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62781",
@@ -8766,7 +8883,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/70207",
@@ -8819,7 +8938,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/63384",
@@ -9049,7 +9170,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62777",
@@ -9132,7 +9255,9 @@
         "nameProposal": "Flame Shell Launcher",
         "passive": [],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62779",
@@ -9178,7 +9303,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62778",
@@ -9222,7 +9349,9 @@
         "nameProposal": "Ice Frost Oath",
         "passive": [],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "ice"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/62774",
@@ -9283,7 +9412,9 @@
             "Passive Skill: Increase all-damage dealt by Valkyrja by 8% upon hitting an enemy with normal, branch, ultimate, tag-in/QTE attack, last for 8 seconds. The effect can be overlapped itself by re-activating it via different type of attack. If overlapping is successful, refresh the duration"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/101866",
@@ -9399,7 +9530,9 @@
         "debuffs": [
             "bleed"
         ],
-        "elements": []
+        "elements": [
+            "electric"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/109660",
@@ -9531,7 +9664,9 @@
             "Passive Skill: On hit has 17% chance to deal 700 fire elemental damage"
         ],
         "debuffs": [],
-        "elements": []
+        "elements": [
+            "fire"
+        ]
     },
     {
         "url": "https://houkai3rd.gamewith.jp/article/show/92599",

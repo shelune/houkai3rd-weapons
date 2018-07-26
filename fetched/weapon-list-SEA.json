@@ -98,7 +98,7 @@
         "debuffs": [],
         "elements": [],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Fairy-Form-I.png",
-        "nameJP": "水妖精型"
+        "nameJP": "水妖精」型"
     },
     {
         "name": "Water Fairy Form II",
@@ -113,7 +113,7 @@
         ],
         "elements": [],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Fairy-Form-II.png",
-        "nameJP": "水妖精Ⅱ型"
+        "nameJP": "水妖精/型"
     },
     {
         "name": "Fire Fairy Form I",
@@ -126,7 +126,9 @@
             "Passive Skill: 10% chance on hit to inflict burn status, deal 119 fire elemental damage per each 0.5 second, last for 2.06 second"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Fire-Fairy-Form-I.png",
         "nameJP": "炎妖精1型"
     },
@@ -141,7 +143,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Fire-Fairy-Form-II.png",
         "nameJP": "炎妖精小型"
     },
@@ -183,7 +187,9 @@
         "active": "Create a ring of fire around self, dealing 317 fire elemental damage per each 0.25 second, last for 6 seconds (EP Consumption: 12 – Cooldown: 18s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Fire-Wheel-Mosin-Nagant.png",
         "nameJP": "モシン・ナガン・日輪"
     },
@@ -198,7 +204,9 @@
             "Passive Skill: 6% on hit to deal an explosive attack, deal 476 AOE fire elemental damage"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Burning-Wings.png",
         "nameJP": "燃える羽"
     },
@@ -213,7 +221,9 @@
         "debuffs": [
             "DEF -"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Xuanyuan-Pulse-Pistol.png",
         "nameJP": "「自軒猿・パルスハンドガン"
     },
@@ -244,7 +254,9 @@
             "If quad has Mei Valkyrja, burn status applies to a small AOE on target"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Phoenix-Gun.png",
         "nameJP": "WEAPON"
     },
@@ -272,7 +284,9 @@
         "active": "Summon a whirlwind around self, dealing rapid attack to surrounding enemy, each attack deals 174 ice elemental damage. The whirlwind exlode when expires, dealing 240% physical damage (EP Consumption: 15 – Cooldown: 20s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Storm-Revolver.png",
         "nameJP": "合金・ストーム・リボルバー"
     },
@@ -285,7 +299,9 @@
         "active": "Form a number of rising punches from the ground, each deals physical damage 40% based on attack power + 95 fire elemental damage to the targeted enemy surrounding (EP Consumption: 19 – Cooldown: 10s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Dominator-Gun.png",
         "nameJP": "「結合金・ドミネーター・ガン"
     },
@@ -301,7 +317,9 @@
             "Passive Skill 2: Add additional 50 lightning elemental damage on-hit"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/2nd-sacred-relic.png",
         "nameJP": "2nd聖遺物"
     },
@@ -318,7 +336,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Super-railgun-hand-cannon.png",
         "nameJP": "超電磁ハンドキャノン"
     },
@@ -370,7 +390,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Dominator-pistol.png",
         "nameJP": "ミドミネーター・ガン"
     },
@@ -387,7 +409,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Fafnir-immolation.png",
         "nameJP": "ファフニールの爆炎"
     },
@@ -405,7 +429,9 @@
             "burn",
             "float"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Recca-destroyer.png",
         "nameJP": "烈炎の破滅者"
     },
@@ -422,7 +448,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Wing-of-Jingwei.png",
         "nameJP": "精衛の翼"
     },
@@ -437,7 +465,9 @@
             "Passive Skill: Gives 30% electric elemental damage. When in Burst mode,  on hit inflict enemy electric shock status​, increase incoming lightning elemental damage 59.8%, last for 7 seconds."
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Demon-Horn-Thunder-Dagger.png",
         "nameJP": "雷刀·鬼角"
     },
@@ -471,7 +501,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Light-and-Shadow.png",
         "nameJP": "光と影"
     },
@@ -505,7 +537,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Storm-revolver.png",
         "nameJP": "ストーム・リボルバー"
     },
@@ -572,7 +606,9 @@
             "Passive Skill: Increase character elemental damage dealt by 15%. Additionally, after tag-in, increase character all damage dealt by 50%, last for 5 seconds. This can only be triggered every 30 seconds after character perform tag-in. Performing ultimate attack resets this skill cooldown and the skill will be immediately in effect"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/06/aria2-1.jpg",
         "nameJP": "「自幽色のアリア"
     },
@@ -591,7 +627,9 @@
         "debuffs": [
             "stun"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/fire-spark-holy-judgement.jpg",
         "nameJP": "天火圣裁"
     },
@@ -666,7 +704,9 @@
         "active": "Summon a wave of flame, deal physical damage 100% based on attack power + 284 fire elemental damage to enemy (EP Consumption 10 – Cooldown 7)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Multifuction-Katana-Vermilion-Bird.png",
         "nameJP": "複合刀・朱雀"
     },
@@ -698,7 +738,9 @@
             "Passive Skill: Add 42 lightning damage into each attack"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Lightning-Soul-Miaodao.png",
         "nameJP": "苗力・電魂"
     },
@@ -728,7 +770,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Tachi-Type-17.png",
         "nameJP": "パルス太刀17式"
     },
@@ -786,7 +830,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Heat-Cutting-Blade.png",
         "nameJP": "熱切断の刃"
     },
@@ -816,7 +862,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Thunder-Roar.png",
         "nameJP": "三只小2"
     },
@@ -831,7 +879,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Xuanyuan-Pulse-Tachi.png",
         "nameJP": "軒猿・パルス太刀"
     },
@@ -846,7 +896,9 @@
             "Passive Skill: When current EP is below 20%, increase physical damage by 17%. When current EP is above 80%, add 71 fire elemental into each attack"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Endotherm-Tachi.png",
         "nameJP": "吸熱太刀"
     },
@@ -861,7 +913,9 @@
             "Passive Skill: On hit add 36 fire elemental damage into each attack. When Kiana in squad, increase enemy burn status fire elemental damage by 18%"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Phoenix-Blade.png",
         "nameJP": "WEAPON"
     },
@@ -887,7 +941,9 @@
         "active": "Summon a tornado, each hit deal 178 ice elemental damage (SP Consumption: 14 – Cooldown: 15 seconds)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Gale-Tachi.png",
         "nameJP": "合金・疾風太刀"
     },
@@ -918,7 +974,9 @@
             "Passive Skill: 40% chance to reduce damage taken by 597"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Raikiri.png",
         "nameJP": "ハンバースマン"
     },
@@ -935,7 +993,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Zan-Jikiarashi.png",
         "nameJP": "磁気嵐・斬"
     },
@@ -952,7 +1012,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Plasma-Kagegatana.png",
         "nameJP": "「ご影刀・プラズマ"
     },
@@ -1001,7 +1063,9 @@
             "Passive Skill: When attacking, 5% to create a flaming sword, inflict burn status to enemies, dealing 187 fire elemental damage per every 0.5 second, last for 3 seconds"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Nuwa-Blade.png",
         "nameJP": "v女カの剣"
     },
@@ -1019,7 +1083,9 @@
             "DEF -",
             "ATK -"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Heavely-Blade.png",
         "nameJP": "開天の剣"
     },
@@ -1037,7 +1103,9 @@
             "DEF -",
             "bind"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/High-Frequency-Blade.png",
         "nameJP": "高周波切断刀"
     },
@@ -1052,7 +1120,9 @@
             "Passive Skill: Increase elemental damage by 14.9%. Every 5 seconds, the next attack will deal 1260 ice elemental damage within 5m radius. When equipped on Sakura – Unfogotten, performing a critical attack will gain 200KP"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Hyouketsu-Donten-Mozou-Reigatana.png",
         "nameJP": "模造刀・氷結曇天"
     },
@@ -1103,7 +1173,9 @@
             ""
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Kouzou.png",
         "nameJP": "WEAPON"
     },
@@ -1204,7 +1276,11 @@
             "Passive Skill: Increase fire elemental damage by Valkyrja by 40%"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "ice",
+            "fire",
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/12/demon-katana-red-dyed-cherry-blossoms.jpg",
         "nameJP": "妖刀·赤染樱"
     },
@@ -1317,7 +1393,9 @@
             "Passive Skill: on hit 60% chance to inflict burn status, dealing 149 fire elemental damage per each 0.5 second, last for 4.08 seconds"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Markov-Type-A.png",
         "nameJP": "マルコフ・タイプA"
     },
@@ -1384,7 +1462,7 @@
         "debuffs": [],
         "elements": [],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Pulse-Cannon-Prototype.png",
-        "nameJP": "試作型パルスキャノン"
+        "nameJP": "試作型パルスキャン」"
     },
     {
         "name": "Missile Division – The Striker",
@@ -1481,7 +1559,9 @@
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Devourer-Cannon.png",
         "nameJP": "●合金・デバウアキャノン"
     },
@@ -1516,7 +1596,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/xuanyuan-pulse-cannon.jpg",
         "nameJP": "「2軒猿・パルスキャノン"
     },
@@ -1572,7 +1654,11 @@
             "DEF -",
             "timelock"
         ],
-        "elements": [],
+        "elements": [
+            "ice",
+            "fire",
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Hekatonkheires-Project.png",
         "nameJP": "ヘカトンケイル・プロト"
     },
@@ -1608,7 +1694,9 @@
             "slow",
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Core-Amass-Delta-Cannon.png",
         "nameJP": "核心收束砲Delta"
     },
@@ -1644,7 +1732,10 @@
             "Ice Mode: Shoot ice fog​ continuously. On hit, has 5% chance to reduce 50% movement speed and attack speed for 3  seconds *(works like Particle Beam Cannon)"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire",
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Yuxi-Scroll.png",
         "nameJP": "伏義の書"
     },
@@ -1663,7 +1754,9 @@
         "debuffs": [
             "freeze"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Chi-You-Giant-Canon.png",
         "nameJP": "貴方の三砲"
     },
@@ -1680,7 +1773,9 @@
             "Increase all-damage against enemy inflicted freeze, time-space deceleration status by 20%"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Hellfire-Type-3.png",
         "nameJP": "地獄の始II型"
     },
@@ -1697,7 +1792,9 @@
             "On hit missile, add 55 fire elemental damage, then explode dealing 490 AOE fire elemental damage"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Fire-Katana-Sanada.png",
         "nameJP": "火刀・真田"
     },
@@ -1734,7 +1831,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Quantum-Destroyer-Type-2.png",
         "nameJP": "量子破滅者||型"
     },
@@ -1769,7 +1868,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Devourer-Cannon.png",
         "nameJP": "デバウアキャノン"
     },
@@ -1789,7 +1890,9 @@
             "burn",
             "float"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Plannet-Anniliator.jpg",
         "nameJP": "難星者19c"
     },
@@ -1810,6 +1913,26 @@
         "elements": [],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/m134-vulcan.jpg",
         "nameJP": "PM134バルカン"
+    },
+    {
+        "name": "Star of Eden",
+        "atk": "268",
+        "crit": "36",
+        "category": "cannon",
+        "rank": "4",
+        "active": "",
+        "passive": [
+            "Description: God’s key made by the core of the ninth law maker of the old civilization, has the power to manipulate gravity. Originally unearthed in the remains of Yellowstone, it was acquired by scientists at the North American branch of the 20th century and became one of the major factor to the independence of the Negentropy. Originally had a spherical external stabilizer, but it was badly damaged in a battle in 1995…",
+            "Rocket Launcher:",
+            "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
+            "The last rocket of 3rd stage charge has 20% chance to stun enemy for 3.5 seconds",
+            "Passive Skill 1:. When 3 rockets hit an enemy, deal additional 600 physical damage. After 0.5 second, deal additional 200 to enemy surrounding it",
+            "Passive Skill 2:. During online Raid, increase critical damage by 40% and critical rate by 5%"
+        ],
+        "debuffs": [],
+        "elements": [],
+        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/07/StarofEden.png",
+        "nameJP": ""
     },
     {
         "name": "Claymore",
@@ -1938,7 +2061,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Electrolysis-Resonance-Sword.png",
         "nameJP": "電離共振劍"
     },
@@ -2020,7 +2145,9 @@
         "active": "Shoot lazer in front, explode enemy on hit, deal small AOE 536 fire elemental damage (EP Consumption: 18 – Cooldown: 16s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Alloyed-Deus-Claymore.png",
         "nameJP": "の合金・デウス・クレイモア"
     },
@@ -2063,7 +2190,9 @@
             "Passive Skill: On hit have 11.11% to deal 302 fire elemental damage to target and its surroundings"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/torch.jpg",
         "nameJP": "の異端審問会のトーチ"
     },
@@ -2130,7 +2259,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Sunfire-Claymore-.png",
         "nameJP": "三只小18"
     },
@@ -2165,7 +2296,9 @@
         "debuffs": [
             "amplified"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Aurora-Zanbato.png",
         "nameJP": "|極光斬艦刀"
     },
@@ -2184,7 +2317,11 @@
             "freeze",
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "ice",
+            "fire",
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Xuan-Yuan-Sword.png",
         "nameJP": "2軒轅劍"
     },
@@ -2199,7 +2336,9 @@
             "Passive Skill: When performing a critical hit, has 24.9% chance to explode 1792 electric elemental damage under wielder, inflict weaken status to caught enemy for 4 seconds, reducing their defense power by 50%, has 7 seconds cooldown"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Judgment-of-Twilight.png",
         "nameJP": "つ黎明の審判"
     },
@@ -2249,7 +2388,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Deus-Claymore.png",
         "nameJP": "「ウデウス・クレイモア"
     },
@@ -2311,7 +2452,9 @@
         "debuffs": [
             "slow"
         ],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Shell-Cross.png",
         "nameJP": "十字架・氷弾"
     },
@@ -2337,7 +2480,9 @@
         "active": "Summon cross and deploy: for 8 seconds, per each 0.6 second fire a flaming shell at one random enemy inside cross field, shell explode deal small AOE 476 fire elemental damage (EP Consumption: 15 – Cooldown: 13s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Flame-Shell-Launcher.png",
         "nameJP": "「火炎弾発射台"
     },
@@ -2352,7 +2497,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Inferno-Oath.png",
         "nameJP": "烈火の誓い"
     },
@@ -2365,7 +2512,9 @@
         "active": "Summon cross and deploy: for 8 seconds, add 118 ice elemental damage for allies inside cross field (EP Consumption: 18 – Cooldown: 12s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "ice"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Ice-Frost-Oath.png",
         "nameJP": "氷霜の誓い"
     },
@@ -2378,7 +2527,9 @@
         "active": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 1077 fire elemental damage in cross field (EP Consumption: 18 – Cooldown: 12s)",
         "passive": [],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Black-Smasher.png",
         "nameJP": "黒色の粉砕者"
     },
@@ -2393,7 +2544,9 @@
         "debuffs": [
             "burn"
         ],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Blaze-Angel.png",
         "nameJP": "炎の天使"
     },
@@ -2408,7 +2561,9 @@
         "debuffs": [
             "paralyze"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Thunder-Angel.png",
         "nameJP": "WEAPON"
     },
@@ -2451,7 +2606,9 @@
         "debuffs": [
             "bind"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Judah-Oath.png",
         "nameJP": "誓約の十字架"
     },
@@ -2484,7 +2641,9 @@
             "Passive Skill: Have 59.9% on-hit chance to summon a circular field that attack enemy with sakura petals at enemy location, dealing 199.5% physical attack based on power, have 6 seconds cooldown. Deal further 440 fire elemental damage against enemy having a Sakura Mark or Sakura Mark Counter. When equipped on Sakurahi Rondo, sakura petals increase Sakura Mark Counter by 1"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Sakura-Oath.png",
         "nameJP": "桜花の誓約"
     },
@@ -2590,7 +2749,9 @@
             "Passive Skill: On hit has 17% chance to deal 700 fire elemental damage"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/cas-X-saint.jpg",
         "nameJP": "OCAS-X聖徒"
     },
@@ -2637,7 +2798,9 @@
             "Passive Skill: Increase all-damage dealt by Valkyrja by 8% upon hitting an enemy with normal, branch, ultimate, tag-in/QTE attack, last for 8 seconds. The effect can be overlapped itself by re-activating it via different type of attack. If overlapping is successful, refresh the duration"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/03/fist-of-taixu.jpg",
         "nameJP": "の太虚の拳"
     },
@@ -2655,7 +2818,9 @@
         "debuffs": [
             "bleed"
         ],
-        "elements": [],
+        "elements": [
+            "electric"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/03/Nuadha.jpg",
         "nameJP": "○断光のヌアダ"
     },
@@ -2671,7 +2836,9 @@
             "Passive Skill 2: Negate an attack from a burn enemy or enemy inflicted with Lingering Fire. Cooldown 40 seconds. Increase character elemental damage by 20%, also increase fire elemental damage by 20%"
         ],
         "debuffs": [],
-        "elements": [],
+        "elements": [
+            "fire"
+        ],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/04/ember-of-kite.jpg",
         "nameJP": "●残火の意"
     },

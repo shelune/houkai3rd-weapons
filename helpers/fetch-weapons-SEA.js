@@ -104,7 +104,6 @@ let formatWeaponData = (data) => {
       return skill.trim().replace(/\n/g, '. ');
     });
 
-    
     return {
       name: item.name,
       atk: item.stats.atk,
@@ -115,10 +114,8 @@ let formatWeaponData = (data) => {
       passive: passiveSkills,
       debuffs: getDebuff(item.skills.active),
       elements: getElemental([
-        item.skills['Active Skill'],
-        item.skills['Active Skill 2'],
-        item.skills['Passive Skill'],
-        item.skills['Passive Skill 2']
+        item.skills.active,
+        ...item.skills.passive
       ]),
       image: item.image,
       nameJP: nameJP
