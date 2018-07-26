@@ -12,6 +12,7 @@ const fileSource = './images/houkai-weps-upgraded-gb/';
 // run Google Vision to get weapon data
 fs.readdir(fileSource, (err, files) => {
   let results = [];
+  let weaponData = [];
   files.forEach(file => {
     client
     .documentTextDetection(fileSource + file)
@@ -39,12 +40,19 @@ fs.readdir(fileSource, (err, files) => {
     })
     .then(weapon => {
       results.push(weapon);
+      const parsedWeapon = parseInfo(weapon);
+      weaponData.push(parsedWeapon);
+
+      try {
+        fs.renameSync(fileSource + file, fileSource + parsedWeapon.name + '.png');
+      } catch (err) {
+        console.log('error when renaming files', err);
+      }
     })
     .catch(err => {
-      console.error('ERROR: ', err);
+      console.error('ERROR when ocr: ', err);
     })
     .then(() => {
-      let weaponData = results.map(result => parseInfo(result));
       fs.outputFile('./fetched/weapon-list-local-RAW.json', JSON.stringify(results, null, 4), (err) => {
         if (err) {
           console.log('error when writing file out: ', err)
@@ -55,6 +63,7 @@ fs.readdir(fileSource, (err, files) => {
           console.log('error when writing file out: ', err)
         }
       });
+      console.log('DONE!');
     });
   });
 });

@@ -68,7 +68,7 @@ let formatProperties = (weaponList) => {
     const {
       name, category, rank, 
       atk, crit, load,
-      active_skill, passive_skill_1, passive_skill_2,
+      active, passive,
       debuffs, elements,
       description,
       upgradeReq, upgrades,
@@ -77,9 +77,8 @@ let formatProperties = (weaponList) => {
     return {
       name, category, rank,
       atk, crit, load,
-      active: active_skill,
-      passive_1: passive_skill_1,
-      passive_2: passive_skill_2,
+      active: active,
+      passive: passive,
       debuffs, elements,
       description,
       upgradeReq, upgrades,

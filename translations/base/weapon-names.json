@@ -31,7 +31,7 @@
     },
     {
         "name": "2nd聖遺物",
-        "namedProposal": "",
+        "namedProposal": "2nd Sacred Relic",
         "url": "https://houkai3rd.gamewith.jp/article/show/50019"
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "name": "試作型パルスハンドガン",
-        "namedProposal": "",
+        "namedProposal": "Pulse Pistol Prototype",
         "url": "https://houkai3rd.gamewith.jp/article/show/50638"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "name": "虚無の刃",
-        "namedProposal": "",
+        "namedProposal": "Blade of Nihility",
         "url": "https://houkai3rd.gamewith.jp/article/show/50661"
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "name": "キャンディケイン太刀",
-        "namedProposal": "",
+        "namedProposal": "Candy Sword",
         "url": "https://houkai3rd.gamewith.jp/article/show/84300"
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "name": "試作型パルス太刀",
-        "namedProposal": "",
+        "namedProposal": "Pulse Tachi Prototype",
         "url": "https://houkai3rd.gamewith.jp/article/show/50667"
     },
     {
@@ -531,7 +531,7 @@
     },
     {
         "name": "試作型パルスキャノン",
-        "namedProposal": "",
+        "namedProposal": "Pulse Cannon Prototype",
         "url": "https://houkai3rd.gamewith.jp/article/show/50690"
     },
     {
@@ -576,7 +576,7 @@
     },
     {
         "name": "黎明の審判",
-        "namedProposal": "",
+        "namedProposal": "Dawn Judgement",
         "url": "https://houkai3rd.gamewith.jp/article/show/62839"
     },
     {
@@ -656,7 +656,7 @@
     },
     {
         "name": "真紅のクイーン",
-        "namedProposal": "",
+        "namedProposal": "Deep Crimson Queen",
         "url": "https://houkai3rd.gamewith.jp/article/show/59940"
     },
     {
@@ -681,7 +681,7 @@
     },
     {
         "name": "深紫の騎士",
-        "namedProposal": "",
+        "namedProposal": "Deep Purple Knight",
         "url": "https://houkai3rd.gamewith.jp/article/show/54360"
     },
     {
@@ -696,7 +696,7 @@
     },
     {
         "name": "27式混合大剣",
-        "namedProposal": "",
+        "namedProposal": "Melding Type 27 – Greatsword",
         "url": "https://houkai3rd.gamewith.jp/article/show/54280"
     },
     {
@@ -706,7 +706,7 @@
     },
     {
         "name": "異端審問会のトーチ",
-        "namedProposal": "",
+        "namedProposal": "Heresy Trial Torch",
         "url": "https://houkai3rd.gamewith.jp/article/show/50714"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
         "name": "クレイモア",
-        "namedProposal": "",
+        "namedProposal": "Betrayer Claymore",
         "url": "https://houkai3rd.gamewith.jp/article/show/50718"
     },
     {
@@ -731,7 +731,7 @@
     },
     {
         "name": "模造十字架・血の抱擁",
-        "namedProposal": "",
+        "namedProposal": "Replica Cross – Bloody Embrace",
         "url": "https://houkai3rd.gamewith.jp/article/show/63653"
     },
     {
@@ -781,12 +781,12 @@
     },
     {
         "name": "AIちゃんキャンディ",
-        "namedProposal": "",
+        "namedProposal": "AI-chan Candy",
         "url": "https://houkai3rd.gamewith.jp/article/show/63384"
     },
     {
         "name": "試作型パルス十字架",
-        "namedProposal": "",
+        "namedProposal": "Pulse Cross Prototype",
         "url": "https://houkai3rd.gamewith.jp/article/show/62773"
     },
     {
@@ -816,7 +816,7 @@
     },
     {
         "name": "十字架",
-        "namedProposal": "Cross",
+        "namedProposal": "Replica Cross – Bloody Embrace",
         "url": "https://houkai3rd.gamewith.jp/article/show/62774"
     },
     {
@@ -871,7 +871,7 @@
     },
     {
         "name": "防護腕甲",
-        "namedProposal": "",
+        "namedProposal": "Protective Gauntlet",
         "url": "https://houkai3rd.gamewith.jp/article/show/92598"
     }
 ]

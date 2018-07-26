@@ -111,8 +111,8 @@ let formatWeaponData = (data) => {
       crit: item.stats.crit,
       category: weaponCategory[item.category],
       rank: item.rank,
-      active_skill: item.skills.active,
-      passive_skill: passiveSkills,
+      active: item.skills.active,
+      passive: passiveSkills,
       debuffs: getDebuff(item.skills.active),
       elements: getElemental([
         item.skills['Active Skill'],

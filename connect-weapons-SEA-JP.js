@@ -21,10 +21,15 @@ let getWeapons = (fileName) => {
 let connectFiles = async () => {
   let weaponListSEA = await getWeapons(sourceFiles.sea);
   let weaponListJP = await getWeapons(sourceFiles.jp);
-  const keysToConnect = ['active_skill', 'passive_skill_1', 'passive_skill_2', 'debuffs', 'elements'];
+  const keysToConnect = ['active', 'passive', 'debuffs', 'elements'];
   let connectedWeapons = weaponListJP.map(weaponJP => {
     weaponListSEA.forEach(weaponSEA => {
-      if (_.includes(weaponSEA, weaponJP)) {
+      if (_.includes(weaponSEA.nameJP, weaponJP.name)) {
+        keysToConnect.forEach(key => {
+          weaponJP[key] = weaponSEA[key];
+          weaponJP.nameProposal = weaponSEA.name;
+        });
+      } else if (weaponJP.atk === weaponSEA.atk && weaponJP.crit === weaponSEA.crit && weaponJP.category === weaponSEA.category && weaponJP.rank === weaponSEA.rank) {
         keysToConnect.forEach(key => {
           weaponJP[key] = weaponSEA[key];
           weaponJP.nameProposal = weaponSEA.name;
