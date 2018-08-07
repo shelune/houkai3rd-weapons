@@ -26,9 +26,6 @@ let updateGlobalNames = async () => {
   let nameTranslations = await getFile(globalNames);
   let weaponListWithGlobalNames = weaponListJP.map(weapon => {
     let source = _.find(nameTranslations, (obj) => {return obj.url === weapon.url});
-    if (!!source && source.name === '核心収束砲Delta') {
-      console.log('source: ', source);
-    }
     if (!!source) {
       weapon.name = source.nameProposal;
       weapon.nameJP = source.name;

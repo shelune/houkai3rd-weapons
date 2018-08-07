@@ -89,6 +89,29 @@ let parseEquipment = async (items) => {
   return equipmentArr;
 }
 
+let formatActiveSkill = (data, name) => {
+  const skill = {
+    desc: '',
+    sp: '',
+    cooldown: ''
+  }
+  let statsRegex = /: ?\d+/gm;
+  let statMatches = data.match(statsRegex);
+
+  if (!!statMatches && statMatches.length >= 2) {
+    skill.sp = statMatches[statMatches.length - 2].replace(': ', '');
+    skill.cooldown = statMatches[statMatches.length - 1].replace(': ', '');
+  }
+
+  let descRegex = /.*\(/gm;
+  let descMatches = data.match(descRegex);
+  if (!!descMatches) {
+    skill.desc = descMatches[0].substring(0, descMatches[0].length - 1)
+  }
+
+  return skill;
+}
+
 let formatWeaponData = (data) => {
   const weaponCategory = {
     'pistol': 'dual-gun',
@@ -104,17 +127,19 @@ let formatWeaponData = (data) => {
       return skill.trim().replace(/\n/g, '. ');
     });
 
+    const activeSkill = formatActiveSkill(item.skills.active, item.name);
+
     return {
       name: item.name,
       atk: item.stats.atk,
       crit: item.stats.crit,
       category: weaponCategory[item.category],
       rank: item.rank,
-      active: item.skills.active,
+      active: activeSkill,
       passive: passiveSkills,
       debuffs: getDebuff(item.skills.active),
       elements: getElemental([
-        item.skills.active,
+        activeSkill['desc'],
         ...item.skills.passive
       ]),
       image: item.image,

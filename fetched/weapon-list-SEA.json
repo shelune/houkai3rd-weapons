@@ -5,7 +5,11 @@
         "crit": "8",
         "category": "dual-gun",
         "rank": "1",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -20,7 +24,11 @@
         "crit": "14",
         "category": "dual-gun",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -35,7 +43,11 @@
         "crit": "59",
         "category": "dual-gun",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -50,7 +62,11 @@
         "crit": "2",
         "category": "dual-gun",
         "rank": "2",
-        "active": "Fire one bullet at target deal physical damage 339% based on attack power. Has 2 charges (EP Consumption: 10 – Cooldown: 10 seconds)",
+        "active": {
+            "desc": "Fire one bullet at target deal physical damage 339% based on attack power. Has 2 charges ",
+            "sp": "10",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -63,7 +79,11 @@
         "crit": "25",
         "category": "dual-gun",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Active Skill 2: Fire one bullet that inflict small AOE stun status, last for 2.99 seconds (EP Consumption: 7 – Cooldown: 12s)"
         ],
@@ -78,7 +98,11 @@
         "crit": "2",
         "category": "dual-gun",
         "rank": "2",
-        "active": "Fire one bullet that inflict small AOE 60% attack speed and movement speed reduction, last for 4.48 seconds (EP Consumption: 5 – Cooldown: 10s)",
+        "active": {
+            "desc": "Fire one bullet that inflict small AOE 60% attack speed and movement speed reduction, last for 4.48 seconds ",
+            "sp": "5",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -91,7 +115,11 @@
         "crit": "29",
         "category": "dual-gun",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Increase physical damage against float status enemy by 40%"
         ],
@@ -106,7 +134,11 @@
         "crit": "29",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Fire a ball of ice, on hit inflict AOE freeze status to enemy, last for 3.79 seconds (EP Consumption: 9 – Cooldown: 13s)",
+        "active": {
+            "desc": "Fire a ball of ice, on hit inflict AOE freeze status to enemy, last for 3.79 seconds ",
+            "sp": "9",
+            "cooldown": "13"
+        },
         "passive": [],
         "debuffs": [
             "freeze"
@@ -121,7 +153,11 @@
         "crit": "3",
         "category": "dual-gun",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: 10% chance on hit to inflict burn status, deal 119 fire elemental damage per each 0.5 second, last for 2.06 second"
         ],
@@ -138,7 +174,11 @@
         "crit": "12",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Fire a ball of fire, on hit deal physical damage 250% based on attack power, additionally inflict AOE burn status to enemy, deal 113 fire elemental damage per each 0.5 second, last for 3 second. Have 2 charges (EP Consumption: 18 – Cooldown: 12 seconds)",
+        "active": {
+            "desc": "Fire a ball of fire, on hit deal physical damage 250% based on attack power, additionally inflict AOE burn status to enemy, deal 113 fire elemental damage per each 0.5 second, last for 3 second. Have 2 charges ",
+            "sp": "18",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [
             "burn"
@@ -155,7 +195,11 @@
         "crit": "29",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Enhance weapon, increase physical damage basic attack (branch attack and charge attack included) by 32%, last for 5 second (EP Consumption: 8 – Cooldown: 15s)",
+        "active": {
+            "desc": "Enhance weapon, increase physical damage basic attack (branch attack and charge attack included) by 32%, last for 5 second ",
+            "sp": "8",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -168,7 +212,11 @@
         "crit": "29",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Inflict AOE float status to target while also apply space-time lock, last for 3.30 seconds (EP Consumption: 12 – Cooldown: 12s)",
+        "active": {
+            "desc": "Inflict AOE float status to target while also apply space-time lock, last for 3.30 seconds ",
+            "sp": "12",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [
             "float",
@@ -184,7 +232,11 @@
         "crit": "13",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Create a ring of fire around self, dealing 317 fire elemental damage per each 0.25 second, last for 6 seconds (EP Consumption: 12 – Cooldown: 18s)",
+        "active": {
+            "desc": "Create a ring of fire around self, dealing 317 fire elemental damage per each 0.25 second, last for 6 seconds ",
+            "sp": "12",
+            "cooldown": "18"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -199,7 +251,11 @@
         "crit": "20",
         "category": "dual-gun",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: 6% on hit to deal an explosive attack, deal 476 AOE fire elemental damage"
         ],
@@ -216,7 +272,11 @@
         "crit": "16",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Fire 6 electronic bullets to the front, each deal 232 lightning damage, on hit inflict vulnerable status to the enemy, reducing their defense by 60%, last for 4 seconds (EP Consumption: 25 – Cooldown: 20s)",
+        "active": {
+            "desc": "Fire 6 electronic bullets to the front, each deal 232 lightning damage, on hit inflict vulnerable status to the enemy, reducing their defense by 60%, last for 4 seconds ",
+            "sp": "25",
+            "cooldown": "20"
+        },
         "passive": [],
         "debuffs": [
             "DEF -"
@@ -233,7 +293,11 @@
         "crit": "16",
         "category": "dual-gun",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Increase physical ranged attack by 30%. Reduce damage dealt based on distance, each 1m further away, reduce 10% damage dealt, up to 80%"
         ],
@@ -248,7 +312,11 @@
         "crit": "25",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Increase charge speed by 100%, last for 11.98 seconds (EP Consumption: 20 – Cooldown: 120 seconds)",
+        "active": {
+            "desc": "Increase charge speed by 100%, last for 11.98 seconds ",
+            "sp": "20",
+            "cooldown": "120"
+        },
         "passive": [
             "Passive Skill: 24.9%on hit to inflict burn status to target. deal 160 fire elemental damage per each 0.5 second, last for 2.5 seconds, cooldown 7 seconds.",
             "If quad has Mei Valkyrja, burn status applies to a small AOE on target"
@@ -266,7 +334,11 @@
         "crit": "10",
         "category": "dual-gun",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: When hit, absorb 40% damage, release a holy light, cooldown 15 seconds. Holy light deal physical damage 290% based on attack power, reduce enemy attack speed by 75% for 4.5 seconds."
         ],
@@ -281,7 +353,11 @@
         "crit": "24",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Summon a whirlwind around self, dealing rapid attack to surrounding enemy, each attack deals 174 ice elemental damage. The whirlwind exlode when expires, dealing 240% physical damage (EP Consumption: 15 – Cooldown: 20s)",
+        "active": {
+            "desc": "Summon a whirlwind around self, dealing rapid attack to surrounding enemy, each attack deals 174 ice elemental damage. The whirlwind exlode when expires, dealing 240% physical damage ",
+            "sp": "15",
+            "cooldown": "20"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -296,7 +372,11 @@
         "crit": "10",
         "category": "dual-gun",
         "rank": "3",
-        "active": "Form a number of rising punches from the ground, each deals physical damage 40% based on attack power + 95 fire elemental damage to the targeted enemy surrounding (EP Consumption: 19 – Cooldown: 10s)",
+        "active": {
+            "desc": "Form a number of rising punches from the ground, each deals physical damage 40% based on attack power + 95 fire elemental damage to the targeted enemy surrounding ",
+            "sp": "19",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -311,7 +391,11 @@
         "crit": "58",
         "category": "dual-gun",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: Increase EP gain by 35%",
             "Passive Skill 2: Add additional 50 lightning elemental damage on-hit"
@@ -329,7 +413,11 @@
         "crit": "19",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Deal 2,289 lightning elemental damage to targeted enemy surroundings, inflicting paralysis status to them, last for 4.00 seconds (EP Consumption: 16 – Cooldown: 18s)",
+        "active": {
+            "desc": "Deal 2,289 lightning elemental damage to targeted enemy surroundings, inflicting paralysis status to them, last for 4.00 seconds ",
+            "sp": "16",
+            "cooldown": "18"
+        },
         "passive": [
             "Passive Skill: On hit 3% chance to inflict paralysis status to the target, causing immobilize and unable to attack, last for 2.50 seconds"
         ],
@@ -348,7 +436,11 @@
         "crit": "22",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Release an area that freeze time and inflict weaken status ailment to a non-boss targeted enemy, reduce their attack power by 70%. Other non-targeted enemies now can’t be targeted and take less in coming damage. Effect lasts for 9.98 seconds (EP Consumption: 20 – Cooldown: 20s)",
+        "active": {
+            "desc": "Release an area that freeze time and inflict weaken status ailment to a non-boss targeted enemy, reduce their attack power by 70%. Other non-targeted enemies now can’t be targeted and take less in coming damage. Effect lasts for 9.98 seconds ",
+            "sp": "20",
+            "cooldown": "20"
+        },
         "passive": [
             "Passive Skill: Increase 50% bonus damage to enemies with weakened status."
         ],
@@ -366,7 +458,11 @@
         "crit": "21",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Deal 7 slashes to surrounding enemies, each slash deals physical damage 77% based on attack power, inflict bind status, last for 3.7 seconds (EP Consumption: 21 – Cooldown: 14s)",
+        "active": {
+            "desc": "Deal 7 slashes to surrounding enemies, each slash deals physical damage 77% based on attack power, inflict bind status, last for 3.7 seconds ",
+            "sp": "21",
+            "cooldown": "14"
+        },
         "passive": [
             "Passive Skill: When performing space-time distortion, inflict bleed to enemy, deal 47% physical damage every 0.5 seconds, last for 5.7 seconds"
         ],
@@ -383,7 +479,11 @@
         "crit": "16",
         "category": "dual-gun",
         "rank": "4",
-        "active": "forms a number of rising punches from the ground, each deal physical damage 50% based on attack power to the targeted enemy surroundings, inflict burn status to them, dealing 149 fire elemental damage per every 0.5 seconds, last for 2.10 seconds (EP Consumption: 25 – Cooldown: 10s)",
+        "active": {
+            "desc": "forms a number of rising punches from the ground, each deal physical damage 50% based on attack power to the targeted enemy surroundings, inflict burn status to them, dealing 149 fire elemental damage per every 0.5 seconds, last for 2.10 seconds ",
+            "sp": "25",
+            "cooldown": "10"
+        },
         "passive": [
             "Passive Skill: Add additional 25 fire elemental damage on-hit"
         ],
@@ -402,7 +502,11 @@
         "crit": "43",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Deals flame wave explosions around self, inflict knock back status, each wave deal physical damage 115% based on attack power and inflict burn status, dealing 159 fire elemental damage every 0.5 seconds, last for 3.00 seconds (EP Consumption: 25 – Cooldown: 20s)",
+        "active": {
+            "desc": "Deals flame wave explosions around self, inflict knock back status, each wave deal physical damage 115% based on attack power and inflict burn status, dealing 159 fire elemental damage every 0.5 seconds, last for 3.00 seconds ",
+            "sp": "25",
+            "cooldown": "20"
+        },
         "passive": [
             "Passive Skill: Increase physical damage by 18% during Burst Mode."
         ],
@@ -421,7 +525,11 @@
         "crit": "32",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Knock back enemies in a small frontal area and inflict float status, deal physical damage 100% based on attack power. Hit enemies then explode, deal 1881 fire elemental damage, inflict surrounding enemies with burn status, dealing 195 fire elemental damage per every 0.5 seconds, lasts for 4.5 seconds(EP Consumption: 20 – Cooldown: 9s)",
+        "active": {
+            "desc": "Knock back enemies in a small frontal area and inflict float status, deal physical damage 100% based on attack power. Hit enemies then explode, deal 1881 fire elemental damage, inflict surrounding enemies with burn status, dealing 195 fire elemental damage per every 0.5 seconds, lasts for 4.5 seconds",
+            "sp": "20",
+            "cooldown": "9"
+        },
         "passive": [
             "Passive Skill: Add 40 fire elemental damage for each enemy inflicted with burn, stack up to 5 times"
         ],
@@ -441,7 +549,11 @@
         "crit": "30",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Call Meteor shower from the sky, last for 12 seconds, when the meteor explodes, deals  physical damage 90% based on attack power, inflict burn status, dealing 96 fire elemental damage pẻ every 0.5 seconds, last for 1.5 seconds (EP Consumption: 30 – Cooldown: 25s)",
+        "active": {
+            "desc": "Call Meteor shower from the sky, last for 12 seconds, when the meteor explodes, deals  physical damage 90% based on attack power, inflict burn status, dealing 96 fire elemental damage pẻ every 0.5 seconds, last for 1.5 seconds ",
+            "sp": "30",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: Attacking the same target for every 2.5 seconds gives additional 2.0% critical rate and 5.0% critical damage, stacks up to 20%  critical rate and 50% critical damage"
         ],
@@ -460,7 +572,11 @@
         "crit": "47",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Possess a will-o’-the-wisp on enemy, last for 7.99 seconds. Possessed enemies and the surrounding area will receive 637 electric elemental damage every 0.5 seconds (EP Consumption: 16 – Cooldown: 25s)",
+        "active": {
+            "desc": "Possess a will-o’-the-wisp on enemy, last for 7.99 seconds. Possessed enemies and the surrounding area will receive 637 electric elemental damage every 0.5 seconds ",
+            "sp": "16",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: Gives 30% electric elemental damage. When in Burst mode,  on hit inflict enemy electric shock status​, increase incoming lightning elemental damage 59.8%, last for 7 seconds."
         ],
@@ -477,7 +593,11 @@
         "crit": "6",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Smashing Mjolnir to knockdown enemies, dealing physical damage 404%  based on attack power, and inflict vulnerable status to them, reduce defense power by 80%, last for 4.00 seconds (EP Consumption: 18 – Cooldown: 13s)",
+        "active": {
+            "desc": "Smashing Mjolnir to knockdown enemies, dealing physical damage 404%  based on attack power, and inflict vulnerable status to them, reduce defense power by 80%, last for 4.00 seconds ",
+            "sp": "18",
+            "cooldown": "13"
+        },
         "passive": [
             "Passive Skill: Increase critical chance by 15%"
         ],
@@ -494,7 +614,11 @@
         "crit": "39",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Release an ice ball dragging enemies along its path, causing a large scale explosion in the end that inflict freeze status to the enemies within the explosion, dealing 846 ice elemental damage every 0.9 seconds, last for 3.99 seconds (EP Consumption: 20 – Cooldown: 20s)",
+        "active": {
+            "desc": "Release an ice ball dragging enemies along its path, causing a large scale explosion in the end that inflict freeze status to the enemies within the explosion, dealing 846 ice elemental damage every 0.9 seconds, last for 3.99 seconds ",
+            "sp": "20",
+            "cooldown": "20"
+        },
         "passive": [
             "Passive Skill: Releases cold air when elite’s shield got broken by basic attack (branch attack and charged attack included), reduce movement speed and attack speed to the target and small surrounding enemies by  84%, last for 3.99 seconds"
         ],
@@ -513,7 +637,11 @@
         "crit": "32",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Kiana will jump back, leaving a bullet that will explode, deal physical damage 349% based on attack power,  and stun the enemies in the area for 4.49 seconds (EP Consumption: 14 – Cooldown: 16s)",
+        "active": {
+            "desc": "Kiana will jump back, leaving a bullet that will explode, deal physical damage 349% based on attack power,  and stun the enemies in the area for 4.49 seconds ",
+            "sp": "14",
+            "cooldown": "16"
+        },
         "passive": [
             "Passive Skill: After performing space-time distortion, increases attack speed by 79.8%, critical rate by 24.9%,  last for 4 seconds. Only last in Space-time distortion."
         ],
@@ -530,7 +658,11 @@
         "crit": "39",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Summon a whirlwind around self, dealing rapid attack to surrounding enemy, each attack deals 174 ice elemental damage. The whirlwind exlode when expires, dealing 300% physical damage, and inflicting 60% slowing moving speed and attack speed to the enemy, last for 1.50 seconds, Kiana can move during whirlwind duration (EP Consumption: 24 – Cooldown: 30s)",
+        "active": {
+            "desc": "Summon a whirlwind around self, dealing rapid attack to surrounding enemy, each attack deals 174 ice elemental damage. The whirlwind exlode when expires, dealing 300% physical damage, and inflicting 60% slowing moving speed and attack speed to the enemy, last for 1.50 seconds, Kiana can move during whirlwind duration ",
+            "sp": "24",
+            "cooldown": "30"
+        },
         "passive": [
             "Passive Skill: 5% chance on-hit to increase moving speed by 100%, last for 4.50 seconds"
         ],
@@ -549,7 +681,11 @@
         "crit": "27",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Shoot out a low-frequency sound, dealing 379% physical damage based on attack power, inflict 6 seconds weaken status to enemies, reduce their attack power by 60% (EP Consumption: 15 – Cooldown: 15s)",
+        "active": {
+            "desc": "Shoot out a low-frequency sound, dealing 379% physical damage based on attack power, inflict 6 seconds weaken status to enemies, reduce their attack power by 60% ",
+            "sp": "15",
+            "cooldown": "15"
+        },
         "passive": [
             "Passive Skill: Increase ranged physical damage by 40%. Reduce damage dealt by 10% per every 1m further away from the enemy, up to 80%"
         ],
@@ -566,7 +702,11 @@
         "crit": "35",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Fire 2 wind bullet in a straight line, each deal physical damage 110% based on attack power. On hit against enemy with bleed status regain 10 EP to wielder (EP consumption: 18 – Cooldown:0s)",
+        "active": {
+            "desc": "Fire 2 wind bullet in a straight line, each deal physical damage 110% based on attack power. On hit against enemy with bleed status regain 10 EP to wielder ",
+            "sp": "18",
+            "cooldown": ":0"
+        },
         "passive": [
             "Passive Skill: Attack speed +25%, Movement speed +25%"
         ],
@@ -583,7 +723,11 @@
         "crit": "31",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Fire a beam that turns into a stream of bullet raining from above to an area in front, dealing 9*59.8% attack power and inflict freeze status for 5 seconds (EP consumption: 16 – Cooldown:18s)",
+        "active": {
+            "desc": "Fire a beam that turns into a stream of bullet raining from above to an area in front, dealing 9*59.8% attack power and inflict freeze status for 5 seconds ",
+            "sp": "16",
+            "cooldown": ":18"
+        },
         "passive": [
             "Passive Skill: Increase critical rate increased by 5.0%, increase physical damage against stun and freeze status enemy by 40.0%"
         ],
@@ -600,7 +744,11 @@
         "crit": "27",
         "category": "dual-gun",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: Attacking a target having spacetime decelerated status deals an additional 1000 physical damage and 1500 ice elemental damage to it and its the surrounding enemies (Cooldown:5s)",
             "Passive Skill: Increase character elemental damage dealt by 15%. Additionally, after tag-in, increase character all damage dealt by 50%, last for 5 seconds. This can only be triggered every 30 seconds after character perform tag-in. Performing ultimate attack resets this skill cooldown and the skill will be immediately in effect"
@@ -618,7 +766,11 @@
         "crit": "45",
         "category": "dual-gun",
         "rank": "4",
-        "active": "Fires off holy fire dealing 100% attack power + 2*1978 fire elemental damage. Apply a debuff that lowers enemy’s attack and movement speed by 30% and increase receiving all-damage by 15%. Holy fire deals 265 fire elemental damage per second with a 10% chance of apply stun status for 2.5 seconds.",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "During release, wielder get 80% all-damage reduction. Performing skill consumes 13% of maximum HP per each second, last for 5 seconds. If HP reaches 1, the character will not die as a result. When HP below 33%, skill will be unusable (EP Consumption: 20 – Cooldown: 35s)",
             "Passive Skill: 10% chance to inflict burn status per each 1.0 second to surrounding enemy, dealing  298 damage per each 0.5 second, last for 3.5 second. Increase all damage against burn status enemies by 18%",
@@ -634,27 +786,16 @@
         "nameJP": "天火圣裁"
     },
     {
-        "name": "Seishuu Muramasa",
-        "atk": "76",
-        "crit": "8",
-        "category": "katana",
-        "rank": "1",
-        "active": "",
-        "passive": [
-            "Skill: None"
-        ],
-        "debuffs": [],
-        "elements": [],
-        "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/10/Seishuu-Muramasa.png",
-        "nameJP": "勢州村正"
-    },
-    {
         "name": "Horikawa Kunihiro",
         "atk": "121",
         "crit": "14",
         "category": "katana",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -669,7 +810,11 @@
         "crit": "59",
         "category": "katana",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -684,7 +829,11 @@
         "crit": "2",
         "category": "katana",
         "rank": "2",
-        "active": "Attack using spirit sword, deal physical damage 50% based on attack power, while also inflict bleed, deal 61 physical damage per each 0.5 second, last for 3 second. Skill have 3 charges (EP Consumption: 3 – Cooldown: 4s)",
+        "active": {
+            "desc": "Attack using spirit sword, deal physical damage 50% based on attack power, while also inflict bleed, deal 61 physical damage per each 0.5 second, last for 3 second. Skill have 3 charges ",
+            "sp": "3",
+            "cooldown": "4"
+        },
         "passive": [
             "Translation note:",
             "The sword name came from the swordsmith name – Muramasa Sengo (Japanese:千子 村正) and the Muramasa school location – Seishuu (Japanese: 勢州).",
@@ -701,7 +850,11 @@
         "crit": "25",
         "category": "katana",
         "rank": "2",
-        "active": "Summon a wave of flame, deal physical damage 100% based on attack power + 284 fire elemental damage to enemy (EP Consumption 10 – Cooldown 7)",
+        "active": {
+            "desc": "Summon a wave of flame, deal physical damage 100% based on attack power + 284 fire elemental damage to enemy ",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -716,7 +869,11 @@
         "crit": "2",
         "category": "katana",
         "rank": "2",
-        "active": "Perform a slash in a wide angle, deal physical damage 249% based on attack power (EP Consumption: 9 – Cooldown: 7s)",
+        "active": {
+            "desc": "Perform a slash in a wide angle, deal physical damage 249% based on attack power ",
+            "sp": "9",
+            "cooldown": "7"
+        },
         "passive": [
             "",
             "Translation note:",
@@ -733,7 +890,11 @@
         "crit": "38",
         "category": "katana",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Add 42 lightning damage into each attack"
         ],
@@ -750,7 +911,11 @@
         "crit": "29",
         "category": "katana",
         "rank": "3",
-        "active": "Summon a whirlwind, deal physical attack 300% based on attack power, reduce hit enemy defense power by 60%, last for 2.99 seconds (EP Consumption: 12 – Cooldown:12s)",
+        "active": {
+            "desc": "Summon a whirlwind, deal physical attack 300% based on attack power, reduce hit enemy defense power by 60%, last for 2.99 seconds ",
+            "sp": "12",
+            "cooldown": ":12"
+        },
         "passive": [],
         "debuffs": [
             "DEF -"
@@ -765,7 +930,11 @@
         "crit": "3",
         "category": "katana",
         "rank": "3",
-        "active": "Summon 6 phantom blades, each deal 483 ice elemental damage, on hit reduce attack speed and movement speed by 70% last for 2.5 seconds (EP Consumption: 14 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon 6 phantom blades, each deal 483 ice elemental damage, on hit reduce attack speed and movement speed by 70% last for 2.5 seconds ",
+            "sp": "14",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [
             "slow"
@@ -782,7 +951,11 @@
         "crit": "12",
         "category": "katana",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Reduce Skill EP Activation Cost by 22%"
         ],
@@ -797,7 +970,11 @@
         "crit": "29",
         "category": "katana",
         "rank": "3",
-        "active": "Enhance weapon, increase basic attack physical damage (branch attack and charge attack included) by 32%, last for 5 seconds (EP Consumption: 8 – Cooldown: 15s)",
+        "active": {
+            "desc": "Enhance weapon, increase basic attack physical damage (branch attack and charge attack included) by 32%, last for 5 seconds ",
+            "sp": "8",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -810,7 +987,11 @@
         "crit": "29",
         "category": "katana",
         "rank": "3",
-        "active": "Slash using crystal energy, inflict AOE freeze status to enemy, last for 3.99 seconds (EP Consumption: 10 – Cooldown: 18 seconds)",
+        "active": {
+            "desc": "Slash using crystal energy, inflict AOE freeze status to enemy, last for 3.99 seconds ",
+            "sp": "10",
+            "cooldown": "18"
+        },
         "passive": [],
         "debuffs": [
             "freeze"
@@ -825,7 +1006,11 @@
         "crit": "17",
         "category": "katana",
         "rank": "3",
-        "active": "Slash using heat energy, dealing physical damage 270% based on attack power while inflict burn status to enemy, deal 372 fire elemental damage per each 0.5 second, last for 4 seconds (EP Consumption: 14- Cooldown: 10s)",
+        "active": {
+            "desc": "Slash using heat energy, dealing physical damage 270% based on attack power while inflict burn status to enemy, deal 372 fire elemental damage per each 0.5 second, last for 4 seconds ",
+            "sp": "14",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [
             "burn"
@@ -842,7 +1027,11 @@
         "crit": "19",
         "category": "katana",
         "rank": "3",
-        "active": "Slash 7-strike slash to enemy and its surrounding, each strike deal physical damage 50% based on attack power, apply bind status to enemy at center (EP Consumption: 18 – Cooldown: 10s)",
+        "active": {
+            "desc": "Slash 7-strike slash to enemy and its surrounding, each strike deal physical damage 50% based on attack power, apply bind status to enemy at center ",
+            "sp": "18",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [
             "bind"
@@ -857,7 +1046,11 @@
         "crit": "13",
         "category": "katana",
         "rank": "3",
-        "active": "Slash using electricity, deal small AOE 744 lightning damage, inflict paralysis status, last for 2 seconds (EP Consumption: 10 – Cooldown: 15s)",
+        "active": {
+            "desc": "Slash using electricity, deal small AOE 744 lightning damage, inflict paralysis status, last for 2 seconds ",
+            "sp": "10",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [
             "paralyze"
@@ -874,7 +1067,11 @@
         "crit": "16",
         "category": "katana",
         "rank": "3",
-        "active": "Slash using ice energy, form a force field in front that when explode dealing 1017 ice elemental damage. Force field reduce enemy movement speed by 60%, last for 5 seconds (EP Consumption: 14 – Cooldown: 18s)",
+        "active": {
+            "desc": "Slash using ice energy, form a force field in front that when explode dealing 1017 ice elemental damage. Force field reduce enemy movement speed by 60%, last for 5 seconds ",
+            "sp": "14",
+            "cooldown": "18"
+        },
         "passive": [],
         "debuffs": [
             "slow"
@@ -891,7 +1088,11 @@
         "crit": "15",
         "category": "katana",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: When current EP is below 20%, increase physical damage by 17%. When current EP is above 80%, add 71 fire elemental into each attack"
         ],
@@ -908,7 +1109,11 @@
         "crit": "25",
         "category": "katana",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: On hit add 36 fire elemental damage into each attack. When Kiana in squad, increase enemy burn status fire elemental damage by 18%"
         ],
@@ -925,7 +1130,11 @@
         "crit": "14",
         "category": "katana",
         "rank": "3",
-        "active": "Summon a whirlwind that pull enemy towards wielder, dealing 317 physical damage each hit (EP Consumption: 10 – Cooldown: 15)",
+        "active": {
+            "desc": "Summon a whirlwind that pull enemy towards wielder, dealing 317 physical damage each hit ",
+            "sp": "10",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -938,7 +1147,11 @@
         "crit": "26",
         "category": "katana",
         "rank": "3",
-        "active": "Summon a tornado, each hit deal 178 ice elemental damage (SP Consumption: 14 – Cooldown: 15 seconds)",
+        "active": {
+            "desc": "Summon a tornado, each hit deal 178 ice elemental damage ",
+            "sp": "14",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -953,7 +1166,11 @@
         "crit": "59",
         "category": "katana",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: Combo at 20/50/100, damage increase by 20%/30%/40%",
             "Passive Skill 2: During Burst Mode, Physical Damage +30%"
@@ -969,7 +1186,11 @@
         "crit": "45",
         "category": "katana",
         "rank": "4",
-        "active": "Grant the protection of the spirit sword to all ally members (including alter ego) and increase defense strength 50%, deal 318 lightning damage every 0.25 seconds to the enemies touched, duration 5.99 seconds (EP Consumption: 18 – Cooldown: 25s)",
+        "active": {
+            "desc": "Grant the protection of the spirit sword to all ally members (including alter ego) and increase defense strength 50%, deal 318 lightning damage every 0.25 seconds to the enemies touched, duration 5.99 seconds ",
+            "sp": "18",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: 40% chance to reduce damage taken by 597"
         ],
@@ -986,7 +1207,11 @@
         "crit": "6",
         "category": "katana",
         "rank": "4",
-        "active": "Slash twice dealing 1911 lightning damage every time, bringing to paralysis for 2.5 seconds (EP Consumption: 20 – Cooldown: 15s)",
+        "active": {
+            "desc": "Slash twice dealing 1911 lightning damage every time, bringing to paralysis for 2.5 seconds ",
+            "sp": "20",
+            "cooldown": "15"
+        },
         "passive": [
             "Passive Skill: Increase lightning damage 40%"
         ],
@@ -1005,7 +1230,11 @@
         "crit": "18",
         "category": "katana",
         "rank": "4",
-        "active": "Release a wave of cold air, freeze enemy upon touched for 0.9 seconds, dealing 876.0588 ice elemental damge, wave last for 4.99 seconds (EP Consumption: 20 – Cooldown: 25s)",
+        "active": {
+            "desc": "Release a wave of cold air, freeze enemy upon touched for 0.9 seconds, dealing 876.0588 ice elemental damge, wave last for 4.99 seconds ",
+            "sp": "20",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: Add 23 ice elemental damage for each attack"
         ],
@@ -1024,7 +1253,11 @@
         "crit": "26",
         "category": "katana",
         "rank": "4",
-        "active": "Creates a red black hole, deal physical damage equal to 80% attack power to the enemies within the range, inflict bleed deals 298 damage per every 0.5 seconds for 4.59 seconds. When the black hole explode deal physical damage equal to 20% damage of attack power (EP Consumption: 20 – Cooldown: 20s).",
+        "active": {
+            "desc": "Creates a red black hole, deal physical damage equal to 80% attack power to the enemies within the range, inflict bleed deals 298 damage per every 0.5 seconds for 4.59 seconds. When the black hole explode deal physical damage equal to 20% damage of attack power ",
+            "sp": "20",
+            "cooldown": "20"
+        },
         "passive": [
             "Passive Skill: Increase 20% physical damage to enemies got space-time decelerated"
         ],
@@ -1041,7 +1274,11 @@
         "crit": "38",
         "category": "katana",
         "rank": "4",
-        "active": "Create a space-time distortion around self, last for 6 seconds. Within the space-time distortion of the active skill, increase critical rate of normal attack by 29.9% (EP Consumption: 15 – Cooldown: 20s)",
+        "active": {
+            "desc": "Create a space-time distortion around self, last for 6 seconds. Within the space-time distortion of the active skill, increase critical rate of normal attack by 29.9% ",
+            "sp": "15",
+            "cooldown": "20"
+        },
         "passive": [
             "Passive Skill: Increase Physical damage by 15 / 30 / 45 % for 8 seconds every time 10/40/70 EP is used (count only once upon immediately used, doesn’t count multiple times, for example 10 + 30 = 40) , effect cannot be stacked"
         ],
@@ -1058,7 +1295,11 @@
         "crit": "38",
         "category": "katana",
         "rank": "4",
-        "active": "Summon 1 flaming soul that shoot fire at target enemy, one soul last for 10 seconds, have 2 charges. Each flaming soul’s attack deal 955 small AOE fire elemental damage (EP Consumption: 15 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon 1 flaming soul that shoot fire at target enemy, one soul last for 10 seconds, have 2 charges. Each flaming soul’s attack deal 955 small AOE fire elemental damage ",
+            "sp": "15",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: When attacking, 5% to create a flaming sword, inflict burn status to enemies, dealing 187 fire elemental damage per every 0.5 second, last for 3 seconds"
         ],
@@ -1075,7 +1316,11 @@
         "crit": "17",
         "category": "katana",
         "rank": "4",
-        "active": "Perform a series of multiple strikes, in total deals 400% damage to the surrounding enemies, inflict weaken status to the enemy that receive the last blow, decreasing defense power by 100%, for 5.99 seconds (EP Consumption: 20 – Cooldown: 18s)",
+        "active": {
+            "desc": "Perform a series of multiple strikes, in total deals 400% damage to the surrounding enemies, inflict weaken status to the enemy that receive the last blow, decreasing defense power by 100%, for 5.99 seconds ",
+            "sp": "20",
+            "cooldown": "18"
+        },
         "passive": [
             "Passive Skill: When attacked, strike lightning at attacking enemy, dealing 150% electric elemetal damage, paralyze for 1 second, cooldown 10 seconds"
         ],
@@ -1095,7 +1340,11 @@
         "crit": "38",
         "category": "katana",
         "rank": "4",
-        "active": "Teleport to target enemy and inflict a small AOE bind, last for 4 seconds, reduce bound enemies’ defense power by 80%, dealing 233 electric elemental damage per every 0.5 second (EP Consumption: 14 – Cooldown: 11s)",
+        "active": {
+            "desc": "Teleport to target enemy and inflict a small AOE bind, last for 4 seconds, reduce bound enemies’ defense power by 80%, dealing 233 electric elemental damage per every 0.5 second ",
+            "sp": "14",
+            "cooldown": "11"
+        },
         "passive": [
             "Passive Skill: When performing a critical, 50.0% chance to inflict knock up and lock time-space to enemy, last for 3 seconds,  6.02 seconds cooldown"
         ],
@@ -1115,7 +1364,11 @@
         "crit": "46",
         "category": "katana",
         "rank": "4",
-        "active": "Create a 3.5m freezing AOE under wielder, last for 10.0 seconds, increase friendly unit’s ice elemental damage by 39.8%, enemies inside the area will be exploded with frostbite after 6 seconds, receive 975 ice elemetal damage (EP Consumption: 20 – Cooldown: 18s)",
+        "active": {
+            "desc": "Create a 3.5m freezing AOE under wielder, last for 10.0 seconds, increase friendly unit’s ice elemental damage by 39.8%, enemies inside the area will be exploded with frostbite after 6 seconds, receive 975 ice elemetal damage ",
+            "sp": "20",
+            "cooldown": "18"
+        },
         "passive": [
             "Passive Skill: Increase elemental damage by 14.9%. Every 5 seconds, the next attack will deal 1260 ice elemental damage within 5m radius. When equipped on Sakura – Unfogotten, performing a critical attack will gain 200KP"
         ],
@@ -1132,7 +1385,11 @@
         "crit": "17",
         "category": "katana",
         "rank": "4",
-        "active": "Slash forward, dealing physical damage 398.8% based on attack power. Additionally inflict stun status against enemy with Sakura mark, last for 3.5 seconds. When equipped on Sakura – Heretic Miko, perform skill will increase 1 Sakura Counter to enemy. Has 2 charges  (EP Consumption: 15 – Cooldown: 12s)",
+        "active": {
+            "desc": "Slash forward, dealing physical damage 398.8% based on attack power. Additionally inflict stun status against enemy with Sakura mark, last for 3.5 seconds. When equipped on Sakura – Heretic Miko, perform skill will increase 1 Sakura Counter to enemy. Has 2 charges  ",
+            "sp": "15",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: On hit have 99.7% chance to perform a forward air slash attack, deal physcial damage 199.4% based on attack power, has 5.5 seconds cooldown. When equipped on Sakura – Heretic Miko, air slash attack increase 1 Sakura Counter to target enemy. Enemies already inflicted with Sakura Mark receive additional 1911 physical damage"
         ],
@@ -1149,7 +1406,11 @@
         "crit": "22",
         "category": "katana",
         "rank": "4",
-        "active": "Release a whirlwind that interupt the enemies and pull them forward wielder, inflict stun for 1.50 seconds, dealing 448 physical damage (EP Consumption: 18 – Cooldown: 15s)",
+        "active": {
+            "desc": "Release a whirlwind that interupt the enemies and pull them forward wielder, inflict stun for 1.50 seconds, dealing 448 physical damage ",
+            "sp": "18",
+            "cooldown": "15"
+        },
         "passive": [
             "Passive Skill: Gain 4 EP upon 1 enemy take down"
         ],
@@ -1166,7 +1427,11 @@
         "crit": "27",
         "category": "katana",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: Upon performing a successful evasive move, charge electricity. First enemy on-hit remove electric charge, deal AOE 3982 physical damage and AOE 3982 lightning elemental damage. After charging electricity, cannot charge again after 1.5 second",
             "Passive Skill 2: On hit,  8.0% chance to inflict AOE paralysis status, last for 3 seconds, cooldown 6 seconds",
@@ -1185,7 +1450,11 @@
         "crit": "39",
         "category": "katana",
         "rank": "4",
-        "active": "Create a tornado, inflict knock-up to enemies upon touched, dealing 224 ice elemetal damage, reduce 80% attack speed and movement speed, tornado last for 1.80 seconds (EP Consumption: 20 – Cooldown: 25s)",
+        "active": {
+            "desc": "Create a tornado, inflict knock-up to enemies upon touched, dealing 224 ice elemetal damage, reduce 80% attack speed and movement speed, tornado last for 1.80 seconds ",
+            "sp": "20",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: On hit,  5.0% chance to increase movement speed by 100% for 4.5 seconds, 10 seconds cooldown"
         ],
@@ -1202,7 +1471,11 @@
         "crit": "36",
         "category": "katana",
         "rank": "4",
-        "active": "Create a field that grant squad member attack speed by 25%, movement speed by 20%, attack all-damage by 10%. Field last for 20 seconds (EP Consumption: 17 – Cooldown: 38s)",
+        "active": {
+            "desc": "Create a field that grant squad member attack speed by 25%, movement speed by 20%, attack all-damage by 10%. Field last for 20 seconds ",
+            "sp": "17",
+            "cooldown": "38"
+        },
         "passive": [
             "Passive Skill: For each 10% extra movement speed, increase attack all-damage by 5%, stack up to 50%.  Increase movement speed by 30%"
         ],
@@ -1217,7 +1490,11 @@
         "crit": "29",
         "category": "katana",
         "rank": "4",
-        "active": "Summon an umbrella that shoot out crystal in a circular field, dealing physical damage based on 24* 30% attack power, reduce enemy caught in crystal field attack speed and movement speed by 40%, last for 5 seconds (EP Consumption: 16 – Cooldown: 18s)",
+        "active": {
+            "desc": "Summon an umbrella that shoot out crystal in a circular field, dealing physical damage based on 24* 30% attack power, reduce enemy caught in crystal field attack speed and movement speed by 40%, last for 5 seconds ",
+            "sp": "16",
+            "cooldown": "18"
+        },
         "passive": [
             "Passive Skill:. Increase 20% physical damage against slowed enemy. Increase 20% all-damage when combo reaches 50"
         ],
@@ -1234,7 +1511,11 @@
         "crit": "24",
         "category": "katana",
         "rank": "4",
-        "active": "Summon Jizou Spirit, last for 39 seconds. When enter the battlefield, Jizou deal physical damage 300% based on attack power to enemy and its surrounding, inflict float status. Jizou’s pattern attack:",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Chop down: Deal physical damage 100% based on attack power. Tackle attack: Deal physical damage 200% based on attack power, inflict knock-back. Wide slash: Deal physical damage 100% based on attack power, inflict float",
             "Passive Skill: Increase all-damage against float status enemy by 32%",
@@ -1254,7 +1535,11 @@
         "crit": "26",
         "category": "katana",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: On hit critical drop 3 ginger man. Each deal 149.7% physical damage based on attack power. Cooldown 8s",
             "Passive Skill 2: When combo reaches 10, increase elemental damage by 15%"
@@ -1270,7 +1555,11 @@
         "crit": "31",
         "category": "katana",
         "rank": "4",
-        "active": "Spinning dealing multiple instance, total fire elemental based on 500% attack power. If taken damage during skill activation, deal another 200% fire elemental damage to attacker. Invulnerable during performing skill, grant a shield that can negate 1 instance source of damage after skill animation. Shield last for 5 seconds. (EP Consumption: 20 – Cooldown: 21)",
+        "active": {
+            "desc": "Spinning dealing multiple instance, total fire elemental based on 500% attack power. If taken damage during skill activation, deal another 200% fire elemental damage to attacker. Invulnerable during performing skill, grant a shield that can negate 1 instance source of damage after skill animation. Shield last for 5 seconds. ",
+            "sp": "20",
+            "cooldown": "21"
+        },
         "passive": [
             "When equiped on Sakura – True Blaze Fortunate God, enemy got hit by the skill get a debuff, take additional 25% fire elemental damage, 15% lightning and ice elemental damage. Debuff last for 15 seconds. True Blaze additional branch skill does not benefit from this debuff (please read  Sakura – True Blaze Fortunate God skill for more information)",
             "Passive Skill: Increase fire elemental damage by Valkyrja by 40%"
@@ -1290,7 +1579,11 @@
         "crit": "8",
         "category": "cannon",
         "rank": "1",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -1305,7 +1598,11 @@
         "crit": "14",
         "category": "cannon",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1322,7 +1619,11 @@
         "crit": "59",
         "category": "cannon",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 2 missiles. Charge 2 times: Shoot 5 missiles. Charge 3 times: Shoot 11 missiles"
@@ -1338,7 +1639,11 @@
         "crit": "2",
         "category": "cannon",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 3 missiles. Charge 2 times: Shoot 7 missiles. Charge 3 times: Shoot 15 missiles"
@@ -1354,7 +1659,11 @@
         "crit": "2",
         "category": "cannon",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius"
         ],
@@ -1369,7 +1678,11 @@
         "crit": "25",
         "category": "cannon",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher: Slow charge type, increase physical damage when performing normal attack by 100%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1386,7 +1699,11 @@
         "crit": "38",
         "category": "cannon",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1405,7 +1722,11 @@
         "crit": "29",
         "category": "cannon",
         "rank": "3",
-        "active": "Enhance weapon, increase attack speed by 75%, last for 4.99 seconds (EP Consumption: 12 – Cooldown: 20s)",
+        "active": {
+            "desc": "Enhance weapon, increase attack speed by 75%, last for 4.99 seconds ",
+            "sp": "12",
+            "cooldown": "20"
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 3 missiles. Charge 2 times: Shoot 7 missiles. Charge 3 times: Shoot 15 missiles"
@@ -1421,7 +1742,11 @@
         "crit": "3",
         "category": "cannon",
         "rank": "3",
-        "active": "Create a field around self, reduce enemy attack speed and movement speed by 80%, last for 8 seconds (EP Consumption: 7 – Cooldown: 20 seconds)",
+        "active": {
+            "desc": "Create a field around self, reduce enemy attack speed and movement speed by 80%, last for 8 seconds ",
+            "sp": "7",
+            "cooldown": "20"
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius"
         ],
@@ -1438,7 +1763,11 @@
         "crit": "12",
         "category": "cannon",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius",
             "Passive Skill: On hit 1.5% chance to inflict paralysis status to enemy, causing immobilize and unable to attack, last for 2.99 seconds"
@@ -1454,7 +1783,11 @@
         "crit": "29",
         "category": "cannon",
         "rank": "3",
-        "active": "Enhance weapon, increase basic attack physical damage (branch attack and charge attack included) by 32% last for 5 seconds (EP Consumption: 8 – Cooldown: 15s)",
+        "active": {
+            "desc": "Enhance weapon, increase basic attack physical damage (branch attack and charge attack included) by 32% last for 5 seconds ",
+            "sp": "8",
+            "cooldown": "15"
+        },
         "passive": [
             "Rocket Launcher",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets"
@@ -1470,7 +1803,11 @@
         "crit": "29",
         "category": "cannon",
         "rank": "3",
-        "active": "Increase wielder movement speed by 100%, last for 5.98 seconds (EP Consumption: 6 – Cooldown: 15s)",
+        "active": {
+            "desc": "Increase wielder movement speed by 100%, last for 5.98 seconds ",
+            "sp": "6",
+            "cooldown": "15"
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 3 missiles. Charge 2 times: Shoot 7 missiles. Charge 3 times: Shoot 15 missiles"
@@ -1486,7 +1823,11 @@
         "crit": "17",
         "category": "cannon",
         "rank": "3",
-        "active": "Enhance own attack for 6.47 seconds duration, each attack reduce enemy attack speed and movement speed by 60% for 3.5 seconds (EP Consumption: 12 – Cooldown: 20s)",
+        "active": {
+            "desc": "Enhance own attack for 6.47 seconds duration, each attack reduce enemy attack speed and movement speed by 60% for 3.5 seconds ",
+            "sp": "12",
+            "cooldown": "20"
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 3 missiles. Charge 2 times: Shoot 7 missiles. Charge 3 times: Shoot 15 missiles"
@@ -1504,7 +1845,11 @@
         "crit": "20",
         "category": "cannon",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher: Slow charge type, increase physical damage when performing normal attack by 100%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1521,7 +1866,11 @@
         "crit": "34",
         "category": "cannon",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher: Fast charge type, reduce physical damage when performing normal attack by 30%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1538,7 +1887,11 @@
         "crit": "17",
         "category": "cannon",
         "rank": "3",
-        "active": "Slam mechanical arm on the ground, creating shock waves. Shock wave deal many damage instance, each deal physical damage 90% based on attack power (EP Consumption: 12 – Cooldown: 9s)",
+        "active": {
+            "desc": "Slam mechanical arm on the ground, creating shock waves. Shock wave deal many damage instance, each deal physical damage 90% based on attack power ",
+            "sp": "12",
+            "cooldown": "9"
+        },
         "passive": [
             "Rocket Launcher: Fast charge type, reduce physical damage when performing normal attack by 30%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets"
@@ -1554,7 +1907,11 @@
         "crit": "14",
         "category": "cannon",
         "rank": "3",
-        "active": "Slam mechanical arm on the ground, create a shock wave that deal many damage instance and inflict knock back. Each instance deal 158 fire elemental damage (EP Consumption: 20 – Cooldown: 15 seconds)",
+        "active": {
+            "desc": "Slam mechanical arm on the ground, create a shock wave that deal many damage instance and inflict knock back. Each instance deal 158 fire elemental damage ",
+            "sp": "20",
+            "cooldown": "15"
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius"
         ],
@@ -1571,7 +1928,11 @@
         "crit": "3",
         "category": "cannon",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher:",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1588,7 +1949,11 @@
         "crit": "16",
         "category": "cannon",
         "rank": "3",
-        "active": "Fire a big fireball, on hit explode deal 419% fire elemental damage based on attack power, inflict burn status, dealing 18% fire elemental damage based on attack power per every 0.5 second, last for 3 seconds (EP Consumption: 18 – Cooldown:10s)",
+        "active": {
+            "desc": "Fire a big fireball, on hit explode deal 419% fire elemental damage based on attack power, inflict burn status, dealing 18% fire elemental damage based on attack power per every 0.5 second, last for 3 seconds ",
+            "sp": "18",
+            "cooldown": ":10"
+        },
         "passive": [
             "Rocket Launcher:",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets"
@@ -1608,7 +1973,11 @@
         "crit": "59",
         "category": "cannon",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1626,7 +1995,11 @@
         "crit": "43",
         "category": "cannon",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Rocket Launcher: Slow charge type, increase physical damage when performing normal attack by 100%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1644,7 +2017,11 @@
         "crit": "6",
         "category": "cannon",
         "rank": "4",
-        "active": "Set a space-time trap area in front. Enemies caught within trap will be time-space decelerated, reduce def power by 50%, trap last for 6.19 seconds (EP Consumption: 18 – Cooldown: 24 seconds)",
+        "active": {
+            "desc": "Set a space-time trap area in front. Enemies caught within trap will be time-space decelerated, reduce def power by 50%, trap last for 6.19 seconds ",
+            "sp": "18",
+            "cooldown": "24"
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 3 missiles. Charge 2 times: Shoot 7 missiles. Charge 3 times: Shoot 15 missiles",
@@ -1668,7 +2045,11 @@
         "crit": "19",
         "category": "cannon",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius",
             "When perform normal attack, increase 60% all damage",
@@ -1685,7 +2066,11 @@
         "crit": "26",
         "category": "cannon",
         "rank": "4",
-        "active": "Release a ball of energy slowly moving forward, damage enemy in-contact multiple times, each dealing 636 electric elemental damage, inflict paralyze status for 3.59 seconds (EP Consumption: 20 – Cooldown: 20 seconds)",
+        "active": {
+            "desc": "Release a ball of energy slowly moving forward, damage enemy in-contact multiple times, each dealing 636 electric elemental damage, inflict paralyze status for 3.59 seconds ",
+            "sp": "20",
+            "cooldown": "20"
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius",
             "Increase outgoing all-attack  against enemies inflicted with paralyze status by 16%"
@@ -1706,7 +2091,11 @@
         "crit": "11",
         "category": "cannon",
         "rank": "4",
-        "active": "Inflict knock back to surrounding enemies and apply shockwave to a wide frontal area, dealing 12*40% physical damage, reduce enemy movement speed and attack speed by 70% for 3 seconds (SP Consumption: 18 – Cooldown: 14 seconds)",
+        "active": {
+            "desc": "Inflict knock back to surrounding enemies and apply shockwave to a wide frontal area, dealing 12*40% physical damage, reduce enemy movement speed and attack speed by 70% for 3 seconds ",
+            "sp": "18",
+            "cooldown": "14"
+        },
         "passive": [
             "Rocket Launcher:",
             "Charge 1 time: Shoot 1 normal missile. Charge 2 times: Shoot 2 strong missiles. Charge 3 times: Shoot 3 very strong missiles",
@@ -1725,7 +2114,11 @@
         "crit": "38",
         "category": "cannon",
         "rank": "4",
-        "active": "This weapon can switch between 3 modes: fire, electric, ice. Each form has its own power (EP Consumption: 6 – Cooldown: 8s)",
+        "active": {
+            "desc": "This weapon can switch between 3 modes: fire, electric, ice. Each form has its own power ",
+            "sp": "6",
+            "cooldown": "8"
+        },
         "passive": [
             "Fire Mode: Charge and shoot fire ball. On hit, has 30% chance to inflict burn, dealing 298 fire elemental damage per every 0.5 second, last for 3 seconds (works like Rocket Launcher)",
             "Electric Mode: Charge and shoot homing electric ball. On hit, has 15% chance to deal extra 150% electric elemental damage and inflict vulnerable status, reduce 60% defense power for 3 seconds (works like Cluster Missile Pod)",
@@ -1745,7 +2138,11 @@
         "crit": "11",
         "category": "cannon",
         "rank": "4",
-        "active": "Release a strong rupture, seal caught enemies in black ice status, inflict freeze status on to them, dealing 956 ice elemental damage while wielder heal 99 HP per every 0.9 second, black ice last for 4 seconds (EP Consumption: 25 – Cooldown: 20s)",
+        "active": {
+            "desc": "Release a strong rupture, seal caught enemies in black ice status, inflict freeze status on to them, dealing 956 ice elemental damage while wielder heal 99 HP per every 0.9 second, black ice last for 4 seconds ",
+            "sp": "25",
+            "cooldown": "20"
+        },
         "passive": [
             "Rocket Launcher: Slow charge type, increase physical damage when performing normal attack by 100%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1766,7 +2163,11 @@
         "crit": "22",
         "category": "cannon",
         "rank": "4",
-        "active": "Shoot fire, dealing 12*60% fire elemental damage and 12*60% physical damage based on attack power (EP Consumption: 49 – Cooldown: 36s)",
+        "active": {
+            "desc": "Shoot fire, dealing 12*60% fire elemental damage and 12*60% physical damage based on attack power ",
+            "sp": "49",
+            "cooldown": "36"
+        },
         "passive": [
             "Rocket Launcher: Fast charge type, reduce physical damage when performing normal attack by 30%",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1785,7 +2186,11 @@
         "crit": "34",
         "category": "cannon",
         "rank": "4",
-        "active": "Increase charge speed by 100%, last for 11.98 seconds (EP Consumption: 20 – Cooldown: 120 seconds)",
+        "active": {
+            "desc": "Increase charge speed by 100%, last for 11.98 seconds ",
+            "sp": "20",
+            "cooldown": "120"
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 3 missiles. Charge 2 times: Shoot 7 missiles. Charge 3 times: Shoot 15 missiles",
@@ -1804,7 +2209,11 @@
         "crit": "26",
         "category": "cannon",
         "rank": "4",
-        "active": "Perform a 3-times-charge shoot at the enemies, damaged enemies will be put into bleed state, taking 313 physical damage per every 0.5 second, last for 7 seconds (SP Consumption: 19 – Cooldown: 9 seconds)",
+        "active": {
+            "desc": "Perform a 3-times-charge shoot at the enemies, damaged enemies will be put into bleed state, taking 313 physical damage per every 0.5 second, last for 7 seconds ",
+            "sp": "19",
+            "cooldown": "9"
+        },
         "passive": [
             "Rocket Launcher:",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets",
@@ -1823,7 +2232,11 @@
         "crit": "27",
         "category": "cannon",
         "rank": "4",
-        "active": "Jump backwards, set up a Decelerate Black Hole at previous location that suck enemies in and reduce their movement speed by 60% , deal 188 ice elemental damage per every 0.6 second",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius",
             "Increase 35% physical damage to space-time decelerated status enemies"
@@ -1831,9 +2244,7 @@
         "debuffs": [
             "slow"
         ],
-        "elements": [
-            "ice"
-        ],
+        "elements": [],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2017/08/Quantum-Destroyer-Type-2.png",
         "nameJP": "量子破滅者||型"
     },
@@ -1843,7 +2254,11 @@
         "crit": "28",
         "category": "cannon",
         "rank": "4",
-        "active": "Slam a mechanical arm on the ground, dealing multiple instance of damage, each equal to 120% attack power, inflict stun for 2.55 seconds. After performing skill, increase wielder movement speed for a period (SP Consumption: 18 – Cooldown: 12 seconds)",
+        "active": {
+            "desc": "Slam a mechanical arm on the ground, dealing multiple instance of damage, each equal to 120% attack power, inflict stun for 2.55 seconds. After performing skill, increase wielder movement speed for a period ",
+            "sp": "18",
+            "cooldown": "12"
+        },
         "passive": [
             "Rocket Launcher:",
             "Charge 1 time: Shoot 1 normal rocket. Charge 2 times: Shoot 2 strong rockets. Charge 3 times: Shoot 3 very strong rockets"
@@ -1861,7 +2276,11 @@
         "crit": "22",
         "category": "cannon",
         "rank": "4",
-        "active": "Slam a mechanical arm on the ground, dealing multiple instance of damage, knock back enemies, dealing 214 fire elemental damage, inflict burn status, dealing 134 fire elemtal damage and increase wielder movement speed for a period (EP Consumption: 18 – Cooldown: 12 seconds)",
+        "active": {
+            "desc": "Slam a mechanical arm on the ground, dealing multiple instance of damage, knock back enemies, dealing 214 fire elemental damage, inflict burn status, dealing 134 fire elemtal damage and increase wielder movement speed for a period ",
+            "sp": "18",
+            "cooldown": "12"
+        },
         "passive": [
             "Particle Beam Cannon: Fire and charge laser in a straight line. Firing for a longer period will cause the cannon to overheat. Closer enemies receives higher damage, highest damage at 3m radius"
         ],
@@ -1880,7 +2299,11 @@
         "crit": "31",
         "category": "cannon",
         "rank": "4",
-        "active": "Shoot 18 missiles straight forward. Each missile deal physical damage 74.9% based on attack power and inflict float status. Furthermore inflict burn status to enemy, deal 599 fire elemental damage per each 0.5 second, last for 4 seconds (EP Consumption: 25 – Cooldown: 12 seconds)",
+        "active": {
+            "desc": "Shoot 18 missiles straight forward. Each missile deal physical damage 74.9% based on attack power and inflict float status. Furthermore inflict burn status to enemy, deal 599 fire elemental damage per each 0.5 second, last for 4 seconds ",
+            "sp": "25",
+            "cooldown": "12"
+        },
         "passive": [
             "Cluster Missile Pod: Shoot many missiles at multiple target, long charge type, performing critical at one single target damage will reduce its damage",
             "Charge 1 time: Shoot 2 missiles. Charge 2 times: Shoot 5 missiles. Charge 3 times: Shoot 11 missiles",
@@ -1902,7 +2325,11 @@
         "crit": "35",
         "category": "cannon",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Description: Anti-Houkai gatling gun was built based on the model of M134 Minigun of the Legendary of Thousand Wings Academy. The extreme firepower hidden inside the gun was shown more properly. When the barrel starts rotating, its sound is said to be on par with the warcry of the Fire God Vulcan",
             "Particle Beam Cannon:. Rapid-fire weapon. Continuously deal damage to targets in a straight line.. Overheat if keep firing without break. The nearer approach to enemy, the more damage dealt. Deal highest damage to all enemies within 3m radius",
@@ -1920,7 +2347,11 @@
         "crit": "36",
         "category": "cannon",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Description: God’s key made by the core of the ninth law maker of the old civilization, has the power to manipulate gravity. Originally unearthed in the remains of Yellowstone, it was acquired by scientists at the North American branch of the 20th century and became one of the major factor to the independence of the Negentropy. Originally had a spherical external stabilizer, but it was badly damaged in a battle in 1995…",
             "Rocket Launcher:",
@@ -1940,7 +2371,11 @@
         "crit": "8",
         "category": "greatsword",
         "rank": "1",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -1955,7 +2390,11 @@
         "crit": "5",
         "category": "greatsword",
         "rank": "2",
-        "active": "Launch enemy into mid-air, deal physical damage 348% based on attack power (EP Consumption: 12 – Cooldown: 10s)",
+        "active": {
+            "desc": "Launch enemy into mid-air, deal physical damage 348% based on attack power ",
+            "sp": "12",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -1968,7 +2407,11 @@
         "crit": "12",
         "category": "greatsword",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -1983,7 +2426,11 @@
         "crit": "9",
         "category": "greatsword",
         "rank": "2",
-        "active": "Perform a chop cut, inflict knock down, deal physical damage 398% based on attack power (EP Consumption: 10 – Cooldown: 9 seconds)",
+        "active": {
+            "desc": "Perform a chop cut, inflict knock down, deal physical damage 398% based on attack power ",
+            "sp": "10",
+            "cooldown": "9"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -1996,7 +2443,11 @@
         "crit": "14",
         "category": "greatsword",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -2011,7 +2462,11 @@
         "crit": "5",
         "category": "greatsword",
         "rank": "2",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Increase all-damage against stun, bind, space-time decelerated enemy by 20%"
         ],
@@ -2026,7 +2481,11 @@
         "crit": "31",
         "category": "greatsword",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: On hit 8% chance to inflict freeze status, last for 2.14 seconds"
         ],
@@ -2041,7 +2500,11 @@
         "crit": "10",
         "category": "greatsword",
         "rank": "3",
-        "active": "Slam at enemy, inflict float status, deal physical damage 449% based on attack power (EP Consumption: 15 – Cooldown:8s )",
+        "active": {
+            "desc": "Slam at enemy, inflict float status, deal physical damage 449% based on attack power ",
+            "sp": "15",
+            "cooldown": ":8"
+        },
         "passive": [],
         "debuffs": [
             "float"
@@ -2056,7 +2519,11 @@
         "crit": "27",
         "category": "greatsword",
         "rank": "3",
-        "active": "Attack enemy with electric energy, deal AOE 3*743 lightning damage to enemy and its surrounding, inflict paralysis status, last for 2 seconds (EP Consumption: 15 – Cooldown: 10s)",
+        "active": {
+            "desc": "Attack enemy with electric energy, deal AOE 3*743 lightning damage to enemy and its surrounding, inflict paralysis status, last for 2 seconds ",
+            "sp": "15",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [
             "paralyze"
@@ -2073,7 +2540,11 @@
         "crit": "7",
         "category": "greatsword",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Give 19 EP when starting battle"
         ],
@@ -2088,7 +2559,11 @@
         "crit": "19",
         "category": "greatsword",
         "rank": "3",
-        "active": "Enhance weapon, increase basic attack physical damage (branch attack and charge attack included) by 32%, last for 5 seconds (EP Consumption: 8 – Cooldown: 32s)",
+        "active": {
+            "desc": "Enhance weapon, increase basic attack physical damage (branch attack and charge attack included) by 32%, last for 5 seconds ",
+            "sp": "8",
+            "cooldown": "32"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2101,7 +2576,11 @@
         "crit": "17",
         "category": "greatsword",
         "rank": "3",
-        "active": "Perform air slash towards target enemy location, air slash deal physical damage 3*145% based on attack power to enemy on its path(SP Consumption: 18 – Cooldown: 14 seconds)",
+        "active": {
+            "desc": "Perform air slash towards target enemy location, air slash deal physical damage 3*145% based on attack power to enemy on its path",
+            "sp": "18",
+            "cooldown": "14"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2114,7 +2593,11 @@
         "crit": "120",
         "category": "greatsword",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Increase out going physical damage by 0.6% for each 1% HP loss"
         ],
@@ -2129,7 +2612,11 @@
         "crit": "24",
         "category": "greatsword",
         "rank": "3",
-        "active": "Increase chainsaw speed, increase attack speed by 39.9%, increase basic attack critical chance (charge attack included) by 10%, last for 6 seconds (EP Consumption: 14 – Cooldown: 18s)",
+        "active": {
+            "desc": "Increase chainsaw speed, increase attack speed by 39.9%, increase basic attack critical chance (charge attack included) by 10%, last for 6 seconds ",
+            "sp": "14",
+            "cooldown": "18"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2142,7 +2629,11 @@
         "crit": "17",
         "category": "greatsword",
         "rank": "3",
-        "active": "Shoot lazer in front, explode enemy on hit, deal small AOE 536 fire elemental damage (EP Consumption: 18 – Cooldown: 16s)",
+        "active": {
+            "desc": "Shoot lazer in front, explode enemy on hit, deal small AOE 536 fire elemental damage ",
+            "sp": "18",
+            "cooldown": "16"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -2157,7 +2648,11 @@
         "crit": "10",
         "category": "greatsword",
         "rank": "3",
-        "active": "Shoot out 6 missiles, each deal small AOE physical damage 199% based on attack power (EP Consumption: 12 – Cooldown: 10s)",
+        "active": {
+            "desc": "Shoot out 6 missiles, each deal small AOE physical damage 199% based on attack power ",
+            "sp": "12",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2170,7 +2665,11 @@
         "crit": "19",
         "category": "greatsword",
         "rank": "3",
-        "active": "Slam AI-hammer on the ground, creating a shock wave that inflict knock back, deal physical damage 299% based on attack power, have 50% chance to inflict stun status, last for 3 seconds (EP Consumption: 15 – Cooldown: 15s)",
+        "active": {
+            "desc": "Slam AI-hammer on the ground, creating a shock wave that inflict knock back, deal physical damage 299% based on attack power, have 50% chance to inflict stun status, last for 3 seconds ",
+            "sp": "15",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [
             "stun"
@@ -2185,7 +2684,11 @@
         "crit": "16",
         "category": "greatsword",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: On hit have 11.11% to deal 302 fire elemental damage to target and its surroundings"
         ],
@@ -2202,7 +2705,11 @@
         "crit": "38",
         "category": "greatsword",
         "rank": "4",
-        "active": "Use chainsaw to cut the enemy, deal small AOE physical damage 24*32%  based on attack power, flip up the chainsaw at the end, deal physical damage 325% based on attack power. Wielder is invulnerable during skill animation. (EP Consumption: 25 – Cooldown: 12s)",
+        "active": {
+            "desc": "Use chainsaw to cut the enemy, deal small AOE physical damage 24*32%  based on attack power, flip up the chainsaw at the end, deal physical damage 325% based on attack power. Wielder is invulnerable during skill animation. ",
+            "sp": "25",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: On hit, 10% chance to inflict bleed status, dealing 151 physical attack per every 0.5 seconds for 3 seconds."
         ],
@@ -2217,7 +2724,11 @@
         "crit": "48",
         "category": "greatsword",
         "rank": "4",
-        "active": "Fire 2 air slashes one after another, dealing physical damage continuously, each time equal to 25% attack power, damage deal up to 8 times. When 2 slashes meet and create an X cross, create an explosion deal physical damage  349% based on attack power and inflict stun status to enemy for 5.99 seconds. (EP Consumption: 18 – Cooldown: 24s)",
+        "active": {
+            "desc": "Fire 2 air slashes one after another, dealing physical damage continuously, each time equal to 25% attack power, damage deal up to 8 times. When 2 slashes meet and create an X cross, create an explosion deal physical damage  349% based on attack power and inflict stun status to enemy for 5.99 seconds. ",
+            "sp": "18",
+            "cooldown": "24"
+        },
         "passive": [
             "Passive Skill: When attacking enemies inflicted with stun status, increase attack speed by 49.9%, last for 4 seconds, cooldown 12 seconds"
         ],
@@ -2234,7 +2745,11 @@
         "crit": "17",
         "category": "greatsword",
         "rank": "4",
-        "active": "Summon a Fresh Blood Tornado, dealing 9*35% physical damage, and put enemies in a berserk state for 8.98 seconds – increase attack speed by 2 times, but take more 60% incoming elemental damage (EP Consumption: 20 – Cooldown: 15s)",
+        "active": {
+            "desc": "Summon a Fresh Blood Tornado, dealing 9*35% physical damage, and put enemies in a berserk state for 8.98 seconds – increase attack speed by 2 times, but take more 60% incoming elemental damage ",
+            "sp": "20",
+            "cooldown": "15"
+        },
         "passive": [
             "Passive Skill 1: When combo above 15, increase 30% outgoing physical damage",
             "Passive Skill 2: When HP below 50%, heal 30 HP per every 0.5 seconds"
@@ -2252,7 +2767,11 @@
         "crit": "27",
         "category": "greatsword",
         "rank": "4",
-        "active": "Jump at targeted enemy and AOE apply knock-up status, dealing 2877 fire elemental damage, while also inflict burn status, dealing 306 fire elemental damage per every 0.5 sec, last for 6 second (EP Consumption: 20 – Cooldown: 12s)",
+        "active": {
+            "desc": "Jump at targeted enemy and AOE apply knock-up status, dealing 2877 fire elemental damage, while also inflict burn status, dealing 306 fire elemental damage per every 0.5 sec, last for 6 second ",
+            "sp": "20",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: Increase Fire elemental damage by 30%"
         ],
@@ -2271,7 +2790,11 @@
         "crit": "16",
         "category": "greatsword",
         "rank": "4",
-        "active": "Jump at target enemy, dealing 249% AOE physical damage based on attack power, inflict bind status to damaged enemy for 4.5 seconds. Also inflict bleed status, dealing  238 damage per 0.5 second (EP Consumption: 25 – Cooldown: 25s)",
+        "active": {
+            "desc": "Jump at target enemy, dealing 249% AOE physical damage based on attack power, inflict bind status to damaged enemy for 4.5 seconds. Also inflict bleed status, dealing  238 damage per 0.5 second ",
+            "sp": "25",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: Attacking bleed inflicted enemy heal for 39 HP"
         ],
@@ -2289,7 +2812,11 @@
         "crit": "16",
         "category": "greatsword",
         "rank": "4",
-        "active": "Emit a electromagnetic wind slash towards the front, dealing 2324 electric damage, inflict electric shock status to caught enemy for 7 seconds. Enemy in electric shock state receive extra 50% electric elemental damage (EP Consumption: 20 – Cooldown: 18s)",
+        "active": {
+            "desc": "Emit a electromagnetic wind slash towards the front, dealing 2324 electric damage, inflict electric shock status to caught enemy for 7 seconds. Enemy in electric shock state receive extra 50% electric elemental damage ",
+            "sp": "20",
+            "cooldown": "18"
+        },
         "passive": [
             "Passive Skill:  Add 79 electric elemental damage for each attack"
         ],
@@ -2308,7 +2835,11 @@
         "crit": "32",
         "category": "greatsword",
         "rank": "4",
-        "active": "Has 3 skill charges, each skill attack uses electric/fire/ice elemental damage in following order, dealing 239% physical damage and 239% elemental damage, inflict paralyze/burn/freeze status to enemies. After using the skill, within (electric: 4, fire: 7, ice: 10) seconds, further add 448 elemental damage into each attack, elemental imbued attack can’t be stacked (EP Consumption: 15 – Cooldown: 12s)",
+        "active": {
+            "desc": "Has 3 skill charges, each skill attack uses electric/fire/ice elemental damage in following order, dealing 239% physical damage and 239% elemental damage, inflict paralyze/burn/freeze status to enemies. After using the skill, within (electric: 4, fire: 7, ice: 10) seconds, further add 448 elemental damage into each attack, elemental imbued attack can’t be stacked ",
+            "sp": "15",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: When attacked, fire 2 spirit sword at 2 random enemy, inflict knock back enemy on its path, dealing 160% physical damage based on attack power, cool down 5.03 seconds"
         ],
@@ -2331,7 +2862,11 @@
         "crit": "41",
         "category": "greatsword",
         "rank": "4",
-        "active": "Increase saw speed thus increase attack speed by 50%, increase critical rate by 25% for normal attack, attack can’t be interrupted, last for 8 seconds (EP Consumption: 18 – Cooldown: 24s)",
+        "active": {
+            "desc": "Increase saw speed thus increase attack speed by 50%, increase critical rate by 25% for normal attack, attack can’t be interrupted, last for 8 seconds ",
+            "sp": "18",
+            "cooldown": "24"
+        },
         "passive": [
             "Passive Skill: When performing a critical hit, has 24.9% chance to explode 1792 electric elemental damage under wielder, inflict weaken status to caught enemy for 4 seconds, reducing their defense power by 50%, has 7 seconds cooldown"
         ],
@@ -2348,7 +2883,11 @@
         "crit": "25",
         "category": "greatsword",
         "rank": "4",
-        "active": "Increase physical damage by 35% for 8 seconds. Within skill period, killing the first enemy will apply all area space-time distortion for 8 seconds, also prolong 35% physical damage buff until the end of space-time distortion. (EP Consumption: 22 – Cooldown: 25s)",
+        "active": {
+            "desc": "Increase physical damage by 35% for 8 seconds. Within skill period, killing the first enemy will apply all area space-time distortion for 8 seconds, also prolong 35% physical damage buff until the end of space-time distortion. ",
+            "sp": "22",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: On-hit enemy will apply all area space-time distortion for 4.5 seconds, cooldown 60 seconds"
         ],
@@ -2365,7 +2904,11 @@
         "crit": "17",
         "category": "greatsword",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: Charge energy while dashing, getting interrupted or stop dashing will reset the charging process. For every 0.5/1.5/3 seconds dashing duration, performing tackle attack will create an explosion to the first enemy in contact, dealing 399/599/799 % physical damage",
             "Passive Skill 2:  While combo is below 5, increase physical damage by 32%"
@@ -2381,7 +2924,11 @@
         "crit": "28",
         "category": "greatsword",
         "rank": "4",
-        "active": "Shoot laser at a small frontal area, each laser beam deals 89 fire elemental damage and explode, dealing 717 fire elemental damage to enemies caught within radius, and inflict burn status, dealing 89 fire elemental damage per every 0.5 seconds for 3 seconds (EP Consumption: 24 – Cooldown: 18s)",
+        "active": {
+            "desc": "Shoot laser at a small frontal area, each laser beam deals 89 fire elemental damage and explode, dealing 717 fire elemental damage to enemies caught within radius, and inflict burn status, dealing 89 fire elemental damage per every 0.5 seconds for 3 seconds ",
+            "sp": "24",
+            "cooldown": "18"
+        },
         "passive": [
             "Passive Skill: Add 95 fire elemental damage into each attack"
         ],
@@ -2400,7 +2947,11 @@
         "crit": "15",
         "category": "greatsword",
         "rank": "4",
-        "active": "Fire 6 homing missile, each deals 200% small AOE physical damage based on attack power, inflict stun status to enemies caught within radius for 2.50 seconds (EP Consumption: 18 – Cooldown: 12s)",
+        "active": {
+            "desc": "Fire 6 homing missile, each deals 200% small AOE physical damage based on attack power, inflict stun status to enemies caught within radius for 2.50 seconds ",
+            "sp": "18",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: When attacked has 50% chance to deal 160% physical damage back at enemy"
         ],
@@ -2417,7 +2968,11 @@
         "crit": "32",
         "category": "greatsword",
         "rank": "4",
-        "active": "Increase physical damage deal by wielder by 24,9%, enhance all Time Essence Slash, last for 8 seconds (EP Consumption: 20 – Cooldown: 25s)",
+        "active": {
+            "desc": "Increase physical damage deal by wielder by 24,9%, enhance all Time Essence Slash, last for 8 seconds ",
+            "sp": "20",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive skill: On hit release a Time Essence Slash, with physical damage 80% based on attack power, cooldown 0.8 seconds. Each Time Essence Slash has 15% chance to be enhanced, deal physical damage 159% based on attack power"
         ],
@@ -2432,7 +2987,11 @@
         "crit": "8",
         "category": "cross",
         "rank": "1",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Skill: None"
         ],
@@ -2447,7 +3006,11 @@
         "crit": "14",
         "category": "cross",
         "rank": "2",
-        "active": "Summon cross and deploy: for 8 seconds, per each 1.0 second fire an ice shell at one random enemy inside cross field, shell explode deal small AOE 514 ice elemental damage and slow target attack speed by 50%, last for 0.8 second (EP Consumption: 14 – Cooldown: 13s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 8 seconds, per each 1.0 second fire an ice shell at one random enemy inside cross field, shell explode deal small AOE 514 ice elemental damage and slow target attack speed by 50%, last for 0.8 second ",
+            "sp": "14",
+            "cooldown": "13"
+        },
         "passive": [],
         "debuffs": [
             "slow"
@@ -2464,7 +3027,11 @@
         "crit": "2",
         "category": "cross",
         "rank": "2",
-        "active": "Summon cross and deploy: for 8 seconds, per each 0/9 second fire a bomb shell at one random enemy inside cross field, shell explode deal small AOE 740 physical damage (EP Consumption: 15 – Cooldown: 13s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 8 seconds, per each 0/9 second fire a bomb shell at one random enemy inside cross field, shell explode deal small AOE 740 physical damage ",
+            "sp": "15",
+            "cooldown": "13"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2477,7 +3044,11 @@
         "crit": "55",
         "category": "cross",
         "rank": "2",
-        "active": "Summon cross and deploy: for 8 seconds, per each 0.6 second fire a flaming shell at one random enemy inside cross field, shell explode deal small AOE 476 fire elemental damage (EP Consumption: 15 – Cooldown: 13s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 8 seconds, per each 0.6 second fire a flaming shell at one random enemy inside cross field, shell explode deal small AOE 476 fire elemental damage ",
+            "sp": "15",
+            "cooldown": "13"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -2492,7 +3063,11 @@
         "crit": "10",
         "category": "cross",
         "rank": "2",
-        "active": "Summon cross and deploy: for 8 seconds, inflict burn status to enemy inside cross field, deal 445 fire elemental damage per each 0.5 second (EP Consumption: 20 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 8 seconds, inflict burn status to enemy inside cross field, deal 445 fire elemental damage per each 0.5 second ",
+            "sp": "20",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [
             "burn"
@@ -2509,7 +3084,11 @@
         "crit": "50",
         "category": "cross",
         "rank": "2",
-        "active": "Summon cross and deploy: for 8 seconds, add 118 ice elemental damage for allies inside cross field (EP Consumption: 18 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 8 seconds, add 118 ice elemental damage for allies inside cross field ",
+            "sp": "18",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -2524,7 +3103,11 @@
         "crit": "12",
         "category": "cross",
         "rank": "3",
-        "active": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 1077 fire elemental damage in cross field (EP Consumption: 18 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 1077 fire elemental damage in cross field ",
+            "sp": "18",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [
@@ -2539,7 +3122,11 @@
         "crit": "10",
         "category": "cross",
         "rank": "3",
-        "active": "Summon cross and deploy: for 7 seconds, per each 0.8 second fire a wave of flame toward one random enemy in cross field, deal 675 fire elemental damage, inflict burn status, dealing 160 fire elemental damage per each 0.5 second, last for 3 seconds (EP Consumption: 20 – Cooldown: 15s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 7 seconds, per each 0.8 second fire a wave of flame toward one random enemy in cross field, deal 675 fire elemental damage, inflict burn status, dealing 160 fire elemental damage per each 0.5 second, last for 3 seconds ",
+            "sp": "20",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [
             "burn"
@@ -2556,7 +3143,11 @@
         "crit": "31",
         "category": "cross",
         "rank": "3",
-        "active": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 834 lightning elemental damage in cross field, inflict 0.7 second paralysis status (EP Consumption: 15 – Cooldown: 15s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 6 seconds, per each 1.5 seconds deal 834 lightning elemental damage in cross field, inflict 0.7 second paralysis status ",
+            "sp": "15",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [
             "paralyze"
@@ -2573,7 +3164,11 @@
         "crit": "22",
         "category": "cross",
         "rank": "3",
-        "active": "Summon cross and deploy: for 7 seconds, enhance all allies physical damage basic attack in cross field(branch attack and charge attack included) by 28.4% (EP Consumption: 17 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 7 seconds, enhance all allies physical damage basic attack in cross field(branch attack and charge attack included) by 28.4% ",
+            "sp": "17",
+            "cooldown": "12"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2586,7 +3181,11 @@
         "crit": "17",
         "category": "cross",
         "rank": "3",
-        "active": "Summon cross and deploy: for 8 seconds, per each 0.8 second drop candy to one random enemy in cross field, deal small AOE 662 physical damage (EP Consumption: 15 – Cooldown: 15s)",
+        "active": {
+            "desc": "Summon cross and deploy: for 8 seconds, per each 0.8 second drop candy to one random enemy in cross field, deal small AOE 662 physical damage ",
+            "sp": "15",
+            "cooldown": "15"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2599,7 +3198,11 @@
         "crit": "32",
         "category": "cross",
         "rank": "4",
-        "active": "Summon cross and deploy: inflict 6 seconds shackle status to the surrounding enemies and fire 13 holy javelins, that will drop from above on random target, each dealing lightning elemental damage based on 282% attack power (EP Consumption: 16 – Cooldown: 13s)",
+        "active": {
+            "desc": "Summon cross and deploy: inflict 6 seconds shackle status to the surrounding enemies and fire 13 holy javelins, that will drop from above on random target, each dealing lightning elemental damage based on 282% attack power ",
+            "sp": "16",
+            "cooldown": "13"
+        },
         "passive": [
             "Passive Skill: 20% on-hit chance to imbue a 6 second-timed holy light seal that on-hit deal 650 electric elemental damage, cooldown 13s"
         ],
@@ -2618,7 +3221,11 @@
         "crit": "45",
         "category": "cross",
         "rank": "4",
-        "active": "Summon cross and deploy: inflict 2 seconds float status to surrounding enemies, cross spin dealing 200.6% physical damage based on attack power per every 0.25 second, inflict 5 seconds bleeding status to caught enemies, dealing 757 physical damage per every 0.5 second (EP Consumption: 24 – Cooldown: 10s)",
+        "active": {
+            "desc": "Summon cross and deploy: inflict 2 seconds float status to surrounding enemies, cross spin dealing 200.6% physical damage based on attack power per every 0.25 second, inflict 5 seconds bleeding status to caught enemies, dealing 757 physical damage per every 0.5 second ",
+            "sp": "24",
+            "cooldown": "10"
+        },
         "passive": [
             "Passive Skill: Increase physical damage against bleeding status enemy by 40%"
         ],
@@ -2636,7 +3243,11 @@
         "crit": "53",
         "category": "cross",
         "rank": "4",
-        "active": "Summon cross and deploy: summon a 3.5 seconds field that attack surrounding enemies with sakura blade, dealing 179.9% physical attack based on attack power per every 0.3 second, have 21.2% on-hit chance to put 1 Sakura Mark Counter on enemy. When target enemy’s Sakura Mark Counter go higher than 3, the Counter will be reset and put a Sakura Mark on target enemy (EP Consumption: 20 – Cooldown: 12s)",
+        "active": {
+            "desc": "Summon cross and deploy: summon a 3.5 seconds field that attack surrounding enemies with sakura blade, dealing 179.9% physical attack based on attack power per every 0.3 second, have 21.2% on-hit chance to put 1 Sakura Mark Counter on enemy. When target enemy’s Sakura Mark Counter go higher than 3, the Counter will be reset and put a Sakura Mark on target enemy ",
+            "sp": "20",
+            "cooldown": "12"
+        },
         "passive": [
             "Passive Skill: Have 59.9% on-hit chance to summon a circular field that attack enemy with sakura petals at enemy location, dealing 199.5% physical attack based on power, have 6 seconds cooldown. Deal further 440 fire elemental damage against enemy having a Sakura Mark or Sakura Mark Counter. When equipped on Sakurahi Rondo, sakura petals increase Sakura Mark Counter by 1"
         ],
@@ -2653,7 +3264,11 @@
         "crit": "29",
         "category": "cross",
         "rank": "4",
-        "active": "Summon cross and deploy: summon a 6 seconds field, cut 3 times per every 1 second randomly to enemies in field, each cut deal 664 physical damage, inflict 5 second weaken status, reduce their attack power by 50%",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: Increase physical damage against weaken status enemy by 35%"
         ],
@@ -2670,7 +3285,11 @@
         "crit": "41",
         "category": "cross",
         "rank": "4",
-        "active": "Summon cross and deploy: summon a 10 seconds field, increase allies Valkyrja & Summon unit critical chance by 10%. Attack enemy inside field and its small surrounding per each 1.0 second, dealing 5*50% physical damage based on attack power (EP Consumption: 18 – Cooldown:15s)",
+        "active": {
+            "desc": "Summon cross and deploy: summon a 10 seconds field, increase allies Valkyrja & Summon unit critical chance by 10%. Attack enemy inside field and its small surrounding per each 1.0 second, dealing 5*50% physical damage based on attack power ",
+            "sp": "18",
+            "cooldown": ":15"
+        },
         "passive": [
             "Passive Skill: On hit against vulnerable status enemy, have 39.9% chance to heal whole squad by 74 HP, 3 seconds cooldown"
         ],
@@ -2685,7 +3304,11 @@
         "crit": "36",
         "category": "cross",
         "rank": "4",
-        "active": "Summon cross and deploy: summon a 10 seconds field, every 1.5 second shoots a light beam to a random enemy within range that deals physical damage based on 320.1% attack power, apply stun status to enemy. Last for 6s. Stun status enemy take extra 30% physical damage (EP Consumption: 20 – Cooldown:18s)",
+        "active": {
+            "desc": "Summon cross and deploy: summon a 10 seconds field, every 1.5 second shoots a light beam to a random enemy within range that deals physical damage based on 320.1% attack power, apply stun status to enemy. Last for 6s. Stun status enemy take extra 30% physical damage ",
+            "sp": "20",
+            "cooldown": ":18"
+        },
         "passive": [
             "Passive Skill: Increase  all-damage against stun status enemy by 40.0%"
         ],
@@ -2703,7 +3326,11 @@
         "crit": "8",
         "category": "gauntlet",
         "rank": "2",
-        "active": "(None)",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2716,7 +3343,11 @@
         "crit": "13",
         "category": "gauntlet",
         "rank": "3",
-        "active": "[EP Consumption: 10] [Cooldown: 10 seconds] Release a shockwave, deal 450% physical damage based on attack power to enemy in front",
+        "active": {
+            "desc": "",
+            "sp": "10",
+            "cooldown": "10"
+        },
         "passive": [],
         "debuffs": [],
         "elements": [],
@@ -2729,7 +3360,11 @@
         "crit": "20",
         "category": "gauntlet",
         "rank": "3",
-        "active": "[EP Consumption: 12] [Cooldown: 14 seconds] Raise a wave air around self, dealing 450% physical damage to surrounding enemy and inflicts float status on them",
+        "active": {
+            "desc": "",
+            "sp": "12",
+            "cooldown": "14"
+        },
         "passive": [],
         "debuffs": [
             "float"
@@ -2744,7 +3379,11 @@
         "crit": "21",
         "category": "gauntlet",
         "rank": "3",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill: On hit has 17% chance to deal 700 fire elemental damage"
         ],
@@ -2761,7 +3400,11 @@
         "crit": "40",
         "category": "gauntlet",
         "rank": "4",
-        "active": "[EP consumption: 5] [Cooldown: 16 seconds] Grant a enhancement buff. While the effect is active, increase all squad members recovery effect by 30%, increase Valkyrja own attack speed by 40%, last for 8 seconds",
+        "active": {
+            "desc": "",
+            "sp": "5",
+            "cooldown": "16"
+        },
         "passive": [
             "Passive Skill: Increase EP gained via attack by 25%"
         ],
@@ -2776,7 +3419,11 @@
         "crit": "23",
         "category": "gauntlet",
         "rank": "4",
-        "active": "[EP consumption: 14] [Cooldown: 20 seconds] Pull the target in front of Valkyrja, deal 450% physical damage based on attack power, slow its speed by 80%, last for 5 seconds",
+        "active": {
+            "desc": "",
+            "sp": "14",
+            "cooldown": "20"
+        },
         "passive": [
             "Passive Skill: When hitting an enemy with branch attack, deals 2500 physical damage to the surrounding enemies, cooldown 1.5 seconds"
         ],
@@ -2793,14 +3440,16 @@
         "crit": "35",
         "category": "gauntlet",
         "rank": "4",
-        "active": "[EP consumption: 17] [Cooldown: 25 seconds] Summon 3 projectile Xuanyuan swords. Each projectile deals 1500 fire elemental damage, and spacetime lock on-hit enemy for 4.5 seconds",
+        "active": {
+            "desc": "",
+            "sp": "17",
+            "cooldown": "25"
+        },
         "passive": [
             "Passive Skill: Increase all-damage dealt by Valkyrja by 8% upon hitting an enemy with normal, branch, ultimate, tag-in/QTE attack, last for 8 seconds. The effect can be overlapped itself by re-activating it via different type of attack. If overlapping is successful, refresh the duration"
         ],
         "debuffs": [],
-        "elements": [
-            "fire"
-        ],
+        "elements": [],
         "image": "http://houkai3rd.arthobbylab.com/wp-content/uploads/sites/2/2018/03/fist-of-taixu.jpg",
         "nameJP": "の太虚の拳"
     },
@@ -2810,7 +3459,11 @@
         "crit": "32",
         "category": "gauntlet",
         "rank": "4",
-        "active": "[EP consumption: 15] [Cooldown: 20 seconds] Deal 600% physical damage based on attack power to enemy in front, inflict bleed status on on-hit enemy, deal 500 physical damage based on attack power per 0.5 second, last for 8 seconds",
+        "active": {
+            "desc": "",
+            "sp": "15",
+            "cooldown": "20"
+        },
         "passive": [
             "Description: This “God Throne” weapon was made using a special material called “The Black Soul of Steel” by Schiksal Organization. The name came from the Celtic’s Silver Hand War God. At first, many attempts were made with the intention having the silver color to hide the original color, however the blackness which represents the bad omen still shows out on its surface",
             "Passive Skill: Increase lightning elemental damage dealt through attack by 40%"
@@ -2830,7 +3483,11 @@
         "crit": "24",
         "category": "gauntlet",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "Passive Skill 1: 20% chance to deal extra 300% fire elemental damage against burn enemy or enemy inflicted with Lingering Fire. Can only be triggered every 1.5 second for each enemy",
             "Passive Skill 2: Negate an attack from a burn enemy or enemy inflicted with Lingering Fire. Cooldown 40 seconds. Increase character elemental damage by 20%, also increase fire elemental damage by 20%"
@@ -2848,7 +3505,11 @@
         "crit": "11",
         "category": "gauntlet",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "◆ Active Skill.  EP Consumption: 18 – Cooldown: 35 seconds. Pull surrounding enemies towards user, paralyze them for 5 seconds. The next 5 seconds after triggering this skill, the next attack deals extra 1000% physical damage based on attack power to the target and all enemies surrounding it and knocks them back. ◆ Passive Skill.  When combo is above 50 hits, increase defense power by 40%.  Increase all damage dealt against Biological type enemy by 20%"
         ],
@@ -2863,7 +3524,11 @@
         "crit": "24",
         "category": "gauntlet",
         "rank": "4",
-        "active": "",
+        "active": {
+            "desc": "",
+            "sp": "",
+            "cooldown": ""
+        },
         "passive": [
             "◆ Active Skill. EP Consumption: 11 – Cooldown: 30 seconds. After activating, continuously release shockwave, deal 50% physical damage based on attack power to surrounding enemies every 0.5 second. Plus, decrease damage taken from side, back of user by 65%, last for 10 seconds",
             "◆ Passive Skill. Every time the attack hits an enemy, increase user physical damage dealt by 3%, last for 3 seconds, stack up to 10 times, each stack has its own countdown Increase critical rate against spacetime decelerated, slowed enemy by 10%"
